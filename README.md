@@ -7,7 +7,7 @@ PC control for ZWO Seestar S30, S30 Pro, S50 and S50 Pro. © 2026 TheSkyCoder.
 
 Unofficial desktop app (Windows, macOS, Linux) for controlling all current Seestar models over **Wi-Fi** (same network) and **Bluetooth LE**. Not made by ZWO – use at your own risk.
 
-*Deutsche Fassung: [README.de.md](README.de.md)*
+**📖 Step-by-step user manual: [MANUAL.md](MANUAL.md)** · *Deutsche Fassung: [README.de.md](README.de.md)*
 
 ## Installation (Windows)
 

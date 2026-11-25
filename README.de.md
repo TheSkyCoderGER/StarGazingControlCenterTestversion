@@ -7,7 +7,7 @@ PC-Steuerung für ZWO Seestar S30, S30 Pro, S50 und S50 Pro. © 2026 TheSkyCoder
 
 Inoffizielle Desktop-App (Windows, macOS, Linux) zur Steuerung aller aktuellen Seestar-Modelle über **WLAN** (gleiches Netzwerk) und **Bluetooth LE**. Nicht von ZWO – Nutzung auf eigenes Risiko.
 
-*English version: [README.md](README.md)*
+*English version: [README.md](README.md)* · **📖 Bedienungsanleitung (englisch): [MANUAL.md](MANUAL.md)**
 
 ## Installation (Windows)
 
