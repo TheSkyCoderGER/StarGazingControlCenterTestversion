@@ -1,0 +1,1552 @@
+# name: Italiano
+4	Blu
+5	Notte (rosso)
+6	Scuro
+9	Filtro LP (dual band)
+10	50 mm · 260 mm · f/5,2 (+ grandangolo 63°)
+11	ca. 1,6° × 2,8°
+12	Filtro dual band (OIII/Hα)
+13	30 mm · 150 mm · f/5 (+ grandangolo)
+15	Filtro LP
+16	30 mm · 160 mm · f/5,3 (+ grandangolo 63°)
+18	Stelle / cielo profondo
+19	Luna
+20	Sole (solo con filtro solare!)
+21	Paesaggio
+22	Off
+23	On
+24	Stacking
+25	Esposizione per frame
+26	60 s (solo EQ, massimo)
+27	80 (predefinito)
+28	Scegli filtro automaticamente
+29	Distanza dithering
+30	Dithering ogni … frame
+31	Calibrazione dark
+32	Salva singoli frame
+33	No
+34	Solo frame buoni
+35	Tutti i frame
+36	Acquisizione in serie (senza stacking)
+37	Modalità 4K (drizzle 2×)
+38	Estrazione del fondo (DBE)
+39	Stacking automatico dopo il GoTo
+40	Fuoco
+41	AF intelligente (GoTo/temperatura)
+42	Autofocus prima dello stacking
+43	Dispositivo
+44	Riscaldatore anticondensa
+45	Spegnimento automatico
+46	Unità di temperatura
+47	Calibra allineamento polare EQ
+48	Chiudi il braccio dopo il piano Seestar
+49	Modalità esperto
+50	Vista live
+51	Zoom (Sole/Luna/pianeta)
+52	Esposizione immagine live
+53	Grandangolo
+54	Usa la camera grandangolare
+55	Grandangolo in 4K
+56	Riduzione rumore grandangolo
+59	AR vuota
+60	L'AR deve essere tra 0 e 24 h
+61	Dec vuota
+62	La Dec deve essere tra -90° e +90°
+63	M31 Galassia di Andromeda
+64	M33 Galassia del Triangolo
+65	M45 Pleiadi
+66	M42 Nebulosa di Orione
+67	M1 Nebulosa del Granchio
+68	NGC 2244 Nebulosa Rosetta
+69	M81 Galassia di Bode
+70	M101 Galassia Girandola
+71	M51 Galassia Vortice
+72	M13 Ammasso di Ercole
+73	M57 Nebulosa Anello
+74	M27 Nebulosa Manubrio
+75	NGC 7000 Nebulosa Nord America
+76	IC 1396 Proboscide d'Elefante
+77	NGC 6992 Nebulosa Velo Est
+78	IC 1805 Nebulosa Cuore
+79	IC 1848 Nebulosa Anima
+80	Servizio di localizzazione di Windows
+81	preciso (spesso da pochi metri a km); la posizione resta sul tuo PC. L'impostazione Windows «Posizione» deve essere consentita per le app desktop.
+82	Posizione dal Seestar
+83	la posizione che l'app Seestar sul telefono ha salvato nel telescopio; viene solo letta dal tuo Seestar.
+84	Approssimativa, tramite indirizzo Internet
+85	Precisione di solito città/regione (ca. 5–50 km). Il tuo indirizzo IP pubblico viene inviato a un servizio (freeipapi.com o ipwho.is).
+87	Il punto cardinale non corrisponde
+88	numero non valido
+89	Formato
+90	fuori dall'intervallo valido
+91	disponibile solo su Windows
+92	Interfaccia Windows mancante (pip install winrt-Windows.Devices.Geolocation)
+93	Accesso negato – Impostazioni di Windows › Privacy › Posizione: attivare «Consenti alle app desktop di accedere alla posizione»
+94	Accesso negato – attivare il servizio di localizzazione di Windows e l'accesso per le app desktop
+95	Posizione Windows non disponibile: {0}
+98	nessuna coordinata
+99	Richiesta Internet non riuscita ({0})
+100	nessun dato
+101	Nebulosa a emissione
+102	Resto di supernova
+103	Nebulosa planetaria
+104	Ammasso + nebulosa
+105	Nebulosa
+108	più grande del campo – mosaico {0}×{1}
+109	piccolo nell'immagine
+110	ideale con filtro a banda stretta
+111	adatto al filtro a banda stretta
+112	Luna a soli {0}°
+113	Lun
+114	Mar
+115	Mer
+116	Gio
+117	Ven
+118	Sab
+119	Dom
+120	Connessione a {0}:{1} non riuscita: {2}
+121	Connessione TCP a {0}:{1} stabilita.
+122	Nessuna chiave PEM impostata – con firmware da ca. 7.18 i comandi senza login possono essere rifiutati.
+123	Disconnesso.
+124	Non connesso.
+125	Invio non riuscito: {0}
+126	Nessuna risposta a {0} (timeout {1} s)
+127	Il Seestar ha chiuso la connessione.
+128	Errore di ricezione: {0}
+130	Nessuna risposta da {0} s – connessione considerata interrotta.
+131	Pacchetto 'cryptography' mancante – pip install cryptography
+132	Impossibile caricare la chiave PEM: {0}
+133	Nessuna challenge di login ricevuta (Seestar occupato o firmware vecchio).
+134	Login riuscito.
+135	Login non riuscito: {0}
+136	Dimensione immagine inattesa {0} byte per {1}×{2}
+137	Canale immagini {0}:{1} non raggiungibile: {2}
+138	Canale immagini connesso.
+139	Canale immagini: invio non riuscito: {0}
+140	Impossibile decodificare l'immagine: {0}
+141	Canale immagini disconnesso.
+142	(senza nome)
+143	BLE disconnesso.
+144	BLOCCATO: «{0}» chiuderebbe il braccio – protezione del braccio attiva ({1}). Rimuovi il filtro e toglilo nella scheda «Fuoco e filtri».
+145	connessione …
+146	riconnessione …
+147	Connessione a {0} …
+148	Connessione interrotta – riconnessione automatica …
+149	Riconnesso (tentativo {0}).
+150	Connessione caduta di nuovo subito – riprovo.
+151	Modello rilevato: {0} (firmware {1})
+152	Modello non riconosciuto ({0}).
+153	non indicato
+159	60 s saltato – il dispositivo è in modalità alt-az (60 s solo in modalità EQ).
+160	Impostazione «{0}» non accettata: {1}
+161	Anteprima live richiesta (il Seestar deve essere in modalità stelle/Luna).
+162	Immagine di stack attuale richiesta …
+163	Nessun filtro esterno
+164	LP a banda larga
+165	Filtro taglia UV/IR
+166	Filtro nebulare (UHC)
+167	Dual band
+168	Tri band
+169	Quad band
+170	Riga singola
+171	banda larga, attenua le righe di sodio/mercurio
+172	Hα + OIII 7 nm ciascuna, per ottiche molto luminose
+173	Hβ, OIII, Hα, SII – bande larghe
+174	City Light Suppression con taglio IR
+175	Hβ+OIII e Hα
+176	Tipo neodimio, attenua la luce al sodio
+177	blocca UV e IR
+178	Hβ (più che altro visuale)
+179	quattro righe nebulari, larghe
+180	Filtro anti inquinamento luminoso a banda larga
+181	blocca l'IR
+182	LP a banda larga, taglio IR
+183	LP a banda larga per luce LED, taglio IR
+184	Filtro nebulare, taglio IR
+185	495 nm e 660 nm, 35 nm ciascuna
+186	Hα + OIII, larga
+187	Filtro nebulare, piuttosto largo
+188	Neodimio, attenua la luce al sodio
+189	Filtro nebulare
+190	Filtro nebulare, un po' più largo
+191	Filtro nebulare (visuale)
+192	OIII, largo (visuale)
+193	Hβ, largo (visuale)
+194	Filtro a riga singola su sensore a colori: solo i pixel rossi ricevono luce, l'immagine diventa monocromatica e molto più scura. Per il Seestar i filtri dual band sono di solito la scelta migliore.
+195	Filtro a riga singola su sensore a colori: solo i pixel verdi e blu ricevono luce, l'immagine diventa monocromatica e molto più scura. Per il Seestar i filtri dual band sono di solito la scelta migliore.
+196	Abbastanza luminoso – l'autofocus del Seestar di solito funziona.
+197	Molto scuro – solo autofocus dell'app con esposizione lunga; spesso troppa poca luce per frame da 10 s (EQ + 30–60 s).
+198	L'autofocus del Seestar fallisce spesso – usa l'autofocus dell'app.
+199	L'autofocus del Seestar funziona a volte; quello dell'app è più affidabile.
+200	 In realtà pensato per l'osservazione visuale – in fotografia spesso troppo largo e con riflessi.
+201	L'autofocus del Seestar funziona normalmente.
+202	I filtri da 2" (apertura libera di solito 46–48 mm) diaframmano solo minimamente l'apertura da 50 mm – praticamente nessuna perdita di luce.
+203	I filtri da 2" coprono completamente l'apertura da 30 mm.
+204	I filtri da 2" si adattano a tutti i modelli Seestar con un supporto adatto.
+205	Canale immagini non raggiungibile
+206	Posizione del fuoco non leggibile
+207	Autofocus: l'ottimo è al bordo dell'intervallo di ricerca – eventualmente ripetere con un intervallo più ampio.
+208	Autofocus: troppe poche stelle trovate – ritorno alla posizione iniziale.
+209	Ferma lo stacking, il braccio resta aperto
+210	Parcheggia (chiudi braccio)
+211	Parcheggia e spegni
+212	Il dispositivo non è tornato – sequenza in pausa. Potrà essere ripresa più tardi.
+213	{0} · connessione persa, attesa ({1}:{2})
+214	GoTo rifiutato: {0}
+215	GoTo verso {0} non riuscito.
+216	Nessuna fine del GoTo segnalata – si prosegue comunque.
+217	{0} · fuoco ({1})
+218	Nessuna posizione di fuoco salvata – il fuoco resta invariato.
+219	Autofocus dell'app senza risultato – usata la posizione salvata.
+220	{0} · verifico se il Seestar sta ancora facendo stacking …
+221	{0}: il Seestar ha continuato lo stacking durante l'interruzione – si prosegue.
+222	{0}: lo stacking non è continuato – nuovo puntamento del target.
+223	{0} · ancora {1}:{2}:{3}
+224	{0} non raggiunge {2}° nelle prossime {1} h – saltato.
+225	{0} · attesa di {1}° di altezza · ancora {2}:{3}
+226	«{0}» avviato: {1} passo/i.
+227	{0} · ripresa …
+228	{0} · GoTo
+229	{0} viene saltato.
+230	Errore della sequenza: {0}
+231	Sequenza annullata. Il braccio resta aperto.
+232	Sequenza in pausa al passo {0}. Il Seestar continua lo stacking del passo attuale; potrai riprendere alla prossima connessione.
+233	Fine del piano: «{0}» saltato – protezione del braccio attiva (filtro esterno). Stacking fermato, il braccio resta aperto.
+234	Fine del piano
+235	«{0}» completato – il braccio resta aperto.
+236	«{0}» completato – il Seestar si parcheggia.
+237	«{0}» completato – il Seestar si parcheggia e si spegne.
+238	Nessun dispositivo
+240	Applica a tutti i selezionati
+241	Valori consigliati
+242	⟳ Leggi dal dispositivo
+244	Le modifiche vanno subito a questo dispositivo. «–» = valore non (ancora) segnalato dal dispositivo.
+245	Modalità di avvio
+246	Avvia (apri braccio)
+247	Nessun dispositivo selezionato
+248	Modello sconosciuto
+249	Ottica {0} · sensore {1} · campo {2}
+250	Il modello viene rilevato alla connessione o scelto in alto a destra.
+251	L'esposizione da 60 s esiste solo in modalità EQ – e lì 60 s è anche il massimo.\n\n
+252	Questo dispositivo è in modalità alt-az.
+253	La modalità di questo dispositivo non è ancora nota.
+254	\nPassa alla modalità EQ nella scheda «Modalità EQ» e allinea il dispositivo.
+255	non connesso – «{0}» verrà inviato al prossimo trasferimento.
+256	Valori consigliati impostati.
+257	Nessun altro dispositivo connesso nel gruppo.
+258	Impostazioni riprese da «{0}».
+259	Il filtro solare è davvero montato?
+260	▶ Live
+261	Immagine di stack
+262	■ Stop
+263	Stack automatico
+264	💾 PNG
+265	⧉ Finestra separata
+266	Stretch:
+267	collegato
+268	Schermo intero (F11)
+269	Sempre in primo piano
+270	Finestra spostabile liberamente, ad es. su un secondo monitor – la posizione viene ricordata.
+271	Nessuna immagine
+272	Nessun dispositivo selezionato.
+273	 · {0} frame
+274	Ancora nessuna immagine.
+275	Salvato: {0}
+278	Automatica (lingua di sistema)
+279	Lingua:
+280	Lingua: {0}
+281	Salva nuovo file di lingua
+282	Testo
+283	Salvato: {0}\n\nInserisci le traduzioni, adatta la prima riga («# name: …») e metti il file nella cartella «lang».
+284	La nuova dimensione verrà applicata al prossimo avvio dell'app.
+294	Tema:
+295	Dimensione:
+296	Dispositivo attivo:
+297	● Nessun dispositivo
+298	Comandi a:
+299	dispositivo attivo
+300	tutti i selezionati
+301	↺ Ripristina pagina
+302	Modello:
+303	rilevamento auto
+305	Registro
+306	Panoramica
+307	Aggiungi dispositivo
+308	Nome:
+309	Indirizzo IP:
+310	＋ Aggiungi
+311	🔍 Cerca nella rete
+312	Dispositivi
+313	Clic su una riga = dispositivo attivo (»)  ·  Doppio clic = finestra di anteprima  ·  Casella = il dispositivo fa parte del gruppo
+314	Dispositivo attivo (»)
+315	Rinomina
+316	Rimuovi
+317	Sposta su
+318	Sposta giù
+319	Gruppo – vale per tutti i dispositivi selezionati contemporaneamente
+320	Connetti tutti
+321	Disconnetti tutti
+322	🖼 Apri tutte le anteprime
+323	Ora + posizione
+324	Trasferisci impostazioni del dispositivo attivo
+325	Apri braccio
+326	Autofocus
+327	▶ Avvia stacking
+328	■ Ferma stacking
+329	GoTo (target da «Controllo»)
+330	Parcheggia
+331	Parcheggiare tutti i dispositivi selezionati?
+332	■ ARRESTO DI EMERGENZA tutti
+333	Meteo e consigli
+334	Aggiorna
+335	Scarica dati meteo (open-meteo.com)
+336	La prossima notte
+337	48 ore: nuvole, pioggia, buio, Luna
+338	Barre: copertura nuvolosa totale · strisce in alto: nuvole basse / medie / alte · linea blu: probabilità di pioggia · linea gialla: altezza della Luna · sfondo: più è scuro, più il cielo è buio
+339	Cosa conviene riprendere stanotte?
+340	Alt. min.:
+341	Ricalcola
+342	Crea piano per stanotte
+343	Oggetto
+344	Nome
+345	Tipo
+346	ora migliore
+347	alt. max.
+348	ore buone
+349	Dist. Luna
+350	Nota
+351	GoTo (target da «Comandi a»)
+352	→ Pianificazione
+353	→ Mosaico
+354	Dati meteo: Open-Meteo.com (CC BY 4.0) · Sole/Luna calcolati localmente
+355	Scaricare i dati meteo?\n\nPer questo l'app invia la tua posizione, arrotondata a ca. 1 km, al servizio meteo gratuito open-meteo.com (senza account, senza altri dati). Puoi disattivarlo qui in qualsiasi momento.
+356	Nessuna posizione – impostala nella scheda «Posizione».
+357	Caricamento meteo …
+358	Meteo non disponibile: {0}
+359	Windows
+360	Internet
+361	Posizione
+362	Nessuna posizione impostata
+363	Meteo disattivato – spunta la casella a destra per caricare le previsioni di nuvole e pioggia. Buio e Luna vengono mostrati comunque.
+364	Meteo del {0} · fonte della posizione: {1}
+365	Nessuna posizione
+366	Impostala nella scheda «Posizione» – così avrai orari notturni, meteo e consigli.
+367	Nessuna vera notte
+368	Il Sole non scende abbastanza nelle prossime 24 ore.
+369	buio astronomico
+370	solo crepuscolo nautico (estate)
+371	solo crepuscolo civile
+372	Buio: {0} {1} – {2} ({3} h, {4})
+373	Sereno (≤ 30 % di nuvole): {0} h
+374	Fase migliore: {0} – {1}
+375	Probabilità di pioggia: fino al {0} %
+376	Distanza dal punto di rugiada: min. {0} °C
+377	 → accendi il riscaldatore anticondensa!
+378	Raffiche fino a {0} km/h
+379	 → il Seestar vibra, esposizioni più brevi
+380	● Buona notte per fotografare
+381	● Parzialmente utilizzabile
+382	● Meglio di no – troppo nuvoloso
+383	Buio e Luna (senza meteo)
+384	Luna: illuminata al {0} %, a mezzanotte alta {1}°
+385	Luna: illuminata al {0} %, a mezzanotte sotto l'orizzonte
+386	Luna luminosa: nebulose con filtro a banda stretta, galassie meglio in altri giorni.
+387	Senza dati meteo – solo buio e Luna
+388	Crepuscolo
+389	Giorno
+390	{0} {1} · cielo: {2} · Luna {3}° ({4} %)
+391	 · nuvole {0} % (basse {1}, medie {2}, alte {3}) · pioggia {4} % · {5} °C, punto di rugiada {6} °C · raffiche {7} km/h
+392	Per {0}
+393	 con {0}
+394	 senza filtro esterno
+395	 · preferisce nebulose a emissione
+396	Seleziona prima un oggetto nell'elenco.
+397	Pianificazioni
+398	Mosaico
+399	Ancora nessun consiglio – imposta la posizione e «Ricalcola».
+400	Impossibile creare un piano sensato per stanotte.
+401	Proposta per stanotte:\n\n{0}\n\nAdottarla come nuova pianificazione? (Il piano aperto nell'editor verrà sostituito, i piani salvati restano.)
+402	Notte {0}
+403	Piano con {0} target creato per stanotte – controlla e salva.
+404	Controllo
+405	Impostazioni
+406	Fuoco e filtri
+407	Modalità EQ
+408	Anteprima
+409	Console
+410	Rimetti tutti i dispositivi nel gruppo e svuota i campi. L'elenco dei dispositivi resta.
+411	Ricerca, filtri di tipo e altezza e ordinamento ai valori predefiniti.
+412	Altezza minima 30°, ricalcola i consigli. Il consenso meteo resta com'è.
+413	Riconnessione automatica di nuovo attiva, campo indirizzo IP svuotato, percorso della chiave PEM rimosso.
+414	Elimina posizione e consenso – l'app chiederà di nuovo al prossimo avvio.
+415	Velocità 1000, durata 2 s, svuota i campi target.
+416	Invia valori consigliati al dispositivo attivo (10 s, gain 80, dithering 50 px ogni 5, calibrazione dark attiva, salva solo frame buoni, riscaldatore spento).
+417	Griglia 2×2, sovrapposizione 20 %, 30 min per pannello, framing 2×, 0°, 120 min, svuota target.
+418	Svuota l'editor (nuovo piano) e campi ai valori predefiniti. I piani salvati restano.
+419	Impostazioni autofocus adatte al filtro, intervallo di ricerca ±80, passo 10, svuota curva. Filtro, protezione del braccio e posizioni di fuoco salvate restano.
+420	Posizione iniziale 3, intervallo ±2°, rimisurazione automatica attiva, test 60 s / 10 min, misura live disattivata.
+421	Stretch 0,20, non collegato, non lineare, stack automatico attivo.
+422	Svuota l'elenco, «Solo Seestar» attivo, campo di scrittura predefinito.
+423	Metodo get_device_state, svuota parametri e output.
+424	Ripristinare la pagina «{0}» alle impostazioni predefinite?\n\n{1}
+425	Pagina «{0}» ripristinata alle impostazioni predefinite.
+426	Tutti
+427	sopra 20°
+428	Nessun dispositivo attivo – i valori verranno applicati al prossimo dispositivo.
+429	Impostazione del dispositivo
+430	La mia notte
+431	3 (predefinito, in alto)
+432	Cerca:
+433	Tipo:
+434	Galassie
+435	Ammassi stellari
+436	Nebulose planetarie
+437	Resti di supernova
+438	Altezza ora:
+439	sopra 0°
+440	sopra 30°
+441	sopra 45°
+442	solo Messier e con nome
+443	Magn.
+444	Dimensione
+445	Alt. ora
+446	Direzione
+447	Culminazione
+448	Campo
+449	Seleziona un oggetto.
+450	▶ GoTo + live (target da «Comandi a»)
+451	GoTo su tutti i selezionati
+452	Solo puntare
+453	→ Controllo
+454	Seestar nella rete
+455	🔍 Cerca
+456	(Modalità station: IP dal router/app Seestar · modalità AP: 10.0.0.1)
+457	Chiave PEM:
+458	Necessaria solo con firmware recenti – vedi README.
+459	Connetti (come dispositivo attivo)
+460	Disconnetti l'attivo
+461	Accedi di nuovo
+462	Procedura guidata
+463	Aggiungi lingua …
+464	Ripristina tutto …
+465	Riconnetti automaticamente in caso di interruzione (tutti i dispositivi)
+466	Inizializzazione (invia ora e posizione al Seestar)
+467	Posizione: –
+468	Invia ora + posizione
+469	Cambia posizione …
+470	(va al target di «Comandi a»)
+471	Stato del dispositivo
+472	Leggi stato
+473	Posizione attuale
+474	Ancora nessuna posizione impostata.
+475	Invia ora + posizione al Seestar
+476	  (target da «Comandi a»)
+477	Usata per: ora e posizione sul Seestar, altezza e culminazione degli oggetti nella scheda GoTo, altezza minima nelle pianificazioni, angolo del cuneo in modalità EQ.
+478	Rileva automaticamente
+479	Rileva posizione automaticamente (consenso)
+480	Rileva ora
+481	Inserisci manualmente
+482	Latitudine:
+483	Longitudine:
+484	Nome del luogo (facoltativo):
+485	Applica
+486	Formati: 52,52 · 52.52 · 52°31'12" N · 13° 24′ E · sud e ovest con «-» o S/W. Trovi la tua posizione ad es. in qualsiasi app di mappe (clic destro/pressione prolungata sul luogo).
+487	Braccio
+488	Apri braccio / modalità stelle
+489	■ Ferma tutto
+490	Muovi manualmente
+491	Velocità
+492	  Durata (s):
+493	Tastiera: frecce, spazio = stop
+494	Posizione: ?
+495	Punta il target (GoTo)
+496	Catalogo:
+497	AR (h):
+498	Dec (°):
+499	J2000 (valori di catalogo) · 5.588 · 5h35m17s · 5:35:17  |  -5.39 · -5°23'28"
+500	Filtro LP e modalità provengono dalla scheda «Impostazioni».
+501	GoTo + vista live
+502	Plate solve
+504	Altro
+505	🔔 Riproduci suono
+506	Spegni
+507	Stacking (target da «Comandi a»)
+508	Riprendi
+509	⧉ Impostazioni in finestra separata
+510	Eventi live
+511	Frame impilati: –
+512	Target (centro)
+513	Prendi da «Controllo»
+514	Tipo di mosaico
+515	Mosaico a griglia (pannelli uno dopo l'altro)
+516	Mosaico framing (interno al Seestar, un solo stack)
+517	Griglia
+518	Colonne (AR):
+519	Righe (Dec):
+520	Sovrapposizione:
+521	Tempo per pannello:
+522	Autofocus prima di ogni pannello
+523	Framing
+524	Dimensione (× campo):
+525	Rotazione:
+526	Tempo totale:
+527	Filtro LP:
+528	▶ Avvia (target da «Comandi a»)
+529	▶ Avvia su tutti i selezionati
+530	■ Annulla mosaico (target)
+531	Piano (per il dispositivo attivo)
+532	Ogni dispositivo calcola i pannelli con il proprio campo. I pannelli della griglia vengono salvati come target separati (Nome_R1C1 …) e uniti in seguito ad es. in Siril/APP.
+533	Piano:
+534	Nuovo
+535	💾 Salva
+536	Elimina
+537	Passo
+538	Target / dettagli
+539	Durata
+540	Alt. min.
+541	Modifica
+542	Aggiungi passo
+543	Durata:
+544	Fuoco:
+545	＋ Target da «GoTo»
+546	＋ Mosaico dalla scheda «Mosaico»
+547	＋ Autofocus
+548	   ＋ Attendi fino a
+549	aggiungi
+550	Esegui
+551	Inizio:
+552	(«ora» oppure orario HH:MM)
+553	Alla fine:
+554	▶ Avvia piano (target da «Comandi a»)
+555	■ Annulla sequenza (target)
+556	Filtro esterno su questo dispositivo
+557	Marca:
+558	– nessun filtro –
+559	＋ Filtro personalizzato …
+560	Elimina personalizzato
+561	Protezione del braccio: blocca parcheggio / chiusura / spegnimento
+562	Con un portafiltri da 2" davanti all'obiettivo il Seestar non può chiudere il braccio – il motore urterebbe il supporto. La protezione blocca tutti i comandi che chiudono il braccio e le pianificazioni terminano senza parcheggiare.
+563	Perché nessun valore di fuoco fisso per filtro?
+564	Un filtro davanti all'obiettivo praticamente non sposta il fuoco. La posizione di fuoco dipende dal singolo dispositivo e dalla temperatura. Il problema è l'autofocus del Seestar: espone brevemente e dietro filtri scuri vede troppe poche stelle. L'autofocus dell'app espone più a lungo, fa la media di più immagini e ricorda il risultato per dispositivo e filtro.
+565	Messa a fuoco
+566	Posizione: –
+567	Leggi
+568	Autofocus di precisione (app)
+569	Esposizione immagine live:
+570	Immagini per passo:
+571	Intervallo di ricerca:
+572	Passo:
+573	▶ Avvia autofocus
+574	■ Annulla
+575	Prima punta un campo stellare (modalità stelle). Il Seestar non deve fare stacking.
+576	Vai alla posizione salvata
+577	Salva posizione attuale
+578	Autofocus del Seestar (senza filtro) + salva come riferimento
+579	Curva di fuoco (HFR – più piccolo è più nitido)
+580	Posizioni di fuoco salvate di questo dispositivo
+581	Filtro
+582	Posizione
+583	Temp.
+584	Data
+585	⟳ Aggiorna
+586	Passa alla modalità alt-az
+587	Passa alla modalità EQ
+588	① Livellamento e cuneo
+589	Inclinazione: –
+590	Misura live (ogni secondo)
+591	Procedura: 1) Livellare grossolanamente il treppiede con una livella, una gamba verso nord. 2) Livellare qui sotto 1°. 3) Impostare il cuneo sul valore sopra, il tasto di accensione del Seestar rivolto verso l'alto. 4) Misurare l'allineamento polare.
+592	② Allineamento polare (3 punti)
+593	Posizione iniziale:
+594	1 (vicino)
+595	5 (lontano)
+596	Intervallo:
+597	Ancora nessuna misura.
+598	▶ Misura scostamento
+599	■ Termina
+600	Rimisura automaticamente dopo ogni misura (per regolare)
+601	Obiettivo: entrambi gli assi < 0,5° (verde). L'app Seestar accetta < 1° (giallo). Dopo ogni regolazione di altezza/azimut stringere i morsetti e attendere la misura successiva.
+602	③ Controllo e test
+603	Test di inseguimento / esposizione
+604	Prima punta un target. Il test fa stacking con l'esposizione scelta e conta quanti frame il Seestar scarta per stelle mosse.
+605	Esposizione:
+606	▶ Avvia test
+607	L'anteprima richiede numpy e Pillow:\n\n    pip install numpy pillow\n\nPoi riavvia l'app.
+608	Mostra il dispositivo attivo. Ogni dispositivo ha inoltre una propria finestra (Panoramica → doppio clic).
+609	Il Bluetooth richiede il pacchetto 'bleak':\n\n    pip install bleak\n\nPoi riavvia l'app.
+610	Il Seestar usa il Bluetooth LE soprattutto per il risveglio e la configurazione Wi-Fi. ZWO non ha pubblicato il protocollo BLE – questa scheda mostra tutti i servizi/caratteristiche, li legge e scrive e registra le notifiche. Il vero controllo del telescopio avviene via Wi-Fi.
+611	🔍 Scansiona
+612	Mostra solo Seestar
+613	Servizio
+614	Caratteristica
+615	Proprietà
+616	Descrizione
+617	Notifiche attive
+618	Scrivi:
+619	Invia
+620	Invia un qualsiasi comando JSON-RPC (metodo + parametri come JSON).
+621	Metodo:
+622	Parametri:
+623	Nessun dispositivo di destinazione connesso (controlla la Panoramica).
+624	Seleziona prima un dispositivo nell'elenco.
+625	Indirizzo IP
+626	Modello
+627	Stato
+628	Frame
+629	Batteria
+630	Attività
+631	Ancora nessun dispositivo – inserisci un IP in alto o «Cerca nella rete».
+632	  [filtro·protezione]
+634	Disconnetti
+635	Connessione …
+636	Annulla
+637	Connetti
+639	aggiunto ({0}).
+640	Rimuovere «{0}» dall'elenco?
+641	Anteprima – {0}
+642	tutti i selezionati ({0})
+643	● connesso
+644	● disconnesso
+645	Frame impilati ({0}): {1}  (scartati: {2})
+650	Evento {0}: {1}
+651	Per l'anteprima installa numpy e pillow.
+652	Ricerca di Seestar nella rete (broadcast UDP) …
+653	Nessun Seestar trovato. Inserisci l'IP manualmente (router o app Seestar → Impostazioni).
+654	Trovato: {0} {1}
+655	Scegli chiave PEM
+656	Ancora nessuna posizione – rilevala o inseriscila nella scheda «Posizione».
+657	Parcheggiare il Seestar e chiudere il braccio?
+658	Spegnere davvero il Seestar?
+659	Posizione: {0}
+660	Coordinate non valide: {0}
+661	Target
+662	AR {0}h{1}m  /  Dec {2}{3}°{4}'
+663	Modello impostato su {0}.
+664	Inserisci AR/Dec o scegli un target dal catalogo.
+665	Nessun target valido
+666	{0}: framing {1}× → ca. {2}° × {3}° · rotazione {4}° · {5} min
+667	{0}: {1}×{2} = {3} pannelli → ca. {4}° × {5}° · totale {6} h {7} min (+ GoTo/AF)
+668	N ↑   E ←
+669	Inserisci coordinate valide per il centro.
+670	Nessun dispositivo di destinazione connesso per il mosaico.
+671	Già in corso su:
+672	Mosaico {0}×{1}
+673	Annullamento del mosaico …
+674	Mosaico in pausa scartato.
+675	⏸ in pausa: {0} – passo {1}/{2}
+676	Per «{0}» è aperto «{1}» (passo {2} di {3}).\n\nRiprendere? Con «No» lo stato salvato viene scartato.
+677	La sequenza riprende al passo {0}/{1}.
+678	Sequenza salvata scartata.
+679	Internet (IP, approssimativa)
+680	inserita manualmente
+681	Latitudine  {0}°   ({1})\nLongitudine {2}°   ({3})
+682	Fonte: {0}
+683	 · precisione ca. {0} km
+684	 · precisione ca. {0} m
+685	 · aggiornata al {0}
+686	\nFuso orario per il Seestar: {0}
+687	Posizione: {0}° / {1}°
+688	Rileva automaticamente o inserisci manualmente qui sotto.
+689	Posizione: non ancora impostata
+690	Consenso dato il {0}. Togli la spunta per revocarlo.
+691	Consenso revocato – la posizione viene impostata solo manualmente.
+692	Non ancora chiesto. Spunta la casella per consentire il rilevamento automatico.
+693	Il rilevamento automatico è attivo – per inserire manualmente togli la spunta sopra.
+694	Rilevare la posizione automaticamente?
+695	{0} può rilevare automaticamente la tua posizione?
+696	La posizione viene salvata solo su questo PC e inviata ai tuoi Seestar (per ora, inseguimento e altezza degli oggetti). Scegli quali fonti possono essere usate. Puoi revocare il consenso in qualsiasi momento nella scheda «Posizione» e inserire la posizione a mano.
+697	Consenti
+698	No – la inserisco io
+699	Consenso revocato.\n\nMantenere l'ultima posizione rilevata (come inserimento manuale)?\n«No» la elimina.
+700	Il rilevamento automatico è disattivato.
+701	Rilevamento della posizione …
+702	Posizione presa dal servizio di localizzazione di Windows.
+703	Posizione presa da «{0}».
+704	«{0}» non ha una posizione salvata
+705	nessun Seestar connesso
+706	Posizione approssimativa presa dall'indirizzo Internet.
+707	nessuna fonte selezionata
+708	Impossibile rilevare la posizione: {0}
+709	Impossibile rilevare la posizione: {0}. Puoi anche inserirla manualmente (togli la spunta sopra).
+710	Inserimento non valido: {0}.\nEsempi: 52,52 / 13,40 oppure 52°31'12" N / 13°24' E
+711	Posizione impostata manualmente: {0}° / {1}°.
+712	Pianeta
+713	ci sta (verticale)
+714	Mosaico ≈ {0}×{1}
+715	{0} oggetti
+716	{0} oggetti · inserisci la posizione nella scheda «Posizione» per altezza/culminazione
+717	Seleziona prima un oggetto.
+718	 · anche: {0}
+719	\nJ2000: AR {0}h{1}m  Dec {2}°   ·   oggi (al Seestar): AR {3}h{4}m  Dec {5}°
+720	   ·   ora alto {0}°
+721	   ·   sopra 30° dalle {0}
+722	   ·   oggi non raggiunge 30°
+723	{0} è attualmente sotto l'orizzonte. Puntare comunque?
+724	GoTo {0} inviato.
+725	Autofocus del Seestar
+726	Autofocus dell'app (per filtri)
+727	posizione salvata
+728	nessun fuoco
+729	Imposta prima un target valido nella scheda «Mosaico».
+730	Inserisci l'ora come HH:MM.
+731	Modifica passo
+732	Ora (HH:MM):
+733	Durata (min):
+734	Alt. min. (° o vuoto):
+735	Ora
+736	Inserimento non valido: {0}
+737	Attendi
+738	fino alle {0}
+739	riprende alle {0}
+740	Framing {0}×
+741	Griglia {0}×{1} ({2} pannelli)
+742	{0} min
+743	Ripresa
+744	non raggiunge l'alt. min.
+745	 · altezza {0}°→{1}°
+746	{0} passi · tempo di ripresa incl. GoTo/fuoco ca. {1} h {2} min · fine ca. {3}
+747	 · posizione mancante
+748	Protezione del braccio attiva su: {0} – lì il piano termina comunque con il braccio aperto (filtro esterno). Gli altri dispositivi parcheggiano come scelto.
+749	Protezione del braccio attiva su: {0} – il piano termina senza parcheggiare.
+750	Piano «{0}» salvato.
+751	Nuovo piano
+752	Eliminare il piano «{0}»?
+753	Il piano è vuoto.
+754	Nessun dispositivo di destinazione connesso per il piano.
+755	Piano
+756	{0} s
+757	Dato del produttore
+758	dato commerciale usuale – controllare la scheda tecnica
+759	voce personale
+760	Tipo: {0}
+761	\nBanda passante: {0}
+762	\nLuminosità: {0} → autofocus {1} s × {2} immagini\nDati: {3}\n{4}
+763	\nConsiglio: disattivare il filtro interno LP/dual band (filtrare due volte costa solo luce).
+764	{0} modelli di {1} – scegli un modello.
+765	Crea filtro personalizzato
+766	Tipo:
+767	Banda passante (testo, facoltativo):
+768	Larghezza di banda più stretta in nm (vuoto = sconosciuta):
+769	Indica marca e modello.
+770	Inserisci la larghezza di banda come numero (ad es. 7).
+771	Salva e usa
+772	Eliminare il filtro personalizzato «{0}»?
+773	 · filtro: {0}
+774	 · protezione del braccio attiva
+775	Filtro rimosso – disattivare la protezione del braccio?\nDopo il Seestar potrà di nuovo parcheggiare e chiudere il braccio.
+776	Disattivare il filtro interno LP/dual band? (consigliato con filtri a banda stretta)
+777	Per «{0}» è salvata la posizione di fuoco {1}. Andarci ora?
+778	Secondo l'app «{0}» è ancora montato.\nDisattivare davvero la protezione del braccio?
+779	   ·   {0} °C
+780	Posizione di fuoco {0} salvata per «{1}».
+781	Nota: la temperatura è cambiata di {0} °C dalla messa a fuoco – consigliato l'autofocus dell'app.
+782	Raggiunta la posizione di fuoco salvata {0}.
+783	Per «{0}» non è ancora salvata alcuna posizione di fuoco.
+784	L'autofocus del Seestar è pensato per l'uso SENZA filtro esterno.\nIl filtro è stato rimosso?
+785	Autofocus del Seestar in corso …
+786	Riferimento senza filtro: {0}. Monta il filtro, poi «Vai alla posizione salvata» o avvia l'autofocus dell'app.
+787	Autofocus del Seestar: {0}
+788	nessuna risposta
+789	Autofocus non possibile: {0}
+790	Autofocus dell'app: posizione migliore {0}
+791	 (HFR {0})
+792	 salvata per «{0}».
+793	Nessun dispositivo attivo connesso.
+794	L'autofocus dell'app richiede numpy e pillow.
+795	Su questo dispositivo è in corso un autofocus o una sequenza.
+796	Ricerca fine …
+797	Posizione {0}:
+798	HFR {0} ({1} stelle)
+799	nessuna stella
+800	Autofocus in corso …
+801	Fatto: posizione {0}
+802	, HFR {0}
+803	Autofocus senza risultato – campo stellare? Aumenta esposizione/immagini, allarga l'intervallo.
+804	Ancora nessuna misura
+805	Cambio modalità (parcheggia)
+806	Modalità EQ (equatoriale, con cuneo)
+807	Modalità alt-az
+808	Passare «{0}» alla {1}?\n\nPer farlo il Seestar va in posizione di parcheggio (il braccio si chiude).
+809	Passaggio a {0} richiesto.
+810	Alt-az
+811	troppo grande
+812	{0} ({1}) · modalità montatura: {2}
+813	X: {0}°   Y: {1}°\nTotale: {2}°  ({3})
+814	\nAngolo del sensore: {0}°
+815	nessun dato del sensore
+816	Inclinazione: –  (attiva la misura live)
+817	Latitudine {0}° → scala del cuneo dall'orizzonte: {1}°, dalla verticale: {2}°.\nQuale scala ha il tuo cuneo è scritto su di esso (nel dubbio: l'asse polare deve puntare sopra l'orizzonte di un angolo pari alla latitudine).
+819	Azimut
+820	Altezza
+821	Altezza: {0}°  ({1}′)\nAzimut:  {2}°  ({3}′)\nTotale: {4}° → {5}  · {6} min fa
+822	\nMisura in corso …
+823	Connesso
+824	Modalità montatura EQ
+825	Inclinazione < 1°
+826	Allineamento polare < 0,5°
+827	non misurato
+828	Esposizione
+829	60 s – prima testare
+830	Il dispositivo è in modalità alt-az. L'allineamento polare ha senso solo in modalità EQ.\n\nAvviare comunque?
+831	Allineamento polare avviato (posizione iniziale {0}).
+832	Allineamento polare terminato.
+833	Allineamento polare: altezza {0}°, azimut {1}°
+834	Allineamento polare sotto 0,5° – fatto. Morsetti stretti, non muovere più il dispositivo.
+835	Allineamento polare non riuscito: {0}
+836	60 s esiste solo in modalità EQ. Prima cambia modalità e allinea.
+837	In corso … ancora {0}:{1} · buoni {2}, scartati {3}
+838	 ({0} % buoni)
+839	Test annullato.
+840	Nessun frame contato – era stato puntato un target e il Seestar faceva stacking?
+841	ok – puoi usare questa esposizione.
+842	accettabile, ma migliora l'allineamento polare o riduci l'esposizione.
+843	troppi frame scartati: controlla allineamento polare, vento, stabilità o riduci l'esposizione.
+844	Risultato {0} s: {1} di {2} frame buoni ({3} %) → {4}
+845	Impostazioni – {0}
+846	AF intelligente (fallisce dietro filtri a banda stretta)
+847	Autofocus del Seestar prima dello stacking
+848	Protezione del braccio disattivata – parcheggio e chiusura di nuovo possibili. Spegnimento automatico, ritorno a casa e AF intelligente si possono riattivare nelle impostazioni.
+849	Protezione del braccio attiva ({0}). Parcheggio, spegnimento e cambio modalità sono bloccati.
+850	Disattivato per l'uso con filtro:
+851	«{0}»: batteria al {1} %.\n\nSe il Seestar si spegne per batteria scarica, può chiudere il braccio – l'app non può impedirlo. Collega l'alimentazione o rimuovi il filtro.
+852	Chiudi braccio
+853	Protezione del braccio attiva: {0}\n\n«{1}» spingerebbe il braccio contro il portafiltri.\n\nIl filtro è stato rimosso? («Sì» toglie la protezione per questi dispositivi)
+854	Eliminare tutti i dati salvati?\n\nVengono rimossi elenco dispositivi, posizione, percorso PEM, filtri, posizioni di fuoco salvate, pianificazioni, filtri personalizzati e sequenze aperte. Poi l'app si avvia come appena installata.
+855	Su {0} è ancora in corso una sequenza. Ripristinare comunque? (Il Seestar continuerà lo stacking.)
+856	Tutto ripristinato. L'app ora si chiude – al prossimo avvio ti accoglierà la procedura guidata.
+857	Benvenuto – configurazione
+858	Benvenuto in {0}
+859	In tre brevi passi è tutto pronto: posizione, il tuo/i tuoi Seestar e – solo con firmware recenti – la chiave di accesso. Tutto si può cambiare in seguito; la procedura guidata è nella scheda «Wi-Fi».
+860	Sono supportati Seestar S30, S30 Pro, S50 e S50 Pro, anche più di uno contemporaneamente. L'app rileva da sola il modello durante la connessione.
+861	1 · Posizione
+862	Serve per ora e posizione sul Seestar, l'altezza degli oggetti nella scheda GoTo e le pianificazioni.
+863	📍 Rileva automaticamente …
+864	Oppure a mano (gradi decimali o gradi/minuti/secondi; Roma ad es. 41,90 / 12,50):
+865	Latitudine (°N):
+866	Longitudine (°E):
+867	2 · Aggiungi Seestar
+868	Più semplice nella stessa rete Wi-Fi: nell'app Seestar inserisci la rete di casa (modalità station), poi cerca qui. In alternativa inserisci l'indirizzo IP dal router. Altri dispositivi si possono aggiungere più tardi nella scheda «Panoramica».
+869	🔍 Cerca nella rete
+870	Già aggiunti:
+871	Ancora nessun dispositivo aggiunto.
+872	3 · Chiave di accesso (solo firmware recenti)
+873	Da circa il firmware 7.18 il Seestar accetta comandi solo dopo un accesso con una chiave dell'app Seestar ufficiale. Questa app non include la chiave. Con il «Seestar tool» del progetto seestar_alp («Extract PEM») la ricavi dalla tua app Seestar. Senza chiave l'app funziona comunque con firmware più vecchi – puoi inserirla anche in seguito nella scheda «Wi-Fi».
+874	Fine
+875	Cliccando «Connetti» l'app si connette a tutti i dispositivi aggiunti e rileva il modello.
+876	Prossimi passi:\n• Scheda «GoTo»: scegli un oggetto e puntalo\n• Scheda «Anteprima»: guarda l'immagine live\n• Scheda «Fuoco e filtri»: inserisci un filtro esterno da 2" se ne usi uno – così l'app protegge anche il braccio dalla chiusura\n• Scheda «Modalità EQ»: solo con cuneo, per esposizioni da 60 s
+877	Ricerca in corso …
+878	Nessun Seestar trovato. È acceso e nella stessa rete? Altrimenti inserisci l'IP manualmente.
+879	{0} dispositivo/i trovato/i e aggiunto/i:
+880	«{0}» aggiunto.
+881	Posizione non valida: {0} (ad es. 41,90 / 12,50).
+882	Passo {0} di {1}
+883	Chiudi
+884	Avanti
+885	Salta
+886	Indietro
+887	I parametri non sono JSON valido: {0}
+888	Errore BLE: {0}
+889	Indirizzo
+890	Segnale
+891	Ancora nessuna scansione – premi «Scansiona».
+893	Scansione BLE in corso (6 s) …
+894	{0} dispositivo/i trovato/i.
+895	Niente trovato. Seestar acceso? Eventualmente togli la spunta a «Solo Seestar».
+896	BLE: connessione a {0} …
+897	BLE connesso – servizi caricati.
+898	Seleziona prima una caratteristica nell'elenco.
+899	BLE {0} letto: {1}
+900	Notifica BLE {0}: {1}
+901	Notifiche per {0} attive.
+902	Stringa esadecimale non valida.
+903	BLE {0}: {1} byte inviati.
+904	Sequenza in corso su: {0}\n\nChiudendo viene messa in pausa. Il Seestar continua lo stacking del pannello attuale ma non passa al successivo. Potrai riprendere al prossimo avvio.\n\nChiudere comunque?
+905	Nebulosa oscura
+906	Nebulosa a emissione (HII)
+907	Galassia
+908	Gruppo di galassie
+909	Coppia di galassie
+910	Ammasso globulare
+911	Ammasso aperto
+912	Nebulosa a riflessione
+913	Associazione stellare
+914	Nebulosa Aquila
+915	Galassia di Andromeda
+916	Galassie Antenne
+917	Galassia Occhio Nero
+918	Nebulosa Bolla
+919	Nebulosa planetaria lampeggiante
+920	Galassia di Bode
+921	Galassie Farfalla
+922	Nebulosa Velo Est
+923	Nebulosa Velo Est (parte)
+924	Nebulosa Velo Ovest (Scopa della strega)
+925	Nebulosa di De Mairan
+926	Doppio Ammasso h Persei
+927	Doppio Ammasso h e χ Persei
+928	Doppio Ammasso χ Persei
+929	Galassia del Triangolo
+930	Nebulosa Proboscide d'Elefante
+931	Nebulosa Eschimese
+932	Nebulosa Civetta
+933	Galassia Girandola
+934	Nebulosa Stella Fiammeggiante
+935	Nebulosa Fiamma
+936	Nebulosa Fantasma (Cassiopea)
+937	Galassia Hamburger
+938	Nebulosa Manubrio
+939	Galassia Elica
+940	Nebulosa Elica
+941	Ammasso di Ercole
+942	Nebulosa Cuore
+943	Iadi
+944	Nebulosa Caverna
+945	Nebulosa Iris
+946	Nebulosa California
+947	Nebulosa Occhio di Gatto
+948	Nebulosa Girini
+949	Attaccapanni (Ammasso di Brocchi)
+950	Nebulosa Cono / Ammasso Albero di Natale
+951	Nebulosa del Granchio
+952	Nebulosa Laguna
+953	Nebulosa a riflessione M78
+954	Nebulosa Crescente
+955	Nebulosa Gabbiano
+956	NGC 1333 nebulosa a riflessione
+957	NGC 6914 nebulosa a riflessione
+958	Galassia Ago
+959	Nebulosa Nord America
+960	Nebulosa Omega
+961	Nebulosa di Orione
+962	Nebulosa Pacman
+963	Nebulosa Pellicano
+964	Nebulosa Testa di Cavallo
+965	Regione della Testa di Cavallo
+966	Pleiadi
+967	Praesepe (Presepe)
+968	Nebulosa Medusa
+969	Nebulosa Anello
+970	Nebulosa Rosetta
+971	Nebulosa Uomo che corre
+972	Nebulosa Anima
+973	Galassia Sombrero
+974	Galassia Girasole
+975	Quintetto di Stephan
+976	Elmo di Thor
+977	Nebulosa Trifida
+978	Galassia Vortice
+979	Nebulosa Mago
+980	Galassia Sigaro
+981	Wi-Fi
+982	Inserisci la latitudine nella scheda «Posizione», qui comparirà l'angolo del cuneo.
+983	ci sta
+985	NE
+986	E
+987	SE
+989	SO
+990	O
+991	NO
+992	automatico
+993	qualsiasi
+994	accettabile
+995	buono
+996	sì
+997	no
+998	manuale
+999	sconosciuto
+1000	connesso
+1001	disconnesso
+1002	previsto
+1003	visuale
+1004	medio
+1005	luminoso
+1006	scuro
+1007	molto scuro
+1008	ora
+1009	Autofocus dell'app
+1010	AF del Seestar
+1011	EQ (equatoriale)
+1012	tutti
+1013	SetThreadExecutionState rifiutato
+1014	caffeinate/systemd-inhibit non trovato
+1015	Griglia 2×2, sovrapposizione 20 %, 30 min per pannello, framing 2×, 0°, 120 min, svuota target, blocco standby attivo.
+1016	Standby di nuovo consentito.
+1017	Standby del PC/portatile bloccato finché il mosaico è in corso ({0}).
+1018	PC / portatile
+1019	Impedisci lo standby mentre è in corso un mosaico
+1020	Solo mentre è in corso un mosaico – per il resto il PC si comporta come al solito.
+1021	Lo schermo può comunque spegnersi. Chiudere il coperchio del portatile o premere il tasto di accensione attiva comunque lo standby – lascia il portatile aperto e collegato all'alimentatore.
+1022	Impossibile bloccare lo standby: {0}
+1023	Mosaico terminato – il PC/portatile può di nuovo andare in standby.
+1024	● Standby bloccato – mosaico in corso su: {0}
+1025	Mosaico in corso – lo standby è consentito (casella non spuntata).
+1026	Blocco dello standby non possibile: {0}
+1027	Solo durante un mosaico. Lascia il portatile aperto e collegato.
+1028	Paraluce anticondensa
+1029	attivata manualmente
+1030	BLOCCATO: «{0}» chiuderebbe il braccio – protezione del braccio attiva ({1}). Rimuovi filtro o paraluce e toglilo nella scheda «Fuoco e filtri».
+1031	Fine del piano: «{0}» saltato – protezione del braccio attiva ({1}). Stacking fermato, il braccio resta aperto.
+1032	Filtro e paraluce su questo dispositivo
+1033	Paraluce montato
+1034	Con un portafiltri da 2" o un paraluce davanti all'obiettivo il Seestar non può chiudere il braccio – il motore ci urterebbe contro. La protezione blocca tutti i comandi che chiudono il braccio e le pianificazioni terminano senza parcheggiare.
+1035	  [protezione braccio]
+1036	Protezione del braccio attiva su: {0} – lì il piano termina comunque con il braccio aperto (filtro/paraluce). Gli altri dispositivi parcheggiano come scelto.
+1037	Paraluce rimosso – disattivare la protezione del braccio?\nDopo il Seestar potrà di nuovo parcheggiare e chiudere il braccio.
+1038	Disattivato per la protezione del braccio: 
+1039	«{0}»: batteria al {1} %.\n\nSe il Seestar si spegne per batteria scarica, può chiudere il braccio – l'app non può impedirlo. Collega l'alimentazione o rimuovi filtro/paraluce.
+1040	Protezione del braccio attiva: {0}\n\n«{1}» spingerebbe il braccio contro il portafiltri o il paraluce.\n\nÈ stato rimosso tutto? («Sì» toglie la protezione per questi dispositivi)
+1044	(modificato)
+1047	La connessione Wi-Fi automatica funziona solo su Windows – connettiti dal menu Wi-Fi del PC.
+1048	Nessun nome Wi-Fi inserito.
+1049	Windows richiede l'accesso alla posizione per i comandi Wi-Fi: Impostazioni › Privacy › Posizione › attiva «Consenti alle app desktop di accedere alla posizione».
+1050	Impossibile creare il profilo Wi-Fi: {0}
+1051	Connessione a «{0}» non riuscita: {1}
+1052	Il PC è connesso al Wi-Fi «{0}».
+1053	Connesso a «{0}», ma il Seestar non risponde a {1}. Password corretta? Il Seestar è acceso e vicino?
+1054	Connessione del PC al Wi-Fi «{0}» …
+1055	Credenziali Wi-Fi prese dal Seestar ({0}).
+1056	Credenziali …
+1057	Credenziali – {0}
+1058	Nome del dispositivo (in questa app):
+1059	Connessione
+1060	Rete di casa – Seestar e PC nella stessa Wi-Fi (modalità station, consigliata)
+1061	Diretta – il PC si collega al Wi-Fi del Seestar (un solo Seestar alla volta)
+1062	Nome Wi-Fi del Seestar:
+1063	Password Wi-Fi:
+1064	Mostra password
+1065	Nome Wi-Fi ad es. S50_1a2b3c4d. La password di fabbrica è {0}; l'app Seestar mostra entrambi nel menu del dispositivo. L'app legge da sola il nome Wi-Fi con il dispositivo collegato; il firmware recente fornisce la password solo cifrata – inseriscila tu una volta.
+1066	Rete di casa secondo il Seestar: {0} · IP {1} · segnale {2} dBm
+1067	Il Seestar non è connesso a nessuna rete di casa (solo Wi-Fi proprio).
+1068	Per questo il dispositivo deve essere connesso.
+1069	Inserisci nome del dispositivo e indirizzo IP.
+1070	Per la connessione diretta inserisci il nome Wi-Fi del Seestar.
+1071	L'indirizzo IP {0} è già assegnato a un altro dispositivo.
+1072	Credenziali salvate.
+1073	Connessione del PC al Wi-Fi del Seestar …
+1074	Leggi dal Seestar
+1075	Collega ora il PC a questo Wi-Fi
+1076	Salva
+1077	Versione dell'autore rilevata – firmata di nuovo automaticamente.
+1078	Caricamento dell'ultima immagine di stack …
+1079	«{0}» resta disattivato – protezione del braccio attiva ({1}).
+1080	{0} impostazione/i modificata/e offline trasferita/e al dispositivo.
+1081	«{0}» non esiste su questo modello – saltato.
+1082	non connesso – «{0}» verrà inviato alla prossima connessione.
+1083	accessorio davanti all'obiettivo
+1084	Connessione automatica (all'avvio e dopo un'interruzione) e invio di ora/posizione alla connessione riattivati, campo indirizzo IP svuotato, percorso della chiave PEM rimosso.
+1085	Invia automaticamente a ogni connessione (come l'app Seestar)
+1086	Altro accessorio davanti all'obiettivo
+1087	Ora e posizione inviate al Seestar.
+1088	Ora inviata – manca ancora la posizione (scheda «Posizione»).
+1090	Più nulla davanti all'obiettivo – disattivare la protezione del braccio?\nDopo il Seestar potrà di nuovo parcheggiare e chiudere il braccio.
+1091	BLOCCATO: «{0}» chiuderebbe il braccio – protezione del braccio attiva ({1}). Rimuovi filtro, paraluce o accessorio e toglilo nella scheda «Fuoco e filtri».
+1092	Filtro e accessori su questo dispositivo
+1089	 · accessorio
+1093	da 2 °C di variazione di temperatura
+1094	da 3 °C di variazione di temperatura
+1095	ogni 60 min
+1096	ogni 90 min
+1097	ogni 120 min
+1098	ogni 60 min o da 2 °C
+1099	ogni 90 min o da 2 °C
+1100	{0} °C di variazione di temperatura
+1101	{0} min dall'ultima messa a fuoco
+1102	{0}: rimessa a fuoco ({1}) – stacking brevemente fermato.
+1103	{0}: fuoco corretto, lo stacking continua nello stesso stack.
+1104	Rimettere a fuoco:
+1105	Cambia fuoco
+1106	Su {0} è in corso lo stacking.\n\n«{1}» – per questo lo stacking viene fermato brevemente. Come deve proseguire dopo?\n\nSì = continua (stesso stack)\nNo = ricomincia (nuovo stack)\nAnnulla = non cambiare il fuoco
+1107	Stacking fermato per il cambio di fuoco.
+1108	Stacking ripreso (stesso stack).
+1109	Stacking riavviato (nuovo stack).
+1110	Rifocalizzazione: ottimo non nell'intervallo ristretto – ricerca sull'intervallo completo (± 80).
+1111	Ricerca del Seestar nella rete …
+1112	Ricerca tramite questi indirizzi del PC: {0}
+1113	Ricerca riuscita tramite {0}.
+1114	scansione TCP
+1115	Correzione stelle
+1116	Rimuovi scie di aerei/satelliti
+1117	Autofocus prima di ogni obiettivo
+1118	Regolazione fine (muovi manualmente)
+1119	Svuota
+1120	Copia risposta
+1121	Mantieni le risposte precedenti
+1122	Risposta della console copiata negli appunti.
+1123	Ignora il meteo (come se fosse sereno)
+1124	Nessuna posizione impostata – scheda «Posizione».
+1125	Calcolato senza meteo – utile solo se si rasserena.
+1126	Oggi alla tua posizione non farà davvero buio.
+1127	Per stanotte non è prevista nessuna ora serena – quindi nessun consiglio. Con «Ignora il meteo» vedi cosa sarebbe possibile senza nuvole.
+1128	Nessun oggetto resta oggi abbastanza a lungo sopra {0}° – riduci l'altezza minima.
+1129	Nota: se l'app Seestar sul telefono è collegata contemporaneamente, sovrascrive la posizione nel Seestar con quella del telefono.
+1130	Connetti automaticamente all'avvio
+1131	Connessione automatica a {0} Seestar noti …
+1132	Memoria libera: {0} GB
+1133	Il programma non è riuscito ad avviarsi.\n\n{0}: {1}\n\nDettagli in:\n{2}
+1134	«{0}» resta spento – dietro il filtro l'autofocus del Seestar fallisce. Usa l'autofocus dell'app (scheda «Fuoco e filtro»).
+1135	Anteprima live: il braccio è chiuso e l'app non lo apre per via della protezione del braccio. Togli prima filtro/paraluce o apri il braccio nella scheda «Controllo».
+1136	«{0}»: il braccio è chiuso.\n\nAprire il braccio e avviare la modalità stelle per ricevere immagini live?
+1137	Apertura del braccio e avvio della modalità stelle per l'anteprima live …
+1138	La modalità stelle era spenta – la avvio per l'anteprima live …
+1139	Da un po' non arriva nessuna nuova immagine live. Il Seestar è in modalità stelle/luna ed è ancora collegato?
+1140	Live: in attesa di una nuova immagine …
+1141	📂 Apri …
+1142	Salva con nome …
+1143	Salva piano
+1144	Nome del piano:
+1145	OK
+1146	Il piano è vuoto – non c'è niente da salvare.
+1147	Esiste già un piano «{0}». Sovrascriverlo?
+1148	Non ci sono ancora piani salvati.
+1149	Apri piano
+1150	Piani salvati (doppio clic = apri):
+1151	Passi
+1152	Apri
+1153	Piano «{0}» aperto ({1} passi).
+1154	Nuovo piano vuoto creato – aggiungi obiettivi qui sotto, poi «Salva».
+1155	Avviare ora il piano «{0}»?\n\n{1} passo/i su: {2}\nInizio: {3}\nAlla fine: {4}\n\nIl Seestar punterà gli obiettivi da solo.
+1156	Piano non avviato.
+1157	Sequenza salvata scartata – il Seestar viene fermato (ricerca obiettivo/stacking della sequenza).
+1158	{0} è sceso sotto {1}° – ripresa terminata, si passa al passo successivo.
+1159	 · finisce prima (sotto {0}°)
+1160	Memoria libera
+1161	«{0}»: il Seestar ha confermato il comando ma mostra ancora «{1}». Per ora cambia questa impostazione nell'app Seestar – questa app mostra lo stato reale.
+1162	Come leggere il disegno del mosaico
+1163	Ogni rettangolo è un campo (pannello) che il Seestar riprende uno dopo l'altro – il numero è l'ordine.\n\nLe strisce strette tra i campi sono la sovrapposizione (regolabile a sinistra in «Griglia», di solito 15–20 %). Queste zone vengono riprese da due campi, così Siril o un altro programma può poi unire le immagini senza giunture. Il quadratino al centro è ripreso da tutti i campi adiacenti.\n\nMosaico a griglia = singoli campi uno dopo l'altro (più grande, più controllo). Mosaico di inquadratura = lo fa il Seestar da solo in un unico stack.
+1164	Non mostrare più
+1165	Capito
+1166	Mostra di nuovo i suggerimenti
+1167	I suggerimenti verranno mostrati di nuovo quando apri la pagina corrispondente.
+1168	Anelli: 0,5° (verde) · 1° (giallo) · 2° (rosso). La livella è molto fine – una leggera inclinazione a mano spesso vale solo decimi di grado.
+1169	Imposta lo zero
+1170	Cancella lo zero
+1171	Attiva prima la misura live per avere un valore.
+1172	Il Seestar è ora perfettamente in bolla (controllato con una livella)?\n\nAllora l'app memorizza il valore attuale come zero per questo dispositivo.
+1173	Zero della livella salvato.
+1174	Zero della livella cancellato – vale di nuovo il valore del sensore.
+1175	\n(con zero personalizzato)
+1176	«{0}» indica una posizione a circa {1} km da quella impostata (di solito dall'app Seestar sul telefono).\n\nSei altrove in questo momento? Allora usa questa posizione – elenchi di oggetti, meteo e consigli verranno calcolati per il nuovo luogo.
+1177	Nuova posizione applicata ({0} km dalla precedente) – tutto viene calcolato per il nuovo luogo.
+1178	La posizione rilevata automaticamente dista circa {0} km da quella impostata.\n\nUsare la nuova posizione?
+1179	Nuova posizione ({0} km dalla precedente) – elenchi di oggetti, meteo e consigli vengono calcolati per il nuovo luogo.
+1180	solo di stagione ora (ordinato)
+1181	mesi migliori
+1182	tutto l'anno
+1183	{0} oggetti · calcolo delle stagioni …
+1184	{0} oggetti · {1} qui non salgono mai sopra 10°
+1185	gen
+1186	feb
+1187	mar
+1188	apr
+1189	mag
+1190	giu
+1191	lug
+1192	ago
+1193	set
+1194	ott
+1195	nov
+1196	dic
+1197	sopra 10°
+1198	sopra 15°
+1199	sopra 25°
+1200	sopra 35°
+1201	sopra 40°
+1202	sopra 50°
+1203	5 bande passanti, filtro antinquinamento luminoso a banda larga
+1204	OIII 18 nm (piuttosto visuale)
+1205	Correzione delle frange di colore per Luna e pianeti (piuttosto visuale)
+1206	attenua la luce lunare intensa (piuttosto visuale)
+1207	Polarizzatore lineare
+1208	SV260 Multi-Bandpass
+1209	Omega Centauri
+1210	Grande Nube di Magellano
+1211	Piccola Nube di Magellano
+1212	Nebulosa Tarantola
+1213	Nebulosa della Carena
+1214	Ammasso del Pozzo dei desideri
+1215	Scrigno di gioielli
+1216	Alveare del Sud
+1217	Ammasso della Perla
+1218	Pleiadi del Sud
+1219	Nebulosa di Lambda Centauri
+1220	Planetaria Blu
+1221	Nebulosa planetaria a spirale
+1222	Galassia a spirale del Pavone
+1223	Grande Ammasso Globulare del Pavone
+1224	Ammasso di Omicron Velorum
+1225	Ammasso di S Normae
+1226	47 Tucanae
+1227	Galassia Silver Sliver
+1228	Zero: valore personalizzato
+1229	Niente (l'inseguimento continua)
+1230	Inseguimento spento
+1231	Parcheggia la montatura
+1232	Meridiano
+1233	Immagini
+1234	Immagini:
+1235	Posizione filtro
+1236	Posizione filtro:
+1237	Guadagno:
+1238	Esposizione (s):
+1239	Piano di ripresa
+1240	Connetti ASIAIR
+1241	Non connesso
+1242	Flip al meridiano e svolgimento
+1243	Connettiti prima all'ASIAIR.
+1244	Scegli la chiave PEM dell'app ASIAIR
+1245	Inserisci l'indirizzo IP dell'ASIAIR (nella Wi-Fi dell'Air di solito 10.0.0.1).
+1246	File PEM non trovato.
+1247	ASIAIR connesso ({0}, {1}).
+1248	ASIAIR: connessione non riuscita – l'Air è acceso e il PC è sulla sua Wi-Fi?
+1249	ASIAIR disconnesso.
+1250	Un piano ASIAIR è in corso. Disconnettere comunque? Il piano verrà annullato.
+1251	ASIAIR: montatura collegata.
+1252	ASIAIR: impossibile collegare la montatura.
+1253	L'oggetto è ora sotto i 10° di altezza. Puntarlo comunque?
+1254	ASIAIR: GoTo {0} con plate solving …
+1255	ASIAIR: {0} è centrato.
+1256	ASIAIR: tutto fermato.
+1257	Inserisci esposizione, guadagno, immagini e posizione filtro come numeri.
+1258	Esposizione e numero devono essere maggiori di 0.
+1259	Inserisci un nome per il piano.
+1260	Piano ASIAIR «{0}» salvato.
+1261	Piano ASIAIR «{0}» caricato.
+1262	Un piano ASIAIR è già in corso.
+1263	Il piano è vuoto – aggiungi prima dei bersagli da «GoTo».
+1264	Il flip al meridiano richiede la posizione – impostala nella scheda «Posizione».
+1265	Avviare il piano ASIAIR con {0} bersagli?
+1266	Flip al meridiano: automatico, {0} min dopo il meridiano.
+1267	Flip al meridiano: spento.
+1268	Controlla prima: cavi abbastanza lunghi per il cambio lato, niente nell'area di rotazione.
+1269	Annullare davvero il piano ASIAIR?
+1270	Seleziona un bersaglio nel piano di ripresa.
+1271	Eseguire ora il flip con «{0}»?
+1272	La montatura si muoverà. Controlla cavi e area di rotazione.
+1273	ASIAIR: test del flip riuscito.
+1274	ASIAIR: test del flip fallito – vedi il registro.
+1275	ASIAIR: porta {0} non raggiungibile ({1}).
+1276	L'ASIAIR non risponde da {0} s (porta {1}).
+1277	L'ASIAIR ha chiuso la connessione (porta {0}).
+1278	ASIAIR: errore di ricezione ({0}).
+1279	ASIAIR: nessuna challenge di accesso ricevuta (i firmware più vecchi non la richiedono).
+1280	ASIAIR: accesso riuscito.
+1281	ASIAIR: accesso rifiutato – la chiave è quella dell'app ASIAIR?
+1282	ASIAIR ⚡ {0} {1}
+1283	ASIAIR: ora e posizione inviate e confermate.
+1284	ASIAIR: posizione non confermata – controlla nell'app ASIAIR.
+1285	ASIAIR: GoTo rifiutato: {0}
+1286	ASIAIR: GoTo – nessuna risposta (timeout).
+1287	ASIAIR: GoTo fallito ({0}, codice {1}).
+1288	ASIAIR: avvio della guida rifiutato: {0}
+1289	ASIAIR: guida attiva.
+1290	ASIAIR: la guida non è partita (stato: {0}).
+1291	ASIAIR: impostazione dithering non leggibile – resta come nell'app ASIAIR.
+1292	ASIAIR: impossibile impostare il dithering – impostalo nell'app ASIAIR.
+1293	ASIAIR: {0} rifiutato: {1}
+1294	ASIAIR: autofocus rifiutato (nessun focheggiatore elettronico?).
+1295	ASIAIR: autofocus completato.
+1296	ASIAIR: autofocus senza successo – si continua comunque.
+1297	ASIAIR: impossibile specchiare la calibrazione – ricalibro.
+1298	Piano ASIAIR avviato: {0} bersagli.
+1299	Piano ASIAIR: errore imprevisto: {0}
+1300	Piano ASIAIR annullato.
+1301	Piano ASIAIR terminato ({0} flip al meridiano).
+1302	{0}: oggi non raggiunge l'altezza minima – saltato.
+1303	{0}: attendo fino alle {1} (altezza minima {2}°).
+1304	Bersaglio {0}/{1}
+1305	Immagine {0}/{1}
+1306	Altezza {0}°
+1307	Flip tra {0} min
+1308	Flip ora
+1309	in attesa dell'altezza minima
+1310	GoTo con plate solving
+1311	Flip al meridiano in corso
+1312	{0}: GoTo con plate solving …
+1313	{0}: GoTo non possibile – prossimo bersaglio.
+1314	{0}: senza guida non si riprende – prossimo bersaglio.
+1315	{0}: riprendo senza guida.
+1316	{0}: {1} immagini completate.
+1317	{0}: sceso sotto l'altezza minima – serie terminata ({1}/{2}).
+1318	{0}: flip al meridiano fallito – bersaglio annullato.
+1319	{0}: nessuna nuova immagine da {1} min – riavvio la serie.
+1320	{0}: inizia il flip al meridiano (angolo orario {1} min).
+1321	{0}: lato della montatura {1} → {2}.
+1322	{0}: guida non possibile dopo il flip.
+1323	{0}: flip al meridiano riuscito – la ripresa continua.
+1324	Avvia guida
+1325	Ferma guida
+1326	Collega montatura
+1327	ricalibra (sicuro)
+1328	specchia calibrazione (più veloce)
+1329	Sfoglia …
+1330	Invia ora e posizione alla connessione
+1331	Chiave dell'app ASIAIR (non quella del Seestar) – senza funzionano solo montatura e guida.
+1332	Flip al meridiano automatico
+1333	Minuti dopo il meridiano:
+1334	lascia finire l'esposizione in corso
+1335	Autofocus dopo il flip
+1336	Usa la guida
+1337	Guida dopo il flip:
+1338	Dithering ogni
+1339	immagini (0 = come nell'Air)
+1340	▶ Avvia piano
+1341	■ Annulla piano
+1342	Prova ora il flip al meridiano
+1343	Angolo orario
+1344	Lato
+1345	Serie
+1346	acceso
+1347	spento
+1348	Un piano ASIAIR è in corso. Chiudendo viene annullato (l'Air non termina da solo la serie in corso).
+1349	Chiudere comunque?
+1350	Flip al meridiano attivo (5 min dopo il meridiano, attendi l'esposizione, senza autofocus), guida attiva e ricalibrata dopo il flip, dithering ogni 3 immagini, nulla alla fine, 120 s / guadagno 252 / 60 immagini. Connessione e piani salvati restano.
+1351	ASIAIR – leggi prima
+1352	Questa pagina controlla uno ZWO ASIAIR (Mini, Plus, Pro o una camera con Air integrato come la ASI585MC Air) e la sua montatura: GoTo con plate solving, guida, serie di riprese e flip al meridiano automatico durante il piano.
+1353	Importante: questa funzione si basa sulla documentazione pubblica della community sul protocollo ASIAIR e non è ancora stata provata su un dispositivo reale. Osserva prima il flip in serata con «Prova ora il flip al meridiano».
+1354	Per i comandi della camera l'Air richiede una propria chiave (PEM) dall'app ASIAIR – non quella del Seestar.
+1355	Come funziona il flip: termina l'esposizione in corso → ferma la guida → GoTo con plate solving sullo stesso bersaglio (la montatura cambia lato) → riavvia la guida → continua la serie con le immagini rimanenti. Solo per montature equatoriali (es. AM5 in modalità EQ). Non attivare anche il flip dell'autorun dell'app ASIAIR.
+1356	Inseguimento
+1357	Montatura:
+1358	equatoriale (EQ)
+1359	altazimutale (Alt-Az)
+1360	ASIAIR: montatura altazimutale – nessun flip al meridiano, ma attenzione alla rotazione di campo e allo zenit.
+1361	Montatura altazimutale: nessun flip al meridiano necessario.
+1362	Controlla prima: cavi abbastanza lunghi per una rotazione completa, niente nell'area di rotazione.
+1363	{0}: sopra {1}° – in modalità altazimutale la montatura ruota molto velocemente vicino allo zenit, le immagini possono risultare mosse.
+1364	In modalità altazimutale non c'è flip al meridiano – la montatura prosegue semplicemente oltre il meridiano.
+1365	Test diurno: senza plate solving né guida – tappo sull'obiettivo!
+1366	{0}: GoTo senza plate solving (test diurno) …
+1367	ASIAIR: la montatura è sul bersaglio (test diurno, senza plate solving).
+1368	{0}: a meno di {1}° dal Sole – saltato.
+1369	Il bersaglio è a meno di {0}° dal Sole – GoTo bloccato per sicurezza.
+1370	Test diurno: tappo montato? La montatura si muove senza plate solving.
+1371	TEST DIURNO: tappo montato? La montatura si muove senza plate solving; i bersagli a meno di {0}° dal Sole vengono saltati.
+1372	▶ ASIAIR: GoTo con plate solving
+1373	＋ nel piano ASIAIR
+1374	L'oggetto è nascosto nella scheda GoTo – allenta i filtri.
+1375	Proposta per stanotte:
+1376	Usare come nuovo piano ASIAIR? (Il piano nell'editor viene sostituito, quelli salvati restano.)
+1377	Rete ASIAIR
+1378	A casa · direttamente sulla Wi-Fi dell'Air (hotspot)
+1379	Nome Wi-Fi dell'Air:
+1380	Password:
+1381	Connetti il PC alla Wi-Fi dell'Air
+1382	Indicato nell'app ASIAIR (impostazioni Wi-Fi). L'Air ha di solito l'indirizzo 10.0.0.1. La password è salvata cifrata solo su questo PC.
+1383	A casa · Air nella rete domestica (modalità station)
+1384	🔍 Cerca l'Air nella rete
+1385	usa come indirizzo «Casa»
+1386	Indirizzi
+1387	Casa:
+1388	In viaggio:
+1389	usa e connetti
+1390	Prova connessione
+1391	Riconnetti automaticamente in caso di interruzione
+1392	In caso di interruzione il piano attende fino a
+1393	In viaggio · controllo remoto con il telescopio a casa
+1394	Consigliato (più sicuro): il programma gira su un PC A CASA nella stessa rete dell'Air. In viaggio accedi a quel PC con un desktop remoto (es. Desktop remoto di Windows via VPN, Chrome Remote Desktop o AnyDesk). Il piano continua anche se la tua connessione cade.
+1395	Alternativa: questo programma sul portatile in viaggio e una VPN verso casa (es. WireGuard/VPN della FRITZ!Box o Tailscale con un dispositivo di casa come router di sottorete). In «In viaggio» inserisci lo stesso indirizzo di casa (Air nella rete domestica, non in hotspot). Se la connessione cade, l'Air completa da solo la serie in corso; il programma si riconnette e continua.
+1396	MAI aprire porte (4400/4700) verso l'Air nel router: la porta 4400 non ha password – chiunque su Internet potrebbe muovere la montatura.
+1397	Connesso a «{0}», ma l'Air non risponde a 10.0.0.1. Password corretta?
+1398	ricerca … (circa 5 s)
+1399	{0} trovati
+1400	Nessun Air trovato – è nella stessa rete e acceso?
+1401	Inserisci prima un indirizzo.
+1402	test …
+1403	ottimo
+1404	lento – funziona, ma i comandi richiedono più tempo
+1405	{0}: entrambe le porte raggiungibili, tempo di risposta circa {1} ms ({2}).
+1406	{0}: solo una porta raggiungibile – è davvero un ASIAIR?
+1407	{0}: non raggiungibile. A casa: Wi-Fi giusta? In viaggio: VPN connessa?
+1408	ASIAIR: connessione persa – tento di riconnettermi automaticamente …
+1409	ASIAIR: riconnesso (dopo {0} s).
+1410	Connessione all'ASIAIR persa – in attesa di riconnessione
+1411	Piano ASIAIR terminato: connessione assente da {0} min. L'Air completa da solo la serie in corso; gli altri bersagli non verranno puntati.
+1412	Standby del PC bloccato finché il piano ASIAIR è in corso.
+1413	Esecuzione terminata – il PC può di nuovo andare in standby.
+1414	Riconnessione automatica attiva, il piano attende fino a 15 min in caso di interruzione. Indirizzi, nome Wi-Fi e password restano.
+1415	Edizione ASIAIR
+1416	Permessi:
+1417	Dispositivo:
+1418	Porta:
+1419	Utente:
+1420	online
+1421	Copia
+1422	Aggiungi
+1423	controllo completo
+1424	solo visione
+1425	ID dispositivo {0}
+1426	Osservatorio
+1427	Codice di abbinamento
+1428	Accesso remoto: server di inoltro non raggiungibile ({0}).
+1429	Accesso remoto: accesso al server di inoltro rifiutato ({0}).
+1430	Accesso remoto: errore di elaborazione ({0}).
+1431	Accesso remoto: la stazione di casa è online.
+1432	Accesso remoto: dispositivo remoto connesso ({0}…).
+1433	non consentito (stazione: solo visione)
+1434	non consentito
+1435	La stazione non è connessa all'ASIAIR
+1436	nessuna risposta
+1437	comando sconosciuto
+1438	Accesso remoto: server di inoltro non raggiungibile.
+1439	Accesso remoto: la stazione non risponde – il programma è avviato lì con l'accesso remoto attivo? ID e codice corretti?
+1440	Accesso remoto: nessuna risposta a {0}.
+1441	Accesso remoto: {0} – {1}
+1442	La stazione non risponde.
+1443	Piano vuoto o posizione mancante nella stazione.
+1444	Accesso remoto: piano con {0} bersagli avviato da remoto.
+1445	Piano avviato sulla stazione.
+1446	Accesso remoto: piano annullato da remoto.
+1447	Annullamento inviato.
+1448	Nessun piano attivo.
+1449	Accesso remoto: stop da remoto.
+1450	Stop inviato.
+1451	Accesso remoto via Internet – senza VPN, senza porte aperte, senza browser
+1452	Questo PC è vicino al telescopio (stazione)
+1453	Consenti l'accesso remoto a questo ASIAIR
+1454	Mostra codice di abbinamento
+1455	Crea nuovo codice
+1456	Connetti da fuori (dispositivo remoto)
+1457	🌐 Connetti (remoto)
+1458	Aggiungi dispositivo …
+1459	Server di inoltro (MQTT):
+1460	ℹ Altri modi
+1461	ℹ Come funziona
+1462	Pacchetto mancante: pip install paho-mqtt (start.bat lo installa al prossimo avvio)
+1463	Entrambi i lati si collegano solo verso l'esterno al server di inoltro. Tutto è cifrato end-to-end (AES-256) – il server vede solo dati illeggibili; senza ID e codice nessuno raggiunge il telescopio.
+1464	Predefinito è il server pubblico di HiveMQ; per l'uso continuo è più affidabile un account HiveMQ Cloud gratuito (uguale su entrambi i PC).
+1465	Il piano gira sempre sulla stazione – se la connessione cade in viaggio, la notte continua. La stazione (PC vicino al telescopio) deve essere accesa, con il programma avviato e connesso all'Air.
+1466	Inserisci la porta come numero.
+1467	Server di inoltro salvato – vale dalla prossima connessione.
+1468	Accesso remoto disattivato.
+1469	Accesso remoto a questo ASIAIR disattivato.
+1470	Per l'accesso remoto manca il pacchetto 'paho-mqtt'.
+1471	Impossibile avviare l'accesso remoto: {0}
+1472	connessione al server di inoltro …
+1473	Accesso remoto attivo (ID {0}). Il programma deve essere avviato e connesso all'ASIAIR.
+1474	Inserisci sul dispositivo remoto in «Aggiungi dispositivo …»:
+1475	Tieni il codice segreto – chi lo conosce può comandare il telescopio. In caso di dubbio «Crea nuovo codice» – i vecchi dispositivi andranno riabbinati.
+1476	Creare un nuovo codice di abbinamento? I dispositivi già abbinati perderanno l'accesso e andranno riabbinati.
+1477	Aggiungi dispositivo remoto
+1478	ID dispositivo:
+1479	Codice di abbinamento:
+1480	Si trova nella stazione in «Mostra codice di abbinamento».
+1481	ID (8 caratteri) o codice (16 caratteri) incompleto.
+1482	Aggiungi prima un dispositivo (ID e codice della stazione).
+1483	Questo PC è connesso direttamente a un ASIAIR. Disconnettere e connettersi da remoto?
+1484	Accesso remoto: connesso a «{0}».
+1485	Accesso remoto: in attesa di «{0}» …
+1486	{0} dispositivo/i remoto/i connesso/i
+1487	Server di inoltro non raggiungibile
+1488	Stazione offline – il programma è avviato lì?
+1489	connesso – ma l'Air non è connesso alla stazione
+1490	🌐 Accesso remoto: server di inoltro non raggiungibile
+1491	🌐 {0}: stazione offline
+1492	🌐 {0}: Air non connesso alla stazione
+1493	🌐 {0} · {1} (remoto)
+1494	Il piano gira sulla stazione – anche se la tua connessione cade in viaggio.
+1495	Avvio rifiutato.
+1496	Esegui il test del flip direttamente sulla stazione, stando al telescopio.
+1497	Accesso remoto disconnesso.
+1498	monocromatico (mono)
+1499	ASIAIR: canale immagini (porta 4800) non raggiungibile ({0}).
+1500	ASIAIR: impossibile scaricare l'immagine ({0}).
+1501	ASIAIR: impossibile leggere l'immagine ({0}).
+1502	L'anteprima richiede numpy e pillow (pip install numpy pillow).
+1503	ASIAIR – anteprima
+1504	Matrice Bayer:
+1505	aggiorna dopo ogni immagine
+1506	⟳ Scarica ora
+1507	Live per inquadrare/mettere a fuoco – esposizione (s):
+1508	▶ Avvia live
+1509	■ Ferma live
+1510	(non durante un piano)
+1511	Ancora nessuna immagine – «Scarica ora» o avvia live.
+1512	scarico immagine …
+1513	tramite accesso remoto (ridotta)
+1514	Nessuna immagine – è in corso una ripresa?
+1515	Anteprima salvata: {0}
+1516	Il live funziona solo direttamente sulla stazione. Con l'accesso remoto ottieni l'ultima immagine della ripresa.
+1517	Nessun live durante un piano – l'anteprima mostra automaticamente ogni nuova immagine della serie.
+1518	Inserisci l'esposizione come numero.
+1519	Live n. {0} · {1} s · {2}
+1520	🖼 Anteprima
+1521	nessuna immagine
+1522	Salva PNG
+1523	– vuoto –
+1524	Consiglio per «{0}»: {1} s per immagine.
+1525	Consiglio
+1526	ASIAIR filtri e fuoco
+1527	Filtri sul telescopio (2")
+1528	un filtro fisso (senza ruota)
+1529	Ruota portafiltri
+1530	Filtro fisso:
+1531	Posizione {0}:
+1532	{0} filtri di {1} marche · Suggerimento: posizione vuota → vetro trasparente, così il fuoco resta uguale.
+1533	Consiglio per il filtro
+1534	Filtro:
+1535	Focheggiatore (ZWO EAF)
+1536	📌 Memorizza posizione per questo filtro
+1537	Offset
+1538	Temperatura
+1539	memorizzato
+1540	Offset = differenza rispetto al filtro di riferimento (il primo memorizzato). Al cambio filtro nel piano il programma applica l'offset se non esegue l'autofocus.
+1541	Autofocus (curva propria)
+1542	Posizioni:
+1543	Gioco:
+1544	Nel piano di ripresa
+1545	Autofocus prima del primo bersaglio
+1546	prima di ogni bersaglio
+1547	dopo il cambio filtro
+1548	altrimenti applica l'offset memorizzato per filtro
+1549	Rimetti a fuoco da
+1550	°C di variazione (0 = spento)
+1551	Esposizione per immagine: circa {0} s · esposizione autofocus: {1} s · luminosità {2}/4 (1 = chiaro, 4 = molto scuro)
+1552	Dati dai rivenditori – verifica la scheda tecnica.
+1553	Fuoco: un filtro sposta il fuoco di circa un terzo del suo spessore (2 mm di vetro ≈ 0,7 mm). I set parafocali richiedono poca correzione; la banda stretta può mettere a fuoco leggermente diverso – misura e memorizza il fuoco una volta per filtro.
+1554	Metti a fuoco direttamente sulla stazione – da remoto funziona solo l'autofocus del piano.
+1555	Posizione: – (nessun focheggiatore?)
+1556	Nessun focheggiatore trovato.
+1557	Nessuna posizione di fuoco memorizzata per questo filtro.
+1558	Eliminare la posizione di fuoco memorizzata per «{0}»?
+1559	Durante un piano, il piano mette a fuoco da solo (vedi «Nel piano di ripresa»).
+1560	in corso …
+1561	fallito – vedi registro
+1562	Luna/pianeti: esposizioni brevissime (millisecondi fino a 1 s), meglio in video.
+1563	Alt-az: al massimo circa {0} s per immagine (rotazione di campo) – meglio più immagini.
+1564	Questo filtro è per camere mono – non utile sulla ASI585MC (colore).
+1565	I filtri multibanda su una camera mono mescolano le righe – per mono meglio filtri a riga singola.
+1566	Molto stretto (≤ 4 nm): con ottiche veloci (f/2–f/4) la banda può spostarsi – scegli versioni «highspeed».
+1567	Vetro trasparente in una posizione vuota mantiene il fuoco come con un filtro (stesso spessore).
+1568	La banda stretta è la meno sensibile alla Luna e all'inquinamento luminoso.
+1569	Autofocus: nessun focheggiatore (ZWO EAF collegato all'Air?).
+1570	Autofocus: avvio a {0}, {1} posizioni a distanza {2}, esposizione {3} s.
+1571	Autofocus: {0} → HFR {1} ({2} stelle)
+1572	Autofocus: {0} → nessuna stella misurabile
+1573	Autofocus: valore migliore al bordo della curva – misuro oltre in quella direzione.
+1574	Autofocus fallito (troppe poche stelle) – fuoco riportato al valore iniziale.
+1575	Autofocus completato: posizione {0} (miglior HFR {1}).
+1576	Fuoco: cambio filtro {0} → {1}, offset {2} passi → {3}.
+1577	ASIAIR: il focheggiatore non risponde ({0}).
+1578	ASIAIR: il focheggiatore non ha raggiunto {0} (è a {1}).
+1579	ASIAIR: impossibile ruotare la ruota sulla posizione {0}.
+1580	{0}: la temperatura è cambiata – rimessa a fuoco dopo l'immagine in corso.
+1581	Vetro trasparente
+1582	Filtro colore R/G/B
+1583	IR-pass / pianeti
+1584	Fotometria
+1585	Luna / densità neutra
+1586	Filtro speciale
+1587	Il vetro trasparente non cambia il colore ma mantiene il fuoco come un filtro di pari spessore – ideale per la posizione vuota.
+1588	Filtri colore per camere mono (LRGB). Inutili su una camera a colori come Seestar o ASI585MC – l'immagine diventa monocolore e più scura.
+1589	Filtri fotometrici scientifici per camere mono – non adatti a belle immagini.
+1590	Per Luna e pianeti (immagine più stabile con turbolenza). Non per nebulose e galassie.
+1591	Attenua soltanto – per la Luna luminosa. Non è un filtro solare: mai verso il Sole!
+1592	Filtro speciale per un oggetto specifico (Venere, comete) – usalo solo per quello.
+1593	Rosso
+1594	Verde
+1595	Acquisizione in serie: il Seestar scatta solo singoli fotogrammi uno dopo l’altro e NON li somma in un’immagine (niente live stack). Utile per meteore/satelliti o se elabori tu i fotogrammi. Per le riprese normali lasciala DISATTIVATA – con «Salva singoli fotogrammi» il Seestar salva i fotogrammi anche durante lo stacking.
+1596	{0} oggetti in più (Siril: NGC/IC, Sh2, LDN) tramite la ricerca
+1597	Versione di prova
+1598	Versione di prova: questo è l’avvio {0} di {1} – restano {2} avvii.
+1599	La versione di prova è scaduta ({0} avvii).
+1600	Grazie per il test! Se il programma ti piace:
+1601	Per la versione completa scrivimi su Facebook: profilo «Bönn Ingstedt» – lo trovi facilmente cercando «TheSkyCoder».

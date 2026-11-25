@@ -1,0 +1,17 @@
+{
+ "files": [
+  "PROGRAMM",
+  "catalog.json",
+  "lang/en.txt",
+  "lang/es.txt",
+  "lang/fr.txt",
+  "lang/it.txt",
+  "lang/ja.txt",
+  "lang/nl.txt",
+  "lang/pl.txt",
+  "lang/pt.txt",
+  "lang/source.txt",
+  "lang/zh.txt"
+ ],
+ "signature": "NKhBZbvN+8tECs81O/sFv66hMpy2AmTfufja4MBOXhJZ+wKn+cd47JF+xd7uTzNEo4IR1gp6kBwbtH8GCLFHCw=="
+}

@@ -1,0 +1,10 @@
+# Niemals hochladen: Schlüssel (ZWO-PEM, privater Signaturschlüssel) und persönliche Daten
+*.pem
+*.key
+*_PRIVAT*
+Signatur_Werkzeug*/
+.*_control_center.json
+startfehler.txt
+__pycache__/
+*.pyc
+.deps_v*

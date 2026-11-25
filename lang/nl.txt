@@ -1,0 +1,1552 @@
+# name: Nederlands
+4	Blauw
+5	Nacht (rood)
+6	Donker
+9	LP-filter (dual-band)
+10	50 mm · 260 mm · f/5,2 (+ groothoek 63°)
+11	ca. 1,6° × 2,8°
+12	Dual-bandfilter (OIII/Hα)
+13	30 mm · 150 mm · f/5 (+ groothoek)
+15	LP-filter
+16	30 mm · 160 mm · f/5,3 (+ groothoek 63°)
+18	Sterren / deep sky
+19	Maan
+20	Zon (alleen met zonnefilter!)
+21	Landschap
+22	Uit
+23	Aan
+24	Stacken
+25	Belichting per frame
+26	60 s (alleen EQ, maximum)
+27	80 (standaard)
+28	Filter automatisch kiezen
+29	Dither-afstand
+30	Ditheren elke … frames
+31	Dark-kalibratie
+32	Losse frames opslaan
+33	Nee
+34	Alleen goede frames
+35	Alle frames
+36	Serieopname (zonder stacken)
+37	4K-modus (drizzle 2×)
+38	Achtergrondextractie (DBE)
+39	Na GoTo automatisch stacken
+40	Focus
+41	Smart-AF (GoTo/temperatuur)
+42	Autofocus vóór het stacken
+43	Apparaat
+44	Dauwverwarming
+45	Automatisch uitschakelen
+46	Temperatuureenheid
+47	EQ-pooluitlijning kalibreren
+48	Arm sluiten na Seestar-plan
+49	Expertmodus
+50	Live-weergave
+51	Zoom (zon/maan/planeet)
+52	Belichting livebeeld
+53	Groothoek
+54	Groothoekcamera gebruiken
+55	Groothoek in 4K
+56	Groothoek-ruisonderdrukking
+59	RA leeg
+60	RA moet tussen 0 en 24 h liggen
+61	Dec leeg
+62	Dec moet tussen -90° en +90° liggen
+63	M31 Andromedastelsel
+64	M33 Driehoekstelsel
+65	M45 Plejaden
+66	M42 Orionnevel
+67	M1 Krabnevel
+68	NGC 2244 Rozetnevel
+69	M81 Bodes stelsel
+70	M101 Windmolenstelsel
+71	M51 Draaikolkstelsel
+72	M13 Herculescluster
+73	M57 Ringnevel
+74	M27 Halternevel
+75	NGC 7000 Noord-Amerikanevel
+76	IC 1396 Olifantsslurf
+77	NGC 6992 Sluiernevel oost
+78	IC 1805 Hartnevel
+79	IC 1848 Zielnevel
+80	Windows-locatieservice
+81	nauwkeurig (vaak enkele meters tot km); de positie blijft op je pc. De Windows-instelling ‘Locatie’ moet voor desktop-apps zijn toegestaan.
+82	Locatie uit de Seestar
+83	de positie die de Seestar-app op je telefoon in de telescoop heeft opgeslagen; wordt alleen uit je Seestar gelezen.
+84	Bij benadering via het internetadres
+85	Nauwkeurigheid meestal stad/regio (ca. 5–50 km). Daarbij wordt je openbare IP-adres naar een dienst gestuurd (freeipapi.com of ipwho.is).
+87	Windrichting klopt niet
+88	geen geldig getal
+89	Formaat
+90	buiten het geldige bereik
+91	alleen beschikbaar onder Windows
+92	Windows-interface ontbreekt (pip install winrt-Windows.Devices.Geolocation)
+93	Toegang geweigerd – Windows-instellingen › Privacy › Locatie: ‘Desktop-apps toegang geven tot je locatie’ inschakelen
+94	Toegang geweigerd – Windows-locatieservice en toegang voor desktop-apps inschakelen
+95	Windows-locatie niet beschikbaar: {0}
+98	geen coördinaten
+99	Internetopvraag mislukt ({0})
+100	geen gegevens
+101	Emissienevel
+102	Supernovarest
+103	Planetaire nevel
+104	Sterrenhoop + nevel
+105	Nevel
+108	groter dan het beeldveld – mozaïek {0}×{1}
+109	klein in beeld
+110	ideaal met smalbandfilter
+111	past bij het smalbandfilter
+112	Maan maar {0}° verwijderd
+113	ma
+114	di
+115	wo
+116	do
+117	vr
+118	za
+119	zo
+120	Verbinding met {0}:{1} mislukt: {2}
+121	TCP-verbinding met {0}:{1} staat.
+122	Geen PEM-sleutel ingesteld – bij firmware vanaf ca. 7.18 worden opdrachten zonder aanmelding mogelijk geweigerd.
+123	Verbinding verbroken.
+124	Niet verbonden.
+125	Verzenden mislukt: {0}
+126	Geen antwoord op {0} (time-out {1} s)
+127	De Seestar heeft de verbinding gesloten.
+128	Ontvangstfout: {0}
+130	Al {0} s geen antwoord – verbinding geldt als onderbroken.
+131	Pakket 'cryptography' ontbreekt – pip install cryptography
+132	PEM-sleutel kon niet worden geladen: {0}
+133	Geen aanmeld-challenge ontvangen (Seestar bezet of oude firmware).
+134	Aanmelden gelukt.
+135	Aanmelden mislukt: {0}
+136	Onverwachte beeldgrootte {0} byte voor {1}×{2}
+137	Beeldkanaal {0}:{1} niet bereikbaar: {2}
+138	Beeldkanaal verbonden.
+139	Beeldkanaal: verzenden mislukt: {0}
+140	Beeld kon niet worden gedecodeerd: {0}
+141	Beeldkanaal verbroken.
+142	(zonder naam)
+143	BLE verbroken.
+144	GEBLOKKEERD: ‘{0}’ zou de arm sluiten – armbeveiliging actief ({1}). Filter verwijderen en afmelden op het tabblad ‘Focus & filter’.
+145	verbinden …
+146	opnieuw verbinden …
+147	Verbinden met {0} …
+148	Verbinding onderbroken – automatisch opnieuw verbinden …
+149	Weer verbonden (poging {0}).
+150	Verbinding meteen weer verbroken – blijf proberen.
+151	Herkend model: {0} (firmware {1})
+152	Model niet herkend ({0}).
+153	niet opgegeven
+159	60 s overgeslagen – apparaat staat in alt-az-modus (60 s alleen in EQ-modus).
+160	Instelling ‘{0}’ werd niet geaccepteerd: {1}
+161	Live-voorbeeld aangevraagd (de Seestar moet in sterren-/maanmodus staan).
+162	Actueel stackbeeld aangevraagd …
+163	Geen extern filter
+164	Breedband-LP
+165	UV/IR-blokfilter
+166	Nevelfilter (UHC)
+167	Dual-band
+168	Tri-band
+169	Quad-band
+170	Enkele lijn
+171	breedbandig, dempt natrium-/kwiklijnen
+172	Hα + OIII elk 7 nm, voor zeer lichtsterke optiek
+173	Hβ, OIII, Hα, SII – brede banden
+174	City Light Suppression met IR-blokkering
+175	Hβ+OIII en Hα
+176	Neodymium-type, dempt natriumlicht
+177	blokkeert UV en IR
+178	Hβ (eerder visueel)
+179	vier nevellijnen, breed
+180	Breedband-lichtvervuilingsfilter
+181	blokkeert IR
+182	Breedband-LP, IR-blokkering
+183	Breedband-LP voor ledlicht, IR-blokkering
+184	Nevelfilter, IR-blokkering
+185	495 nm en 660 nm, elk 35 nm
+186	Hα + OIII, breed
+187	Nevelfilter, vrij breed
+188	Neodymium, dempt natriumlicht
+189	Nevelfilter
+190	Nevelfilter, iets breder
+191	Nevelfilter (visueel)
+192	OIII, breed (visueel)
+193	Hβ, breed (visueel)
+194	Enkelelijnfilter op een kleursensor: alleen de rode pixels krijgen licht, het beeld wordt eenkleurig en duidelijk donkerder. Voor de Seestar zijn dual-bandfilters meestal de betere keuze.
+195	Enkelelijnfilter op een kleursensor: alleen de groene en blauwe pixels krijgen licht, het beeld wordt eenkleurig en duidelijk donkerder. Voor de Seestar zijn dual-bandfilters meestal de betere keuze.
+196	Helder genoeg – de Seestar-autofocus werkt normaal gesproken.
+197	Zeer donker – alleen app-autofocus met lange belichting; voor frames van 10 s vaak te weinig licht (EQ + 30–60 s).
+198	Seestar-autofocus mislukt vaak – gebruik de app-autofocus.
+199	Seestar-autofocus werkt soms; de app-autofocus is betrouwbaarder.
+200	 Eigenlijk gemaakt voor visuele waarneming – fotografisch vaak te breed en met reflecties.
+201	Seestar-autofocus werkt normaal.
+202	2"-filters (vrije opening meestal rond 46–48 mm) diafragmeren de opening van 50 mm minimaal – praktisch geen lichtverlies.
+203	2"-filters bedekken de opening van 30 mm volledig.
+204	2"-filters passen met een geschikte houder op alle Seestar-modellen.
+205	Beeldkanaal niet bereikbaar
+206	Focuspositie niet leesbaar
+207	Autofocus: optimum ligt aan de rand van het zoekbereik – eventueel herhalen met een groter bereik.
+208	Autofocus: te weinig sterren gevonden – terug naar de beginpositie.
+209	Stacken stoppen, arm blijft open
+210	Parkeren (arm sluiten)
+211	Parkeren en uitschakelen
+212	Apparaat kwam niet terug – reeks gepauzeerd. Hij kan later worden hervat.
+213	{0} · verbinding weg, wachten ({1}:{2})
+214	GoTo geweigerd: {0}
+215	GoTo naar {0} mislukt.
+216	Geen GoTo-einde gemeld – toch verder.
+217	{0} · focus ({1})
+218	Geen opgeslagen focuspositie – focus blijft ongewijzigd.
+219	App-autofocus zonder resultaat – opgeslagen positie gebruikt.
+220	{0} · controleren of de Seestar nog stackt …
+221	{0}: Seestar heeft tijdens de onderbreking doorgestackt – we gaan verder.
+222	{0}: stacken liep niet door – doel opnieuw aanrijden.
+223	{0} · nog {1}:{2}:{3}
+224	{0} bereikt in de komende {1} h geen {2}° – overgeslagen.
+225	{0} · wachten op {1}° hoogte · nog {2}:{3}
+226	‘{0}’ gestart: {1} stap(pen).
+227	{0} · hervatten …
+228	{0} · GoTo
+229	{0} wordt overgeslagen.
+230	Fout in reeks: {0}
+231	Reeks afgebroken. Arm blijft open.
+232	Reeks gepauzeerd bij stap {0}. De Seestar stackt de huidige stap door; bij de volgende verbinding kun je hervatten.
+233	Plan-einde: ‘{0}’ overgeslagen – armbeveiliging actief (extern filter). Stacken gestopt, arm blijft open.
+234	Plan-einde
+235	‘{0}’ klaar – arm blijft open.
+236	‘{0}’ klaar – Seestar parkeert.
+237	‘{0}’ klaar – Seestar parkeert en schakelt uit.
+238	Geen apparaat
+240	Op alle gemarkeerde toepassen
+241	Aanbevolen waarden
+242	⟳ Van apparaat lezen
+244	Wijzigingen gaan direct naar dit apparaat. ‘–’ = waarde (nog) niet door het apparaat gemeld.
+245	Startmodus
+246	Starten (arm openen)
+247	Geen apparaat gekozen
+248	Model onbekend
+249	Optiek {0} · sensor {1} · veld {2}
+250	Model wordt bij het verbinden herkend of rechtsboven gekozen.
+251	Belichting van 60 s bestaat alleen in EQ-modus – en 60 s is daar ook het maximum.\n\n
+252	Dit apparaat staat in alt-az-modus.
+253	De modus van dit apparaat is nog onbekend.
+254	\nSchakel op het tabblad ‘EQ-modus’ naar EQ-modus en lijn het apparaat uit.
+255	niet verbonden – ‘{0}’ wordt bij de volgende overdracht verzonden.
+256	Aanbevolen waarden ingesteld.
+257	Geen andere verbonden apparaten in de groep.
+258	Instellingen van ‘{0}’ overgenomen.
+259	Zonnefilter echt opgezet?
+260	▶ Live
+261	Stackbeeld
+262	■ Stop
+263	Automatisch stacken
+264	💾 PNG
+265	⧉ Eigen venster
+266	Stretch:
+267	gekoppeld
+268	Volledig scherm (F11)
+269	Altijd op voorgrond
+270	Venster vrij verschuifbaar, bijv. naar een tweede monitor – positie wordt onthouden.
+271	Geen beeld
+272	Geen apparaat gekozen.
+273	 · {0} frames
+274	Nog geen beeld beschikbaar.
+275	Opgeslagen: {0}
+278	Automatisch (systeemtaal)
+279	Taal:
+280	Taal: {0}
+281	Nieuw taalbestand opslaan
+282	Tekst
+283	Opgeslagen: {0}\n\nVertalingen invullen, de eerste regel aanpassen (‘# name: …’) en het bestand in de map ‘lang’ zetten.
+284	De nieuwe grootte wordt bij de volgende start van de app toegepast.
+294	Thema:
+295	Grootte:
+296	Actief apparaat:
+297	● Geen apparaat
+298	Opdrachten naar:
+299	actief apparaat
+300	alle gemarkeerde
+301	↺ Pagina resetten
+302	Model:
+303	auto-herkenning
+305	Logboek
+306	Overzicht
+307	Apparaat toevoegen
+308	Naam:
+309	IP-adres:
+310	＋ Toevoegen
+311	🔍 Netwerk doorzoeken
+312	Apparaten
+313	Klik op een regel = actief apparaat (»)  ·  Dubbelklik = voorbeeldvenster  ·  Vakje = apparaat hoort bij de groep
+314	Actief apparaat (»)
+315	Hernoemen
+316	Verwijderen
+317	Omhoog
+318	Omlaag
+319	Groep – geldt voor alle gemarkeerde apparaten tegelijk
+320	Alle verbinden
+321	Alle verbreken
+322	🖼 Alle voorbeelden openen
+323	Tijd + locatie
+324	Instellingen van het actieve apparaat overdragen
+325	Arm openen
+326	Autofocus
+327	▶ Stacken starten
+328	■ Stacken stoppen
+329	GoTo (doel uit ‘Besturing’)
+330	Parkeren
+331	Alle gemarkeerde apparaten parkeren?
+332	■ NOODSTOP alle
+333	Weer & tips
+334	Vernieuwen
+335	Weergegevens ophalen (open-meteo.com)
+336	De komende nacht
+337	48 uur: wolken, regen, duisternis, maan
+338	Balken: totale bewolking · stroken boven: lage / middelhoge / hoge wolken · blauwe lijn: regenkans · gele lijn: maanhoogte · achtergrond: hoe donkerder, hoe donkerder de hemel
+339	Wat loont vannacht?
+340	Min. hoogte:
+341	Opnieuw berekenen
+342	Plan voor vannacht maken
+343	Object
+344	Naam
+345	Type
+346	beste tijd
+347	max. hoogte
+348	goede uren
+349	Maanafst.
+350	Opmerking
+351	GoTo (doel uit ‘Opdrachten naar’)
+352	→ Planning
+353	→ Mozaïek
+354	Weergegevens: Open-Meteo.com (CC BY 4.0) · zon/maan worden lokaal berekend
+355	Weergegevens ophalen?\n\nDaarvoor stuurt de app je locatie, afgerond op ca. 1 km, naar de gratis weerdienst open-meteo.com (zonder account, zonder verdere gegevens). Je kunt dit hier altijd uitschakelen.
+356	Geen locatie – stel deze in op het tabblad ‘Locatie’.
+357	Weer wordt geladen …
+358	Weer niet beschikbaar: {0}
+359	Windows
+360	Internet
+361	Locatie
+362	Geen locatie ingesteld
+363	Weer uit – vink rechts aan om de wolken- en regenverwachting te laden. Duisternis en maan worden toch getoond.
+364	Weer van {0} · locatiebron: {1}
+365	Geen locatie
+366	Stel deze in op het tabblad ‘Locatie’ – dan krijg je nachttijden, weer en aanbevelingen.
+367	Geen echte nacht
+368	De zon gaat in de komende 24 uur niet diep genoeg onder.
+369	astronomisch donker
+370	alleen nautische schemering (zomer)
+371	alleen burgerlijke schemering
+372	Donker: {0} {1} – {2} ({3} h, {4})
+373	Helder (≤ 30 % wolken): {0} h
+374	Beste periode: {0} – {1}
+375	Regenkans: tot {0} %
+376	Afstand tot dauwpunt: min. {0} °C
+377	 → dauwverwarming inschakelen!
+378	Windstoten tot {0} km/h
+379	 → Seestar wiebelt, korter belichten
+380	● Goede nacht om te fotograferen
+381	● Deels bruikbaar
+382	● Liever niet – te bewolkt
+383	Duisternis & maan (zonder weer)
+384	Maan: {0} % verlicht, om middernacht {1}° hoog
+385	Maan: {0} % verlicht, om middernacht onder de horizon
+386	Heldere maan: nevels met smalbandfilter, sterrenstelsels beter op andere dagen.
+387	Zonder weergegevens – alleen duisternis en maan
+388	Schemering
+389	Dag
+390	{0} {1} · hemel: {2} · maan {3}° ({4} %)
+391	 · wolken {0} % (laag {1}, midden {2}, hoog {3}) · regen {4} % · {5} °C, dauwpunt {6} °C · windstoten {7} km/h
+392	Voor {0}
+393	 met {0}
+394	 zonder extern filter
+395	 · geeft voorkeur aan emissienevels
+396	Kies eerst een object in de lijst.
+397	Planningen
+398	Mozaïek
+399	Nog geen aanbevelingen – locatie instellen en ‘Opnieuw berekenen’.
+400	Voor vannacht kon geen zinvol plan worden gemaakt.
+401	Voorstel voor vannacht:\n\n{0}\n\nAls nieuwe planning overnemen? (Het plan dat nu in de editor open staat wordt vervangen, opgeslagen plannen blijven bewaard.)
+402	Nacht {0}
+403	Plan met {0} doelen voor vannacht gemaakt – controleer en sla op.
+404	Besturing
+405	Instellingen
+406	Focus & filter
+407	EQ-modus
+408	Voorbeeld
+409	Console
+410	Alle apparaten weer in de groep opnemen en de invoervelden leegmaken. De apparatenlijst blijft.
+411	Zoeken, type- en hoogtefilter en sortering naar standaard.
+412	Minimale hoogte 30°, aanbevelingen opnieuw berekenen. De weer-toestemming blijft zoals ze is.
+413	Automatisch opnieuw verbinden weer aan, veld IP-adres leeg, pad van PEM-sleutel verwijderd.
+414	Locatie en toestemming wissen – de app vraagt bij de volgende start opnieuw.
+415	Snelheid 1000, duur 2 s, doelvelden leegmaken.
+416	Aanbevolen waarden naar het actieve apparaat sturen (10 s, gain 80, ditheren 50 px elke 5, dark-kalibratie aan, alleen goede frames opslaan, verwarming uit).
+417	Raster 2×2, 20 % overlap, 30 min per paneel, framing 2×, 0°, 120 min, doel leegmaken.
+418	Editor leegmaken (nieuw plan) en invoer naar standaard. Opgeslagen plannen blijven bewaard.
+419	Autofocusinstellingen passend bij het filter, zoekbereik ±80, stapgrootte 10, curve leegmaken. Filter, armbeveiliging en opgeslagen focusposities blijven.
+420	Beginpositie 3, bereik ±2°, automatisch opnieuw meten aan, test 60 s / 10 min, livemeting uit.
+421	Stretch 0,20, niet gekoppeld, niet lineair, automatisch stacken aan.
+422	Lijst leegmaken, ‘Alleen Seestar’ aan, schrijfveld naar standaard.
+423	Methode get_device_state, parameters en uitvoer leegmaken.
+424	Pagina ‘{0}’ naar standaardinstellingen resetten?\n\n{1}
+425	Pagina ‘{0}’ naar standaardinstellingen gereset.
+426	Alle
+427	boven 20°
+428	Geen actief apparaat – de waarden worden bij het volgende apparaat ingesteld.
+429	Apparaatinstelling
+430	Mijn nacht
+431	3 (standaard, boven)
+432	Zoeken:
+433	Type:
+434	Sterrenstelsels
+435	Sterrenhopen
+436	Planetaire nevels
+437	Supernovaresten
+438	Hoogte nu:
+439	boven 0°
+440	boven 30°
+441	boven 45°
+442	alleen Messier & met naam
+443	Magn.
+444	Grootte
+445	Hoogte nu
+446	Richting
+447	Culminatie
+448	Beeldveld
+449	Kies een object.
+450	▶ GoTo + live (doel uit ‘Opdrachten naar’)
+451	GoTo op alle gemarkeerde
+452	Alleen zwenken
+453	→ Besturing
+454	Seestar in het netwerk
+455	🔍 Zoeken
+456	(Stationmodus: IP uit router/Seestar-app · AP-modus: 10.0.0.1)
+457	PEM-sleutel:
+458	Alleen nodig bij nieuwere firmware – zie README.
+459	Verbinden (als actief apparaat)
+460	Actief verbreken
+461	Opnieuw aanmelden
+462	Installatiewizard
+463	Nieuwe taal toevoegen …
+464	Alles resetten …
+465	Bij onderbreking automatisch opnieuw verbinden (alle apparaten)
+466	Initialisatie (tijd & locatie naar Seestar sturen)
+467	Locatie: –
+468	Tijd + locatie sturen
+469	Locatie wijzigen …
+470	(gaat naar het doel uit ‘Opdrachten naar’)
+471	Apparaatstatus
+472	Status opvragen
+473	Huidige positie
+474	Nog geen locatie ingesteld.
+475	Tijd + locatie naar Seestar sturen
+476	  (doel uit ‘Opdrachten naar’)
+477	Nodig voor: tijd en locatie op de Seestar, objecthoogtes en culminatie op het GoTo-tabblad, minimale hoogte in planningen, wedge-hoek in EQ-modus.
+478	Automatisch bepalen
+479	Locatie automatisch bepalen (toestemming)
+480	Nu bepalen
+481	Handmatig invoeren
+482	Breedte:
+483	Lengte:
+484	Plaatsnaam (optioneel):
+485	Toepassen
+486	Formaten: 52,52 · 52.52 · 52°31'12" N · 13° 24′ O · zuid en west met ‘-’ of S/W. Je locatie vind je bijv. in elke kaarten-app (rechtsklik/lang drukken op de plek).
+487	Arm
+488	Arm openen / sterrenmodus
+489	■ Alles stoppen
+490	Handmatig bewegen
+491	Snelheid
+492	  Duur (s):
+493	Toetsenbord: pijltjestoetsen, spatie = stop
+494	Positie: ?
+495	Doel aanrijden (GoTo)
+496	Catalogus:
+497	RA (h):
+498	Dec (°):
+499	J2000 (catalogus-waarden) · 5.588 · 5h35m17s · 5:35:17  |  -5.39 · -5°23'28"
+500	LP-filter en modus komen uit het tabblad ‘Instellingen’.
+501	GoTo + live-weergave
+502	Plate solve
+504	Overig
+505	🔔 Geluid afspelen
+506	Afsluiten
+507	Stacken (doel uit ‘Opdrachten naar’)
+508	Hervatten
+509	⧉ Instellingen als eigen venster
+510	Live-gebeurtenissen
+511	Gestackte frames: –
+512	Doel (middelpunt)
+513	Uit ‘Besturing’ overnemen
+514	Mozaïektype
+515	Rastermozaïek (panelen na elkaar)
+516	Framing-mozaïek (Seestar-intern, één stack)
+517	Raster
+518	Kolommen (RA):
+519	Rijen (Dec):
+520	Overlap:
+521	Tijd per paneel:
+522	Autofocus vóór elk paneel
+523	Framing
+524	Grootte (× beeldveld):
+525	Rotatie:
+526	Totale tijd:
+527	LP-filter:
+528	▶ Starten (doel uit ‘Opdrachten naar’)
+529	▶ Op alle gemarkeerde starten
+530	■ Mozaïek afbreken (doel)
+531	Plan (voor het actieve apparaat)
+532	Elk apparaat berekent de panelen met zijn eigen beeldveld. Rasterpanelen worden als eigen doelen (Naam_R1C1 …) opgeslagen en later bijv. in Siril/APP samengevoegd.
+533	Plan:
+534	Nieuw
+535	💾 Opslaan
+536	Verwijderen
+537	Stap
+538	Doel / details
+539	Duur
+540	Min. hoogte
+541	Bewerken
+542	Stap toevoegen
+543	Duur:
+544	Focus:
+545	＋ Doel uit ‘GoTo’
+546	＋ Mozaïek uit tabblad ‘Mozaïek’
+547	＋ Autofocus
+548	   ＋ Wachten tot
+549	toevoegen
+550	Uitvoeren
+551	Start:
+552	(‘nu’ of tijd UU:MM)
+553	Aan het einde:
+554	▶ Plan starten (doel uit ‘Opdrachten naar’)
+555	■ Reeks afbreken (doel)
+556	Extern filter op dit apparaat
+557	Merk:
+558	– geen filter –
+559	＋ Eigen filter …
+560	Eigen verwijderen
+561	Armbeveiliging: parkeren / sluiten / uitschakelen blokkeren
+562	Met een 2"-filterhouder voor het objectief kan de Seestar de arm niet sluiten – de motor zou tegen de houder rijden. De beveiliging blokkeert alle opdrachten die de arm sluiten, en planningen eindigen zonder parkeren.
+563	Waarom geen vaste focuswaarde per filter?
+564	Een filter voor het objectief verschuift de focus praktisch niet. De focuspositie hangt af van het afzonderlijke apparaat en van de temperatuur. Het probleem is de Seestar-autofocus: die belicht kort en ziet achter donkere filters te weinig sterren. De app-autofocus belicht langer, middelt meerdere beelden en onthoudt het resultaat per apparaat en filter.
+565	Scherpstellen
+566	Positie: –
+567	Lezen
+568	Precisie-autofocus (app)
+569	Belichting livebeeld:
+570	Beelden per stap:
+571	Zoekbereik:
+572	Stapgrootte:
+573	▶ Autofocus starten
+574	■ Annuleren
+575	Rijd eerst een sterrenveld aan (sterrenmodus). De Seestar mag niet stacken.
+576	Opgeslagen positie aanrijden
+577	Huidige positie opslaan
+578	Seestar-autofocus (zonder filter) + als referentie opslaan
+579	Scherptecurve (HFR – kleiner is scherper)
+580	Opgeslagen focusposities van dit apparaat
+581	Filter
+582	Positie
+583	Temp.
+584	Datum
+585	⟳ Vernieuwen
+586	Naar alt-az-modus
+587	Naar EQ-modus
+588	① Waterpas & wedge
+589	Helling: –
+590	Livemeting (elke seconde)
+591	Werkwijze: 1) Statief met waterpas grof horizontaal, één poot naar het noorden. 2) Hier tot onder 1° waterpas zetten. 3) Wedge op de waarde hierboven zetten, de aan/uit-knop van de Seestar wijst omhoog. 4) Pooluitlijning meten.
+592	② Pooluitlijning (3 punten)
+593	Beginpositie:
+594	1 (dichtbij)
+595	5 (veraf)
+596	Bereik:
+597	Nog geen meting.
+598	▶ Afwijking meten
+599	■ Beëindigen
+600	Na elke meting automatisch opnieuw meten (om bij te stellen)
+601	Doel: beide assen < 0,5° (groen). De Seestar-app accepteert < 1° (geel). Na elke draai aan hoogte/azimut de klemmen vastzetten en de volgende meting afwachten.
+602	③ Controle & tests
+603	Volg- / belichtingstest
+604	Rijd eerst een doel aan. De test stackt met de gekozen belichting en telt hoeveel frames de Seestar vanwege sterrensporen verwerpt.
+605	Belichting:
+606	▶ Test starten
+607	Het beeldvoorbeeld heeft numpy en Pillow nodig:\n\n    pip install numpy pillow\n\nDaarna de app opnieuw starten.
+608	Toont het actieve apparaat. Elk apparaat heeft daarnaast een eigen venster (Overzicht → dubbelklik).
+609	Bluetooth heeft het pakket 'bleak' nodig:\n\n    pip install bleak\n\nDaarna de app opnieuw starten.
+610	De Seestar gebruikt Bluetooth LE vooral om te ontwaken en voor de wifi-instelling. ZWO heeft het BLE-protocol niet gepubliceerd – dit tabblad toont alle services/characteristics, leest en schrijft ze en registreert meldingen. De eigenlijke telescoopbesturing loopt via wifi.
+611	🔍 Scannen
+612	Alleen Seestar tonen
+613	Service
+614	Characteristic
+615	Eigenschappen
+616	Beschrijving
+617	Meldingen aan
+618	Schrijven:
+619	Verzenden
+620	Willekeurige JSON-RPC-opdracht verzenden (methode + parameters als JSON).
+621	Methode:
+622	Parameters:
+623	Geen verbonden doelapparaat (controleer Overzicht).
+624	Kies eerst een apparaat in de lijst.
+625	IP-adres
+626	Model
+627	Status
+628	Frames
+629	Accu
+630	Taak
+631	Nog geen apparaat – vul boven een IP in of ‘Netwerk doorzoeken’.
+632	  [filter·beveiliging]
+634	Verbreken
+635	Verbinden …
+636	Annuleren
+637	Verbinden
+639	toegevoegd ({0}).
+640	‘{0}’ uit de lijst verwijderen?
+641	Voorbeeld – {0}
+642	alle gemarkeerde ({0})
+643	● verbonden
+644	● verbroken
+645	Gestackte frames ({0}): {1}  (verworpen: {2})
+650	Gebeurtenis {0}: {1}
+651	Installeer numpy en pillow voor het voorbeeld.
+652	Seestar zoeken in het netwerk (UDP-broadcast) …
+653	Geen Seestar gevonden. IP handmatig invullen (router of Seestar-app → Instellingen).
+654	Gevonden: {0} {1}
+655	PEM-sleutel kiezen
+656	Nog geen locatie ingesteld – bepaal of voer deze in op het tabblad ‘Locatie’.
+657	Seestar parkeren en arm sluiten?
+658	Seestar echt afsluiten?
+659	Positie: {0}
+660	Ongeldige coördinaten: {0}
+661	Doel
+662	RA {0}h{1}m  /  Dec {2}{3}°{4}'
+663	Model ingesteld op {0}.
+664	RA/Dec invoeren of een doel uit de catalogus kiezen.
+665	Geen geldig doel
+666	{0}: framing {1}× → ca. {2}° × {3}° · rotatie {4}° · {5} min
+667	{0}: {1}×{2} = {3} panelen → ca. {4}° × {5}° · totaal {6} h {7} min (+ GoTo/AF)
+668	N ↑   O ←
+669	Voer geldige coördinaten voor het middelpunt in.
+670	Geen verbonden doelapparaat voor het mozaïek.
+671	Loopt al op:
+672	Mozaïek {0}×{1}
+673	Mozaïek wordt afgebroken …
+674	Gepauzeerd mozaïek verworpen.
+675	⏸ gepauzeerd: {0} – stap {1}/{2}
+676	Voor ‘{0}’ staat ‘{1}’ open (stap {2} van {3}).\n\nHervatten? Bij ‘Nee’ wordt de opgeslagen stand verworpen.
+677	Reeks wordt bij stap {0}/{1} hervat.
+678	Opgeslagen reeks verworpen.
+679	Internet (IP, bij benadering)
+680	handmatig ingevoerd
+681	Breedte  {0}°   ({1})\nLengte   {2}°   ({3})
+682	Bron: {0}
+683	 · nauwkeurigheid ca. {0} km
+684	 · nauwkeurigheid ca. {0} m
+685	 · stand {0}
+686	\nTijdzone voor de Seestar: {0}
+687	Locatie: {0}° / {1}°
+688	Automatisch laten bepalen of hieronder handmatig invoeren.
+689	Locatie: nog niet ingesteld
+690	Toestemming gegeven op {0}. Vinkje weghalen om in te trekken.
+691	Toestemming ingetrokken – positie wordt alleen nog handmatig ingesteld.
+692	Nog niet gevraagd. Vink aan om automatische bepaling toe te staan.
+693	Automatische bepaling is aan – om handmatig in te voeren het vinkje bovenaan weghalen.
+694	Locatie automatisch bepalen?
+695	Mag {0} je locatie automatisch bepalen?
+696	De locatie wordt alleen op deze pc opgeslagen en naar je eigen Seestar-apparaten gestuurd (voor tijd, volgen en objecthoogtes). Kies welke bronnen gebruikt mogen worden. Je kunt dit altijd intrekken op het tabblad ‘Locatie’ en de positie in plaats daarvan met de hand invoeren.
+697	Toestaan
+698	Nee – ik voer hem zelf in
+699	Toestemming ingetrokken.\n\nDe laatst bepaalde positie behouden (als handmatige invoer)?\n‘Nee’ wist hem.
+700	Automatische bepaling is uit.
+701	Locatie bepalen …
+702	Locatie van de Windows-locatieservice overgenomen.
+703	Locatie uit ‘{0}’ overgenomen.
+704	‘{0}’ heeft geen locatie opgeslagen
+705	geen Seestar verbonden
+706	Locatie bij benadering via het internetadres overgenomen.
+707	geen bron gekozen
+708	Locatie kon niet worden bepaald: {0}
+709	Locatie kon niet worden bepaald: {0}. Je kunt hem ook handmatig invoeren (vinkje bovenaan weghalen).
+710	Ongeldige invoer: {0}.\nVoorbeelden: 52,52 / 13,40 of 52°31'12" N / 13°24' O
+711	Locatie handmatig ingesteld: {0}° / {1}°.
+712	Planeet
+713	past (staand)
+714	Mozaïek ≈ {0}×{1}
+715	{0} objecten
+716	{0} objecten · locatie op het tabblad ‘Locatie’ invoeren voor hoogte/culminatie
+717	Kies eerst een object.
+718	 · ook: {0}
+719	\nJ2000: RA {0}h{1}m  Dec {2}°   ·   vandaag (naar de Seestar): RA {3}h{4}m  Dec {5}°
+720	   ·   nu {0}° hoog
+721	   ·   boven 30° vanaf {0}
+722	   ·   bereikt vandaag geen 30°
+723	{0} staat nu onder de horizon. Toch aanrijden?
+724	GoTo {0} verzonden.
+725	Seestar-autofocus
+726	App-autofocus (voor filters)
+727	opgeslagen positie
+728	geen focus
+729	Stel eerst een geldig doel in op het tabblad ‘Mozaïek’.
+730	Voer de tijd in als UU:MM.
+731	Stap bewerken
+732	Tijd (UU:MM):
+733	Duur (min):
+734	Min. hoogte (° of leeg):
+735	Tijd
+736	Ongeldige invoer: {0}
+737	Wachten
+738	tot {0} uur
+739	verder om {0}
+740	Framing {0}×
+741	Raster {0}×{1} ({2} panelen)
+742	{0} min
+743	Opname
+744	bereikt min. hoogte niet
+745	 · hoogte {0}°→{1}°
+746	{0} stappen · opnametijd incl. GoTo/focus ca. {1} h {2} min · einde ca. {3}
+747	 · locatie ontbreekt
+748	Armbeveiliging actief op: {0} – daar eindigt het plan toch met open arm (extern filter). Op de andere apparaten wordt zoals gekozen geparkeerd.
+749	Armbeveiliging actief op: {0} – plan eindigt zonder parkeren.
+750	Plan ‘{0}’ opgeslagen.
+751	Nieuw plan
+752	Plan ‘{0}’ verwijderen?
+753	Het plan is leeg.
+754	Geen verbonden doelapparaat voor het plan.
+755	Plan
+756	{0} s
+757	Opgave fabrikant
+758	gangbare handelsopgave – datasheet controleren
+759	eigen invoer
+760	Soort: {0}
+761	\nDoorlaat: {0}
+762	\nHelderheid: {0} → autofocus {1} s × {2} beelden\nGegevens: {3}\n{4}
+763	\nAanbeveling: intern LP-/dual-bandfilter uitschakelen (dubbel filteren kost alleen licht).
+764	{0} modellen van {1} – kies een model.
+765	Eigen filter aanmaken
+766	Soort:
+767	Doorlaat (tekst, optioneel):
+768	Smalste bandbreedte in nm (leeg = onbekend):
+769	Geef merk en model op.
+770	Bandbreedte graag als getal (bijv. 7).
+771	Opslaan & gebruiken
+772	Eigen filter ‘{0}’ verwijderen?
+773	 · filter: {0}
+774	 · armbeveiliging actief
+775	Filter verwijderd – armbeveiliging uitschakelen?\nDaarna kan de Seestar weer parkeren en de arm sluiten.
+776	Intern LP-/dual-bandfilter uitschakelen? (aanbevolen bij smalbandfilter)
+777	Voor ‘{0}’ is focuspositie {1} opgeslagen. Nu aanrijden?
+778	Volgens de app is ‘{0}’ nog gemonteerd.\nArmbeveiliging echt uitschakelen?
+779	   ·   {0} °C
+780	Focuspositie {0} voor ‘{1}’ opgeslagen.
+781	Let op: temperatuur sinds het scherpstellen {0} °C veranderd – app-autofocus aanbevolen.
+782	Opgeslagen focuspositie {0} aangereden.
+783	Voor ‘{0}’ is nog geen focuspositie opgeslagen.
+784	De Seestar-autofocus is bedoeld voor gebruik ZONDER extern filter.\nIs het filter op dit moment verwijderd?
+785	Seestar-autofocus loopt …
+786	Referentie zonder filter: {0}. Filter opzetten, dan ‘Opgeslagen positie aanrijden’ of de app-autofocus starten.
+787	Seestar-autofocus: {0}
+788	geen terugmelding
+789	Autofocus niet mogelijk: {0}
+790	App-autofocus: beste positie {0}
+791	 (HFR {0})
+792	 voor ‘{0}’ opgeslagen.
+793	Geen verbonden actief apparaat.
+794	De app-autofocus heeft numpy en pillow nodig.
+795	Op dit apparaat loopt al een autofocus of een reeks.
+796	Fijn zoeken …
+797	Positie {0}:
+798	HFR {0} ({1} sterren)
+799	geen sterren
+800	Autofocus loopt …
+801	Klaar: positie {0}
+802	, HFR {0}
+803	Autofocus zonder resultaat – sterrenveld? Belichting/beelden verhogen, bereik vergroten.
+804	Nog geen meting
+805	Moduswissel (parkeert)
+806	EQ-modus (equatoriaal, met wedge)
+807	Alt-az-modus
+808	‘{0}’ omschakelen naar {1}?\n\nDe Seestar rijdt daarvoor naar de parkeerpositie (arm sluit).
+809	Omschakelen naar {0} aangevraagd.
+810	Alt-az
+811	te groot
+812	{0} ({1}) · montagemodus: {2}
+813	X: {0}°   Y: {1}°\nTotaal: {2}°  ({3})
+814	\nSensorhoek: {0}°
+815	geen sensorgegevens
+816	Helling: –  (livemeting inschakelen)
+817	Breedtegraad {0}° → wedge-schaal vanaf horizon: {1}°, vanaf loodrecht: {2}°.\nWelke schaal je wedge heeft, staat erop (bij twijfel: de poolas moet de breedtegraad boven de horizon wijzen).
+819	Azimut
+820	Hoogte
+821	Hoogte:  {0}°  ({1}′)\nAzimut:  {2}°  ({3}′)\nTotaal: {4}° → {5}  · {6} min geleden
+822	\nMeting loopt …
+823	Verbonden
+824	Montagemodus EQ
+825	Helling < 1°
+826	Pooluitlijning < 0,5°
+827	niet gemeten
+828	Belichting
+829	60 s – eerst testen
+830	Het apparaat staat in alt-az-modus. Pooluitlijning heeft alleen in EQ-modus zin.\n\nToch starten?
+831	Pooluitlijning gestart (beginpositie {0}).
+832	Pooluitlijning beëindigd.
+833	Pooluitlijning: hoogte {0}°, azimut {1}°
+834	Pooluitlijning onder 0,5° – klaar. Klemmen vast, apparaat niet meer bewegen.
+835	Pooluitlijning mislukt: {0}
+836	60 s bestaat alleen in EQ-modus. Eerst omschakelen en uitlijnen.
+837	Loopt … nog {0}:{1} · goed {2}, verworpen {3}
+838	 ({0} % goed)
+839	Test afgebroken.
+840	Geen frames geteld – was er een doel aangereden en stackte de Seestar?
+841	prima – deze belichting kun je gebruiken.
+842	gaat, maar pooluitlijning verbeteren of korter belichten.
+843	te veel verworpen frames: pooluitlijning, wind, stabiliteit controleren of korter belichten.
+844	Resultaat {0} s: {1} van {2} frames goed ({3} %) → {4}
+845	Instellingen – {0}
+846	Smart-AF (mislukt achter smalbandfilters)
+847	Seestar-autofocus vóór het stacken
+848	Armbeveiliging uit – parkeren en sluiten weer mogelijk. Auto-uit, Go-Home en Smart-AF kun je in de instellingen weer inschakelen.
+849	Armbeveiliging aan ({0}). Parkeren, uitschakelen en moduswissel zijn geblokkeerd.
+850	Uitgeschakeld voor filtergebruik:
+851	‘{0}’: accu op {1} %.\n\nAls de Seestar door een lege accu uitschakelt, kan hij de arm sluiten – dat kan de app niet voorkomen. Sluit stroom aan of verwijder het filter.
+852	Arm sluiten
+853	Armbeveiliging actief: {0}\n\n‘{1}’ zou de arm tegen de filterhouder rijden.\n\nIs het filter verwijderd? (‘Ja’ heft de beveiliging voor deze apparaten op)
+854	Alle opgeslagen gegevens wissen?\n\nApparatenlijst, locatie, PEM-pad, filters, opgeslagen focusposities, planningen, eigen filters en open reeksen worden verwijderd. De app start daarna als nieuw geïnstalleerd.
+855	Op {0} loopt nog een reeks. Toch resetten? (De Seestar stackt dan door.)
+856	Alles gereset. De app wordt nu afgesloten – bij de volgende start verwelkomt de installatiewizard je.
+857	Welkom – installatie
+858	Welkom bij {0}
+859	In drie korte stappen is alles ingesteld: locatie, je Seestar(s) en – alleen bij nieuwere firmware – de aanmeldsleutel. Alles kan later worden gewijzigd; de wizard vind je op het tabblad ‘Wifi’.
+860	Ondersteund worden Seestar S30, S30 Pro, S50 en S50 Pro, ook meerdere tegelijk. Het model herkent de app zelf bij het verbinden.
+861	1 · Locatie
+862	Nodig voor tijd en locatie op de Seestar, de hoogte van objecten op het GoTo-tabblad en de planningen.
+863	📍 Automatisch bepalen …
+864	Of met de hand (decimale graden of graden/minuten/seconden; Amsterdam bijv. 52,37 / 4,90):
+865	Breedte (°N):
+866	Lengte (°O):
+867	2 · Seestar toevoegen
+868	Het eenvoudigst in hetzelfde wifi-netwerk: in de Seestar-app het thuisnetwerk invoeren (stationmodus), dan hier zoeken. Of het IP-adres uit de router invullen. Meer apparaten kun je later op het tabblad ‘Overzicht’ toevoegen.
+869	🔍 In netwerk zoeken
+870	Al toegevoegd:
+871	Nog geen apparaat toegevoegd.
+872	3 · Aanmeldsleutel (alleen nieuwere firmware)
+873	Vanaf ongeveer firmware 7.18 accepteert de Seestar opdrachten alleen na aanmelding met een sleutel uit de officiële Seestar-app. Deze app levert de sleutel niet mee. Met de ‘Seestar tool’ uit het project seestar_alp (‘Extract PEM’) maak je hem uit je eigen Seestar-app. Zonder sleutel werkt de app bij oudere firmware toch – je kunt hem ook later op het tabblad ‘Wifi’ invoeren.
+874	Klaar
+875	Bij een klik op ‘Verbinden’ verbindt de app met alle toegevoegde apparaten en herkent het model.
+876	Volgende stappen:\n• Tabblad ‘GoTo’: object kiezen en aanrijden\n• Tabblad ‘Voorbeeld’: livebeeld bekijken\n• Tabblad ‘Focus & filter’: extern 2"-filter invoeren als je er een gebruikt – dan beschermt de app ook de arm tegen sluiten\n• Tabblad ‘EQ-modus’: alleen met wedge, voor belichtingen van 60 s
+877	Zoeken …
+878	Geen Seestar gevonden. Staat hij aan en in hetzelfde netwerk? Anders IP handmatig invullen.
+879	{0} apparaat/apparaten gevonden en toegevoegd:
+880	‘{0}’ toegevoegd.
+881	Ongeldige locatie: {0} (bijv. 52,37 / 4,90).
+882	Stap {0} van {1}
+883	Sluiten
+884	Verder
+885	Overslaan
+886	Terug
+887	Parameters zijn geen geldige JSON: {0}
+888	BLE-fout: {0}
+889	Adres
+890	Signaal
+891	Nog geen scan – druk op ‘Scannen’.
+893	BLE-scan loopt (6 s) …
+894	{0} apparaat/apparaten gevonden.
+895	Niets gevonden. Seestar aan? Eventueel ‘Alleen Seestar’ uitvinken.
+896	BLE: verbinden met {0} …
+897	BLE verbonden – services geladen.
+898	Kies eerst een characteristic in de lijst.
+899	BLE {0} gelezen: {1}
+900	BLE-melding {0}: {1}
+901	Meldingen voor {0} actief.
+902	Ongeldige hex-string.
+903	BLE {0}: {1} byte verzonden.
+904	Reeks loopt op: {0}\n\nBij het sluiten wordt hij gepauzeerd. De Seestar stackt het huidige paneel door, maar gaat niet naar het volgende. Bij de volgende start kun je hervatten.\n\nToch sluiten?
+905	Donkere nevel
+906	Emissienevel (HII)
+907	Sterrenstelsel
+908	Groep sterrenstelsels
+909	Paar sterrenstelsels
+910	Bolhoop
+911	Open sterrenhoop
+912	Reflectienevel
+913	Sterassociatie
+914	Adelaarsnevel
+915	Andromedastelsel
+916	Antennestelsels
+917	Zwarte-oogstelsel
+918	Bellennevel
+919	Knipperende planetaire nevel
+920	Bodes stelsel
+921	Vlinderstelsels
+922	Sluiernevel oost
+923	Sluiernevel oost (deel)
+924	Sluiernevel west (Heksenbezem)
+925	Nevel van De Mairan
+926	Dubbele sterrenhoop h Persei
+927	Dubbele sterrenhoop h en χ Persei
+928	Dubbele sterrenhoop χ Persei
+929	Driehoekstelsel
+930	Olifantsslurfnevel
+931	Eskimonevel
+932	Uilnevel
+933	Windmolenstelsel
+934	Vlammende-sternevel
+935	Vlamnevel
+936	Spooknevel (Cassiopeia)
+937	Hamburgerstelsel
+938	Halternevel
+939	Helixstelsel
+940	Helixnevel
+941	Herculescluster
+942	Hartnevel
+943	Hyaden
+944	Grotnevel
+945	Irisnevel
+946	Californiënevel
+947	Kattenoognevel
+948	Kikkervisjesnevel
+949	Kleerhanger (Brocchi's cluster)
+950	Kegelnevel / Kerstboomcluster
+951	Krabnevel
+952	Lagunenevel
+953	M78-reflectienevel
+954	Halvemaannevel
+955	Meeuwnevel
+956	NGC 1333 reflectienevel
+957	NGC 6914 reflectienevel
+958	Naaldstelsel
+959	Noord-Amerikanevel
+960	Omeganevel
+961	Orionnevel
+962	Pacmannevel
+963	Pelikaannevel
+964	Paardenkopnevel
+965	Paardenkopnevel-gebied
+966	Plejaden
+967	Praesepe (Kribbe)
+968	Kwallennevel
+969	Ringnevel
+970	Rozetnevel
+971	Running-Mannevel
+972	Zielnevel
+973	Sombrerostelsel
+974	Zonnebloemstelsel
+975	Kwintet van Stephan
+976	Helm van Thor
+977	Trifidnevel
+978	Draaikolkstelsel
+979	Tovenaarsnevel
+980	Sigaarstelsel
+981	Wifi
+982	Vul de breedtegraad in op het tabblad ‘Locatie’, dan staat hier de wedge-hoek.
+983	past
+985	NO
+986	O
+987	ZO
+988	Z
+989	ZW
+991	NW
+992	automatisch
+993	maakt niet uit
+994	gaat
+995	goed
+996	ja
+997	nee
+998	handmatig
+999	onbekend
+1000	verbonden
+1001	verbroken
+1002	verwacht
+1003	visueel
+1004	middel
+1005	helder
+1006	donker
+1007	zeer donker
+1008	nu
+1009	App-autofocus
+1010	Seestar-AF
+1011	EQ (equatoriaal)
+1012	alle
+1013	SetThreadExecutionState geweigerd
+1014	caffeinate/systemd-inhibit niet gevonden
+1015	Raster 2×2, 20 % overlap, 30 min per paneel, framing 2×, 0°, 120 min, doel leegmaken, standby-blokkering aan.
+1016	Stand-by weer toegestaan.
+1017	Stand-by van pc/laptop geblokkeerd zolang het mozaïek loopt ({0}).
+1018	Pc / laptop
+1019	Stand-by voorkomen zolang een mozaïek loopt
+1020	Alleen zolang een mozaïek loopt – verder gedraagt de pc zich zoals gewoonlijk.
+1021	Het scherm mag wel uitgaan. Laptopklep sluiten of de aan/uit-knop activeert de stand-by toch – laat de laptop open en aan de adapter.
+1022	Stand-by kon niet worden geblokkeerd: {0}
+1023	Mozaïek klaar – pc/laptop mag weer in stand-by.
+1024	● Stand-by geblokkeerd – mozaïek loopt op: {0}
+1025	Mozaïek loopt – stand-by is toegestaan (vinkje uit).
+1026	Stand-by-blokkering niet mogelijk: {0}
+1027	Alleen tijdens een mozaïek. Laptop open en aan de adapter laten.
+1028	Dauwkap
+1029	handmatig ingeschakeld
+1030	GEBLOKKEERD: ‘{0}’ zou de arm sluiten – armbeveiliging actief ({1}). Filter of dauwkap verwijderen en afmelden op het tabblad ‘Focus & filter’.
+1031	Plan-einde: ‘{0}’ overgeslagen – armbeveiliging actief ({1}). Stacken gestopt, arm blijft open.
+1032	Filter & dauwkap op dit apparaat
+1033	Dauwkap gemonteerd
+1034	Met een 2"-filterhouder of dauwkap voor het objectief kan de Seestar de arm niet sluiten – de motor zou ertegenaan rijden. De beveiliging blokkeert alle opdrachten die de arm sluiten, en planningen eindigen zonder parkeren.
+1035	  [armbeveiliging]
+1036	Armbeveiliging actief op: {0} – daar eindigt het plan toch met open arm (filter/dauwkap). Op de andere apparaten wordt zoals gekozen geparkeerd.
+1037	Dauwkap verwijderd – armbeveiliging uitschakelen?\nDaarna kan de Seestar weer parkeren en de arm sluiten.
+1038	Uitgeschakeld voor de armbeveiliging: 
+1039	‘{0}’: accu op {1} %.\n\nAls de Seestar door een lege accu uitschakelt, kan hij de arm sluiten – dat kan de app niet voorkomen. Sluit stroom aan of verwijder filter/dauwkap.
+1040	Armbeveiliging actief: {0}\n\n‘{1}’ zou de arm tegen de filterhouder of dauwkap rijden.\n\nIs alles verwijderd? (‘Ja’ heft de beveiliging voor deze apparaten op)
+1044	(gewijzigd)
+1047	Automatisch wifi-verbinden werkt alleen onder Windows – verbind via het wifi-menu van de pc.
+1048	Geen wifi-naam ingevuld.
+1049	Windows vereist locatietoegang voor wifi-opdrachten: Instellingen › Privacy › Locatie › ‘Desktop-apps toegang geven tot je locatie’ inschakelen.
+1050	Wifi-profiel kon niet worden aangemaakt: {0}
+1051	Verbinden met ‘{0}’ mislukt: {1}
+1052	Pc is verbonden met de wifi ‘{0}’.
+1053	Verbonden met ‘{0}’, maar de Seestar antwoordt niet op {1}. Wachtwoord juist? Staat de Seestar aan en dichtbij?
+1054	Pc wordt verbonden met de wifi ‘{0}’ …
+1055	Wifi-gegevens van de Seestar overgenomen ({0}).
+1056	Toegangsgegevens …
+1057	Toegangsgegevens – {0}
+1058	Apparaatnaam (in deze app):
+1059	Verbinding
+1060	Thuisnetwerk – Seestar en pc op dezelfde wifi (stationmodus, aanbevolen)
+1061	Direct – pc verbindt met de wifi van de Seestar (steeds maar één Seestar)
+1062	Wifi-naam van de Seestar:
+1063	Wifi-wachtwoord:
+1064	Wachtwoord tonen
+1065	Wifi-naam bijv. S50_1a2b3c4d. Het fabriekswachtwoord is {0}; de Seestar-app toont beide in het apparaatmenu. De app leest de wifi-naam zelf uit als het apparaat verbonden is; nieuwere firmware levert het wachtwoord alleen versleuteld – vul het één keer zelf in.
+1066	Thuisnetwerk volgens de Seestar: {0} · IP {1} · signaal {2} dBm
+1067	De Seestar is met geen thuisnetwerk verbonden (alleen eigen wifi).
+1068	Daarvoor moet het apparaat verbonden zijn.
+1069	Vul apparaatnaam en IP-adres in.
+1070	Vul voor de directe verbinding de wifi-naam van de Seestar in.
+1071	Het IP-adres {0} is al aan een ander apparaat toegewezen.
+1072	Toegangsgegevens opgeslagen.
+1073	Pc wordt verbonden met de Seestar-wifi …
+1074	Van Seestar lezen
+1075	Pc nu met deze wifi verbinden
+1076	Opslaan
+1077	Eigen versie van de maker herkend – automatisch opnieuw ondertekend.
+1078	Laatste stackbeeld laden …
+1079	‘{0}’ blijft uit – armbeveiliging actief ({1}).
+1080	{0} offline gewijzigde instelling(en) naar het apparaat overgedragen.
+1081	‘{0}’ bestaat niet bij dit model – overgeslagen.
+1082	niet verbonden – ‘{0}’ wordt bij de volgende verbinding verzonden.
+1083	accessoire voor het objectief
+1084	Automatisch verbinden (bij het starten en na een onderbreking) en tijd/locatie bij verbinden versturen weer aan, veld IP-adres leeg, pad van de PEM-sleutel verwijderd.
+1085	Bij elke verbinding automatisch sturen (zoals de Seestar-app)
+1086	Ander accessoire voor het objectief
+1087	Tijd en locatie naar de Seestar gestuurd.
+1088	Tijd gestuurd – locatie ontbreekt nog (tabblad ‘Locatie’).
+1090	Niets meer voor het objectief – armbeveiliging uitschakelen?\nDaarna kan de Seestar weer parkeren en de arm sluiten.
+1091	GEBLOKKEERD: ‘{0}’ zou de arm sluiten – armbeveiliging actief ({1}). Filter, dauwkap of accessoire verwijderen en afmelden op het tabblad ‘Focus & filter’.
+1092	Filter & accessoires op dit apparaat
+1089	 · accessoire
+1093	vanaf 2 °C temperatuurverandering
+1094	vanaf 3 °C temperatuurverandering
+1095	elke 60 min
+1096	elke 90 min
+1097	elke 120 min
+1098	elke 60 min of vanaf 2 °C
+1099	elke 90 min of vanaf 2 °C
+1100	{0} °C temperatuurverandering
+1101	{0} min sinds de laatste focus
+1102	{0}: opnieuw scherpstellen ({1}) – stacken kort onderbroken.
+1103	{0}: focus bijgesteld, stacken gaat verder in dezelfde stack.
+1104	Opnieuw scherpstellen:
+1105	Focus wijzigen
+1106	Op {0} loopt het stacken.\n\n‘{1}’ – daarvoor wordt het stacken kort onderbroken. Hoe moet het daarna verder?\n\nJa = doorgaan (dezelfde stack)\nNee = opnieuw beginnen (nieuwe stack)\nAnnuleren = focus niet wijzigen
+1107	Stacken onderbroken voor de focuswijziging.
+1108	Stacken hervat (dezelfde stack).
+1109	Stacken opnieuw gestart (nieuwe stack).
+1110	Herscherpen: optimum niet binnen het smalle bereik – zoeken over het volledige bereik (± 80).
+1111	Seestar zoeken in het netwerk …
+1112	Gezocht via deze pc-adressen: {0}
+1113	Zoeken gelukt via {0}.
+1114	TCP-scan
+1115	Sterrencorrectie
+1116	Vliegtuig-/satellietsporen verwijderen
+1117	Autofocus vóór elk doel
+1118	Fijnafstelling (handmatig bewegen)
+1119	Wissen
+1120	Antwoord kopiëren
+1121	Eerdere antwoorden bewaren
+1122	Console-antwoord naar het klembord gekopieerd.
+1123	Weer negeren (alsof het helder is)
+1124	Nog geen locatie ingesteld – tabblad ‘Locatie’.
+1125	Berekend zonder weer – alleen zinvol als het toch opklaart.
+1126	Het wordt vandaag op je locatie niet echt donker.
+1127	Voor vannacht is geen enkel helder uur voorspeld – daarom geen aanbevelingen. Met ‘Weer negeren’ zie je wat zonder wolken mogelijk zou zijn.
+1128	Geen object staat vandaag lang genoeg boven {0}° – verlaag de minimale hoogte.
+1129	Let op: als de Seestar-app op je telefoon tegelijk verbonden is, overschrijft die de locatie in de Seestar met de positie van de telefoon.
+1130	Bij het starten automatisch verbinden
+1131	Automatisch verbinden met {0} bekende Seestar(s) …
+1132	Vrije opslag: {0} GB
+1133	Het programma kon niet starten.\n\n{0}: {1}\n\nDetails staan in:\n{2}
+1134	‘{0}’ blijft uit – achter het filter mislukt de Seestar-autofocus. Gebruik de app-autofocus (tabblad ‘Focus & filter’).
+1135	Live-voorbeeld: de arm is gesloten en de app opent hem niet vanwege de armbeveiliging. Verwijder eerst filter/dauwkap of open de arm in het tabblad ‘Bediening’.
+1136	‘{0}’: de arm is gesloten.\n\nArm openen en sterrenmodus starten zodat er live-beelden komen?
+1137	Arm wordt geopend en sterrenmodus gestart voor het live-voorbeeld …
+1138	Sterrenmodus stond uit – wordt gestart voor het live-voorbeeld …
+1139	Er komt al een tijdje geen nieuw live-beeld. Staat de Seestar in sterren-/maanmodus en is hij nog verbonden?
+1140	Live: wacht op een nieuw beeld …
+1141	📂 Openen …
+1142	Opslaan als …
+1143	Plan opslaan
+1144	Naam voor het plan:
+1145	OK
+1146	Het plan is leeg – er is niets om op te slaan.
+1147	Er bestaat al een plan ‘{0}’. Overschrijven?
+1148	Er zijn nog geen opgeslagen plannen.
+1149	Plan openen
+1150	Opgeslagen plannen (dubbelklik = openen):
+1151	Stappen
+1152	Openen
+1153	Plan ‘{0}’ geopend ({1} stappen).
+1154	Nieuw, leeg plan aangemaakt – voeg hieronder doelen toe en klik dan op ‘Opslaan’.
+1155	Plan ‘{0}’ nu starten?\n\n{1} stap(pen) op: {2}\nStart: {3}\nAan het einde: {4}\n\nDe Seestar zwenkt zelfstandig naar de doelen.
+1156	Plan niet gestart.
+1157	Opgeslagen reeks verworpen – de Seestar wordt gestopt (doel zoeken/stacken van de reeks).
+1158	{0} is onder {1}° gezakt – opname beëindigd, verder met de volgende stap.
+1159	 · eerder klaar (onder {0}°)
+1160	Vrije opslag
+1161	‘{0}’: de Seestar heeft het commando bevestigd, maar toont nog steeds ‘{1}’. Zet deze instelling voorlopig in de Seestar-app om – deze app toont de echte stand.
+1162	Zo lees je de mozaïektekening
+1163	Elke rechthoek is een veld (paneel) dat de Seestar na elkaar opneemt – het getal is de volgorde.\n\nDe smalle stroken tussen de velden zijn de overlap (links onder ‘Raster’ in te stellen, meestal 15–20 %). Twee velden nemen deze gebieden op, zodat Siril of een ander programma de beelden later naadloos kan samenvoegen. Het kleine vakje in het midden wordt door alle aangrenzende velden opgenomen.\n\nRastermozaïek = losse velden na elkaar (groter, meer controle). Framing-mozaïek = de Seestar doet het zelf in één enkele stack.
+1164	Niet meer tonen
+1165	Begrepen
+1166	Tips weer tonen
+1167	Tips worden weer getoond wanneer je de betreffende pagina opent.
+1168	Ringen: 0,5° (groen) · 1° (geel) · 2° (rood). De waterpas is erg fijn – licht kantelen met de hand is vaak maar tienden van een graad.
+1169	Nulpunt instellen
+1170	Nulpunt wissen
+1171	Zet eerst de live-meting aan zodat er een meetwaarde is.
+1172	Staat de Seestar nu precies waterpas (gecontroleerd met een waterpas)?\n\nDan onthoudt de app de huidige meetwaarde als nulpunt voor dit apparaat.
+1173	Nulpunt van de waterpas opgeslagen.
+1174	Nulpunt van de waterpas gewist – de sensorwaarde geldt weer.
+1175	\n(met eigen nulpunt)
+1176	‘{0}’ meldt een locatie op ongeveer {1} km van je ingestelde locatie (meestal van de Seestar-app op de telefoon).\n\nBen je nu ergens anders? Neem dan deze locatie over – objectlijsten, weer en aanbevelingen worden voor de nieuwe plek berekend.
+1177	Nieuwe locatie overgenomen ({0} km van de oude) – alles wordt voor de nieuwe plek berekend.
+1178	De automatisch bepaalde locatie ligt ongeveer {0} km van je ingestelde locatie.\n\nNieuwe locatie overnemen?
+1179	Nieuwe locatie ({0} km van de oude) – objectlijsten, weer en aanbevelingen worden voor de nieuwe plek berekend.
+1180	alleen nu in seizoen (gesorteerd)
+1181	beste maanden
+1182	het hele jaar
+1183	{0} objecten · seizoenen worden berekend …
+1184	{0} objecten · {1} komen hier nooit boven 10°
+1185	jan
+1186	feb
+1187	mrt
+1188	apr
+1189	mei
+1190	jun
+1191	jul
+1192	aug
+1193	sep
+1194	okt
+1195	nov
+1196	dec
+1197	boven 10°
+1198	boven 15°
+1199	boven 25°
+1200	boven 35°
+1201	boven 40°
+1202	boven 50°
+1203	5 doorlaatbanden, breedband-lichtvervuilingsfilter
+1204	OIII 18 nm (eerder visueel)
+1205	Kleurrandcorrectie voor maan en planeten (eerder visueel)
+1206	dempt fel maanlicht (eerder visueel)
+1207	Lineair polarisatiefilter
+1208	SV260 Multi-Bandpass
+1209	Omega Centauri
+1210	Grote Magelhaense Wolk
+1211	Kleine Magelhaense Wolk
+1212	Tarantulanevel
+1213	Carinanevel
+1214	Wensput-cluster
+1215	Juwelendoosje
+1216	Zuidelijke Bijenkorf
+1217	Parelcluster
+1218	Zuidelijke Plejaden
+1219	Lambda Centauri-nevel
+1220	Blauwe Planetaire
+1221	Spiraalvormige planetaire nevel
+1222	Pauw-spiraalstelsel
+1223	Grote Pauw-bolhoop
+1224	Omicron Velorum-cluster
+1225	S Normae-cluster
+1226	47 Tucanae
+1227	Silver Sliver-stelsel
+1228	Nulpunt: eigen waarde
+1229	Niets (volgen gaat door)
+1230	Volgen uit
+1231	Montering parkeren
+1232	Meridiaan
+1233	Opnames
+1234	Opnames:
+1235	Filterpositie
+1236	Filterpositie:
+1237	Gain:
+1238	Belichting (s):
+1239	Opnameplan
+1240	ASIAIR verbinden
+1241	Niet verbonden
+1242	Meridiaanflip en verloop
+1243	Verbind eerst met de ASIAIR.
+1244	PEM-sleutel van de ASIAIR-app kiezen
+1245	Voer het IP-adres van de ASIAIR in (op de eigen wifi van de Air meestal 10.0.0.1).
+1246	Het PEM-bestand is niet gevonden.
+1247	ASIAIR verbonden ({0}, {1}).
+1248	ASIAIR: verbinding mislukt – staat de Air aan en zit de pc op zijn wifi?
+1249	ASIAIR losgekoppeld.
+1250	Er loopt een ASIAIR-plan. Toch loskoppelen? Het plan wordt dan afgebroken.
+1251	ASIAIR: montering aangemeld.
+1252	ASIAIR: montering kon niet worden aangemeld.
+1253	Het object staat nu onder 10° hoogte. Toch erheen draaien?
+1254	ASIAIR: GoTo {0} met plate solving …
+1255	ASIAIR: {0} is gecentreerd.
+1256	ASIAIR: alles gestopt.
+1257	Voer belichting, gain, opnames en filterpositie als getallen in.
+1258	Belichting en aantal moeten groter dan 0 zijn.
+1259	Voer een naam voor het plan in.
+1260	ASIAIR-plan „{0}” opgeslagen.
+1261	ASIAIR-plan „{0}” geladen.
+1262	Er loopt al een ASIAIR-plan.
+1263	Het plan is leeg – voeg eerst doelen toe uit „GoTo”.
+1264	Voor de meridiaanflip is de locatie nodig – stel die in op het tabblad „Locatie”.
+1265	ASIAIR-plan met {0} doelen starten?
+1266	Meridiaanflip: automatisch, {0} min na de meridiaan.
+1267	Meridiaanflip: uit.
+1268	Controleer eerst: kabels lang genoeg voor de zijwissel, niets in het zwenkbereik.
+1269	ASIAIR-plan echt afbreken?
+1270	Selecteer een doel in het opnameplan.
+1271	Flipprocedure nu uitvoeren met „{0}”?
+1272	De montering gaat bewegen. Controleer kabels en zwenkbereik.
+1273	ASIAIR: fliptest geslaagd.
+1274	ASIAIR: fliptest mislukt – zie het logboek.
+1275	ASIAIR: poort {0} niet bereikbaar ({1}).
+1276	ASIAIR antwoordt al {0} s niet (poort {1}).
+1277	ASIAIR heeft de verbinding (poort {0}) gesloten.
+1278	ASIAIR: ontvangstfout ({0}).
+1279	ASIAIR: geen aanmeld-challenge ontvangen (oudere firmware heeft geen aanmelding nodig).
+1280	ASIAIR: aanmelding geslaagd.
+1281	ASIAIR: aanmelding geweigerd – is het de sleutel uit de ASIAIR-app?
+1282	ASIAIR ⚡ {0} {1}
+1283	ASIAIR: tijd en locatie verzonden en bevestigd.
+1284	ASIAIR: locatie niet bevestigd – controleer in de ASIAIR-app.
+1285	ASIAIR: GoTo geweigerd: {0}
+1286	ASIAIR: GoTo – geen reactie (time-out).
+1287	ASIAIR: GoTo mislukt ({0}, code {1}).
+1288	ASIAIR: start guiding geweigerd: {0}
+1289	ASIAIR: guiding loopt.
+1290	ASIAIR: guiding kwam niet op gang (status: {0}).
+1291	ASIAIR: dithering-instelling niet leesbaar – blijft zoals in de ASIAIR-app.
+1292	ASIAIR: dithering kon niet worden ingesteld – stel het in de ASIAIR-app in.
+1293	ASIAIR: {0} geweigerd: {1}
+1294	ASIAIR: autofocus geweigerd (geen elektronische focuser?).
+1295	ASIAIR: autofocus klaar.
+1296	ASIAIR: autofocus zonder succes – er wordt toch doorgegaan.
+1297	ASIAIR: kalibratie spiegelen niet mogelijk – opnieuw kalibreren.
+1298	ASIAIR-plan gestart: {0} doelen.
+1299	ASIAIR-plan: onverwachte fout: {0}
+1300	ASIAIR-plan afgebroken.
+1301	ASIAIR-plan klaar ({0} meridiaanflip(s)).
+1302	{0}: bereikt vandaag de minimumhoogte niet – overgeslagen.
+1303	{0}: wacht tot {1} (minimumhoogte {2}°).
+1304	Doel {0}/{1}
+1305	Opname {0}/{1}
+1306	Hoogte {0}°
+1307	Flip over {0} min
+1308	Flip nu
+1309	wacht op minimumhoogte
+1310	GoTo met plate solving
+1311	Meridiaanflip bezig
+1312	{0}: GoTo met plate solving …
+1313	{0}: GoTo niet mogelijk – volgend doel.
+1314	{0}: zonder guiding geen opnames – volgend doel.
+1315	{0}: opname zonder guiding.
+1316	{0}: {1} opnames klaar.
+1317	{0}: onder de minimumhoogte gezakt – serie beëindigd ({1}/{2}).
+1318	{0}: meridiaanflip mislukt – doel afgebroken.
+1319	{0}: al {1} min geen nieuwe opname – serie wordt herstart.
+1320	{0}: meridiaanflip begint (uurhoek {1} min).
+1321	{0}: pierzijde {1} → {2}.
+1322	{0}: guiding na de flip niet mogelijk.
+1323	{0}: meridiaanflip geslaagd – opname gaat door.
+1324	Guiding starten
+1325	Guiding stoppen
+1326	Montering aanmelden
+1327	opnieuw kalibreren (veilig)
+1328	kalibratie spiegelen (sneller)
+1329	Bladeren …
+1330	Tijd en locatie bij verbinden verzenden
+1331	Sleutel uit de ASIAIR-app (niet de Seestar-sleutel) – zonder werken alleen montering en guiding.
+1332	Automatische meridiaanflip
+1333	Minuten na de meridiaan:
+1334	lopende belichting laten afronden
+1335	Autofocus na de flip
+1336	Guiding gebruiken
+1337	Guiding na de flip:
+1338	Dithering elke
+1339	opnames (0 = zoals in de Air)
+1340	▶ Plan starten
+1341	■ Plan afbreken
+1342	Meridiaanflip nu testen
+1343	Uurhoek
+1344	Zijde
+1345	Serie
+1346	aan
+1347	uit
+1348	Er loopt een ASIAIR-plan. Bij sluiten wordt het afgebroken (de Air beëindigt de lopende serie niet zelf).
+1349	Toch sluiten?
+1350	Meridiaanflip aan (5 min na de meridiaan, belichting afwachten, zonder autofocus), guiding aan en na de flip opnieuw kalibreren, dithering elke 3 opnames, aan het eind niets doen, 120 s / gain 252 / 60 opnames. Verbinding en opgeslagen plannen blijven.
+1351	ASIAIR – eerst lezen
+1352	Deze pagina bestuurt een ZWO ASIAIR (Mini, Plus, Pro of een camera met ingebouwde Air zoals de ASI585MC Air) inclusief montering: GoTo met plate solving, guiding, opnameseries en een automatische meridiaanflip tijdens het plan.
+1353	Belangrijk: deze functie is gebaseerd op de openbare community-documentatie van het ASIAIR-protocol en is nog niet op een echt apparaat getest. Bekijk de flip eerst 's avonds met „Meridiaanflip nu testen”.
+1354	Voor camera-opdrachten heeft de Air een eigen sleutel (PEM) uit de ASIAIR-app nodig – niet de Seestar-sleutel.
+1355	Zo verloopt de flip: lopende belichting afronden → guiding stoppen → GoTo met plate solving naar hetzelfde doel (de montering wisselt van zijde) → guiding herstarten → serie met de resterende opnames voortzetten. Alleen voor equatoriale monteringen (bijv. AM5 in EQ-modus). Schakel de eigen autorun-flip van de ASIAIR-app niet ook in.
+1356	Volgen
+1357	Montering:
+1358	equatoriaal (EQ)
+1359	azimutaal (Alt-Az)
+1360	ASIAIR: azimutale montering – geen meridiaanflip nodig, let wel op beeldveldrotatie en het zenit.
+1361	Azimutale montering: geen meridiaanflip nodig.
+1362	Controleer eerst: kabels lang genoeg voor een volle draai, niets in het zwenkbereik.
+1363	{0}: boven {1}° – in alt-az-modus draait de montering vlak bij het zenit heel snel, opnames kunnen uitsmeren.
+1364	In alt-az-modus is er geen meridiaanflip – de montering volgt gewoon over de meridiaan door.
+1365	Dagtest: zonder plate solving en guiding – lensdop erop!
+1366	{0}: GoTo zonder plate solving (dagtest) …
+1367	ASIAIR: montering staat op het doel (dagtest, zonder plate solving).
+1368	{0}: minder dan {1}° van de zon – overgeslagen.
+1369	Het doel staat minder dan {0}° van de zon – GoTo uit veiligheid geblokkeerd.
+1370	Dagtest: lensdop erop? De montering zwenkt zonder plate solving.
+1371	DAGTEST: lensdop erop? De montering zwenkt zonder plate solving; doelen dichter dan {0}° bij de zon worden overgeslagen.
+1372	▶ ASIAIR: GoTo met plate solving
+1373	＋ naar het ASIAIR-opnameplan
+1374	Het object is in het GoTo-tabblad verborgen – maak de filters ruimer.
+1375	Voorstel voor vannacht:
+1376	Overnemen als nieuw ASIAIR-opnameplan? (Het plan in de editor wordt vervangen, opgeslagen plannen blijven.)
+1377	ASIAIR-netwerk
+1378	Thuis · direct op de wifi van de Air (hotspot)
+1379	Wifi-naam van de Air:
+1380	Wachtwoord:
+1381	Pc met Air-wifi verbinden
+1382	Staat in de ASIAIR-app (wifi-instellingen). De Air heeft dan meestal het adres 10.0.0.1. Het wachtwoord wordt alleen versleuteld op deze pc opgeslagen.
+1383	Thuis · Air in het thuisnetwerk (stationmodus)
+1384	🔍 Air in het netwerk zoeken
+1385	overnemen als adres „Thuis”
+1386	Adressen
+1387	Thuis:
+1388	Onderweg:
+1389	gebruiken en verbinden
+1390	Verbinding testen
+1391	Bij onderbreking automatisch opnieuw verbinden
+1392	Bij onderbreking wacht het plan maximaal
+1393	Onderweg · op afstand bedienen terwijl de telescoop thuis staat
+1394	Aanbevolen (het veiligst): het programma draait op een pc THUIS in hetzelfde netwerk als de Air. Onderweg werk je via extern bureaublad op die pc (bijv. Windows Extern bureaublad via VPN, Chrome Remote Desktop of AnyDesk). Het plan loopt dan ook door als je verbinding wegvalt.
+1395	Alternatief: dit programma onderweg op de laptop en een VPN naar huis (bijv. WireGuard/VPN van de FRITZ!Box of Tailscale met een apparaat thuis als subnetrouter). Vul bij „Onderweg” hetzelfde adres in als thuis (Air in het thuisnetwerk, niet in hotspotmodus). Valt de verbinding weg, dan maakt de Air de lopende serie zelf af; het programma verbindt opnieuw en gaat verder.
+1396	NOOIT poorten (4400/4700) naar de Air openzetten in de router: poort 4400 heeft geen wachtwoord – iedereen op internet zou de montering kunnen bewegen.
+1397	Verbonden met „{0}”, maar de Air antwoordt niet op 10.0.0.1. Wachtwoord juist?
+1398	zoeken … (ca. 5 s)
+1399	{0} gevonden
+1400	Geen Air gevonden – zit hij in hetzelfde netwerk en staat hij aan?
+1401	Voer eerst een adres in.
+1402	testen …
+1403	zeer goed
+1404	traag – werkt, maar opdrachten duren langer
+1405	{0}: beide poorten bereikbaar, reactietijd ca. {1} ms ({2}).
+1406	{0}: slechts één poort bereikbaar – is dit echt een ASIAIR?
+1407	{0}: niet bereikbaar. Thuis: juiste wifi? Onderweg: VPN verbonden?
+1408	ASIAIR: verbinding verbroken – probeer automatisch opnieuw te verbinden …
+1409	ASIAIR: weer verbonden (na {0} s).
+1410	Verbinding met ASIAIR verbroken – wacht op herverbinding
+1411	ASIAIR-plan beëindigd: verbinding al {0} min weg. De Air maakt de lopende serie zelf af; volgende doelen worden niet aangestuurd.
+1412	Slaapstand van pc/laptop geblokkeerd zolang het ASIAIR-plan loopt.
+1413	Verloop klaar – pc/laptop mag weer in slaapstand.
+1414	Automatisch opnieuw verbinden aan, plan wacht bij onderbreking maximaal 15 min. Adressen, wifi-naam en wachtwoord blijven.
+1415	ASIAIR-editie
+1416	Rechten:
+1417	Apparaat:
+1418	Poort:
+1419	Gebruiker:
+1420	online
+1421	Kopiëren
+1422	Toevoegen
+1423	volledige bediening
+1424	alleen kijken
+1425	Apparaat-ID {0}
+1426	Sterrenwacht
+1427	Koppelcode
+1428	Toegang op afstand: doorgeefserver niet bereikbaar ({0}).
+1429	Toegang op afstand: aanmelding bij doorgeefserver geweigerd ({0}).
+1430	Toegang op afstand: verwerkingsfout ({0}).
+1431	Toegang op afstand: thuisstation is online.
+1432	Toegang op afstand: extern apparaat verbonden ({0}…).
+1433	niet toegestaan (thuisstation: alleen kijken)
+1434	niet toegestaan
+1435	Thuisstation is niet met de ASIAIR verbonden
+1436	geen antwoord
+1437	onbekende opdracht
+1438	Toegang op afstand: doorgeefserver niet bereikbaar.
+1439	Toegang op afstand: thuisstation antwoordt niet – draait daar het programma met toegang op afstand aan? Kloppen apparaat-ID en koppelcode?
+1440	Toegang op afstand: geen antwoord op {0}.
+1441	Toegang op afstand: {0} – {1}
+1442	Thuisstation antwoordt niet.
+1443	Plan leeg of locatie ontbreekt op het thuisstation.
+1444	Toegang op afstand: plan met {0} doelen op afstand gestart.
+1445	Plan gestart op het thuisstation.
+1446	Toegang op afstand: plan op afstand afgebroken.
+1447	Afbreken verzonden.
+1448	Geen plan actief.
+1449	Toegang op afstand: stop op afstand.
+1450	Stop verzonden.
+1451	Toegang op afstand via internet – zonder VPN, zonder poortdoorschakeling, zonder browser
+1452	Deze pc staat bij de telescoop (thuisstation)
+1453	Toegang op afstand tot deze ASIAIR toestaan
+1454	Koppelcode tonen
+1455	Nieuwe code maken
+1456	Onderweg verbinden (extern apparaat)
+1457	🌐 Verbinden (op afstand)
+1458	Apparaat toevoegen …
+1459	Doorgeefserver (MQTT):
+1460	ℹ Andere manieren
+1461	ℹ Zo werkt het
+1462	Pakket ontbreekt: pip install paho-mqtt (start.bat installeert het bij de volgende start)
+1463	Beide kanten verbinden alleen naar buiten met de doorgeefserver. Alles is end-to-end versleuteld (AES-256) – de server ziet alleen onleesbare gegevens; zonder apparaat-ID en koppelcode kan niemand bij de telescoop.
+1464	Standaard is de openbare server van HiveMQ; voor continu gebruik is een eigen gratis HiveMQ Cloud-account betrouwbaarder (op beide pc's gelijk invullen).
+1465	Het plan draait altijd op het thuisstation – valt de verbinding onderweg weg, dan gaat de nacht gewoon door. Het thuisstation (pc bij de telescoop) moet aan staan, met het programma gestart en verbonden met de Air.
+1466	Voer de poort als getal in.
+1467	Doorgeefserver opgeslagen – geldt bij de volgende verbinding.
+1468	Toegang op afstand uit.
+1469	Toegang op afstand tot deze ASIAIR uitgeschakeld.
+1470	Voor toegang op afstand ontbreekt het pakket 'paho-mqtt'.
+1471	Toegang op afstand kon niet starten: {0}
+1472	verbinden met doorgeefserver …
+1473	Toegang op afstand aan (apparaat-ID {0}). Het programma moet daarvoor draaien en met de ASIAIR verbonden zijn.
+1474	Op het externe apparaat invullen onder „Apparaat toevoegen …”:
+1475	Houd de code geheim – wie hem kent, kan de telescoop bedienen. Bij twijfel „Nieuwe code maken” – oude apparaten moeten dan opnieuw gekoppeld worden.
+1476	Nieuwe koppelcode maken? Eerder gekoppelde apparaten verliezen de toegang en moeten opnieuw gekoppeld worden.
+1477	Extern apparaat toevoegen
+1478	Apparaat-ID:
+1479	Koppelcode:
+1480	Staat op het thuisstation onder „Koppelcode tonen”.
+1481	Apparaat-ID (8 tekens) of koppelcode (16 tekens) onvolledig.
+1482	Voeg eerst een apparaat toe (apparaat-ID en koppelcode van het thuisstation).
+1483	Deze pc is direct met een ASIAIR verbonden. Loskoppelen en in plaats daarvan op afstand verbinden?
+1484	Toegang op afstand: verbonden met „{0}”.
+1485	Toegang op afstand: wacht op „{0}” …
+1486	{0} extern(e) apparaat/apparaten verbonden
+1487	Doorgeefserver niet bereikbaar
+1488	Thuisstation offline – draait daar het programma?
+1489	verbonden – maar de Air is niet verbonden met het thuisstation
+1490	🌐 Toegang op afstand: doorgeefserver niet bereikbaar
+1491	🌐 {0}: thuisstation offline
+1492	🌐 {0}: Air niet verbonden met het thuisstation
+1493	🌐 {0} · {1} (op afstand)
+1494	Het plan draait op het thuisstation – ook als je verbinding onderweg wegvalt.
+1495	Start geweigerd.
+1496	Voer de fliptest direct op het thuisstation uit en blijf bij de telescoop.
+1497	Toegang op afstand verbroken.
+1498	zwart-wit (mono)
+1499	ASIAIR: beeldkanaal (poort 4800) niet bereikbaar ({0}).
+1500	ASIAIR: beeld kon niet worden opgehaald ({0}).
+1501	ASIAIR: beeld kon niet worden gelezen ({0}).
+1502	Voor het voorbeeld zijn numpy en pillow nodig (pip install numpy pillow).
+1503	ASIAIR – voorbeeld
+1504	Bayerpatroon:
+1505	na elke opname vernieuwen
+1506	⟳ Nu ophalen
+1507	Live voor uitlijnen/focussen – belichting (s):
+1508	▶ Live starten
+1509	■ Live stoppen
+1510	(niet tijdens een plan)
+1511	Nog geen beeld – „Nu ophalen” of live starten.
+1512	beeld ophalen …
+1513	via toegang op afstand (verkleind)
+1514	Geen beeld – loopt er een opname?
+1515	Voorbeeld opgeslagen: {0}
+1516	Live uitlijnen werkt alleen direct op het thuisstation. Via toegang op afstand krijg je steeds het laatste beeld.
+1517	Geen live beeld tijdens een plan – het voorbeeld toont dan automatisch elke nieuwe opname van de serie.
+1518	Voer de belichting als getal in.
+1519	Live #{0} · {1} s · {2}
+1520	🖼 Voorbeeld
+1521	geen beeld
+1522	PNG opslaan
+1523	– leeg –
+1524	Advies voor „{0}”: {1} s per opname.
+1525	Advies
+1526	ASIAIR filters & focus
+1527	Filters op de telescoop (2")
+1528	één vast filter (zonder filterwiel)
+1529	Filterwiel
+1530	Vast filter:
+1531	Positie {0}:
+1532	{0} filters van {1} merken · Tip: lege positie → helder glas, dan blijft de focus gelijk.
+1533	Advies voor het filter
+1534	Filter:
+1535	Focuser (ZWO EAF)
+1536	📌 Positie voor dit filter onthouden
+1537	Verschuiving
+1538	Temperatuur
+1539	onthouden
+1540	Verschuiving = verschil met het referentiefilter (het eerst onthouden). Bij een filterwissel in het plan past het programma de verschuiving toe als er geen autofocus loopt.
+1541	Autofocus (eigen focuscurve)
+1542	Posities:
+1543	Speling:
+1544	In het opnameplan
+1545	Autofocus voor het eerste doel
+1546	voor elk doel
+1547	na filterwissel
+1548	anders onthouden focusverschuiving per filter toepassen
+1549	Opnieuw focussen vanaf
+1550	°C verandering (0 = uit)
+1551	Belichting per opname: ca. {0} s · autofocusbelichting: {1} s · helderheid {2}/4 (1 = helder, 4 = zeer donker)
+1552	Gegevens van winkels – controleer het datablad.
+1553	Focus: een filter verschuift de focus met ongeveer een derde van de glasdikte (2 mm glas ≈ 0,7 mm). Even dikke (parfocale) sets hebben weinig correctie nodig; smalband kan iets anders focussen – meet en onthoud daarom de focus eenmaal per filter.
+1554	Focus direct op het thuisstation – op afstand werkt alleen de autofocus in het plan.
+1555	Positie: – (geen focuser?)
+1556	Geen focuser gevonden.
+1557	Voor dit filter is nog geen focuspositie onthouden.
+1558	Onthouden focuspositie voor „{0}” verwijderen?
+1559	Tijdens een plan focust het plan zelf (zie „In het opnameplan”).
+1560	bezig …
+1561	mislukt – zie logboek
+1562	Maan/planeten: zeer korte belichtingen (milliseconden tot 1 s), liever als video.
+1563	Alt-az: hooguit ca. {0} s per opname (beeldveldrotatie) – maak liever meer opnames.
+1564	Dit filter is bedoeld voor monocamera's – niet zinvol op de ASI585MC (kleur).
+1565	Meerbandfilters op een monocamera mengen de lijnen – voor mono liever enkellijnsfilters.
+1566	Zeer smal (≤ 4 nm): bij snelle optiek (f/2–f/4) kan de doorlaatband verschuiven – kies „highspeed”-versies.
+1567	Helder glas in een lege wielpositie houdt de focus gelijk aan die met een filter (zelfde glasdikte).
+1568	Smalband is het minst gevoelig voor maanlicht en lichtvervuiling.
+1569	Autofocus: geen focuser gevonden (ZWO EAF aan de Air aangesloten?).
+1570	Autofocus: start bij {0}, {1} posities op afstand {2}, belichting {3} s.
+1571	Autofocus: {0} → HFR {1} ({2} sterren)
+1572	Autofocus: {0} → geen sterren meetbaar
+1573	Autofocus: beste waarde aan de rand van de curve – meet verder in die richting.
+1574	Autofocus mislukt (te weinig sterren gemeten) – focus terug naar de startwaarde.
+1575	Autofocus klaar: positie {0} (beste HFR {1}).
+1576	Focus: filterwissel {0} → {1}, verschuiving {2} stappen → {3}.
+1577	ASIAIR: focuser reageert niet ({0}).
+1578	ASIAIR: focuser heeft {0} niet bereikt (staat op {1}).
+1579	ASIAIR: filterwiel kon niet naar positie {0} draaien.
+1580	{0}: temperatuur veranderd – opnieuw focussen na de huidige opname.
+1581	Helder glas
+1582	Kleurfilter R/G/B
+1583	IR-pass / planeten
+1584	Fotometrie
+1585	Maan / neutrale dichtheid
+1586	Speciaal filter
+1587	Helder glas verandert de kleur niet maar houdt de focus gelijk aan een even dik filter – ideaal voor de lege wielpositie.
+1588	Kleurfilters voor monocamera's (LRGB). Niet zinvol op een kleurcamera als Seestar of ASI585MC – het beeld wordt alleen eenkleurig en donkerder.
+1589	Wetenschappelijke fotometriefilters voor monocamera's – niet geschikt voor mooie plaatjes.
+1590	Voor maan en planeten (rustiger beeld bij luchtonrust). Niet voor nevels en sterrenstelsels.
+1591	Dempt alleen – voor de heldere maan. Geen zonnefilter: nooit naar de zon richten!
+1592	Speciaal filter voor een bepaald object (Venus, kometen) – alleen daarvoor gebruiken.
+1593	Rood
+1594	Groen
+1595	Serieopname: de Seestar maakt alleen losse opnamen achter elkaar en stackt ze NIET tot één beeld (geen live-stack). Handig voor meteoren/satellieten of als je de opnamen zelf bewerkt. Laat dit UIT voor normale opnamen – met „Losse frames opslaan” bewaart de Seestar de frames ook tijdens het stacken.
+1596	{0} extra objecten (Siril: NGC/IC, Sh2, LDN) via zoeken
+1597	Testversie
+1598	Testversie: dit is start {0} van {1} – nog {2} start(s) over.
+1599	De testversie is verlopen ({0} starts).
+1600	Bedankt voor het testen! Als je het programma bevalt:
+1601	Voor de volledige versie kun je me op Facebook bereiken: profiel „Bönn Ingstedt” – het makkelijkst te vinden door te zoeken op „TheSkyCoder”.

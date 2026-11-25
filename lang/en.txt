@@ -1,0 +1,1550 @@
+# name: English
+4	Blue
+5	Night (red)
+6	Dark
+9	LP filter (dual-band)
+10	50 mm · 260 mm · f/5.2 (+ wide angle 63°)
+11	approx. 1.6° × 2.8°
+12	Dual-band filter (OIII/Hα)
+13	30 mm · 150 mm · f/5 (+ wide angle)
+15	LP filter
+16	30 mm · 160 mm · f/5.3 (+ wide angle 63°)
+18	Stars / deep sky
+19	Moon
+20	Sun (solar filter only!)
+21	Landscape
+22	Off
+23	On
+24	Stacking
+25	Exposure per frame
+26	60 s (EQ only, maximum)
+27	80 (default)
+28	Choose filter automatically
+29	Dither distance
+30	Dither every … frames
+31	Dark calibration
+32	Save individual frames
+33	No
+34	Good frames only
+35	All frames
+36	Burst capture (no stacking)
+37	4K mode (drizzle 2×)
+38	Background extraction (DBE)
+39	Stack automatically after GoTo
+40	Focus
+41	Smart AF (GoTo/temperature)
+42	Autofocus before stacking
+43	Device
+44	Dew heater
+45	Switch off automatically
+46	Temperature unit
+47	Calibrate EQ polar alignment
+48	Close arm after Seestar plan
+49	Expert mode
+50	Live view
+51	Zoom (sun/moon/planet)
+52	Live image exposure
+53	Wide angle
+54	Use wide-angle camera
+55	Wide angle in 4K
+56	Wide-angle denoise
+59	RA empty
+60	RA must be between 0 and 24 h
+61	Dec empty
+62	Dec must be between -90° and +90°
+63	M31 Andromeda Galaxy
+64	M33 Triangulum Galaxy
+65	M45 Pleiades
+66	M42 Orion Nebula
+67	M1 Crab Nebula
+68	NGC 2244 Rosette Nebula
+69	M81 Bode's Galaxy
+70	M101 Pinwheel Galaxy
+71	M51 Whirlpool Galaxy
+72	M13 Hercules Cluster
+73	M57 Ring Nebula
+74	M27 Dumbbell Nebula
+75	NGC 7000 North America Nebula
+76	IC 1396 Elephant's Trunk
+77	NGC 6992 Eastern Veil Nebula
+78	IC 1805 Heart Nebula
+79	IC 1848 Soul Nebula
+80	Windows location service
+81	precise (often a few metres to km); the position stays on your PC. The Windows "Location" setting must be allowed for desktop apps.
+82	Location from the Seestar
+83	the position the Seestar app on your phone stored in the telescope; it is only read from your Seestar.
+84	Approximate, via internet address
+85	Accuracy usually city/region (approx. 5–50 km). Your public IP address is sent to a service (freeipapi.com or ipwho.is).
+87	Compass direction does not fit
+88	not a valid number
+89	Format
+90	out of the valid range
+91	only available on Windows
+92	Windows interface missing (pip install winrt-Windows.Devices.Geolocation)
+93	Access denied – Windows Settings › Privacy › Location: turn on "Let desktop apps access your location"
+94	Access denied – turn on the Windows location service and access for desktop apps
+95	Windows location not available: {0}
+98	no coordinates
+99	Internet query failed ({0})
+100	no data
+101	Emission nebula
+102	Supernova remnant
+103	Planetary nebula
+104	Star cluster + nebula
+105	Nebula
+108	larger than the field of view – mosaic {0}×{1}
+109	small in the image
+110	ideal with narrowband filter
+111	suits the narrowband filter
+112	Moon only {0}° away
+113	Mon
+114	Tue
+115	Wed
+116	Thu
+117	Fri
+118	Sat
+119	Sun
+120	Connection to {0}:{1} failed: {2}
+121	TCP connection to {0}:{1} established.
+122	No PEM key set – with firmware from about 7.18 on, commands without login may be rejected.
+123	Disconnected.
+124	Not connected.
+125	Sending failed: {0}
+126	No response to {0} (timeout {1}s)
+127	The Seestar closed the connection.
+128	Receive error: {0}
+130	No response for {0} s – connection considered lost.
+131	Package 'cryptography' missing – pip install cryptography
+132	PEM key could not be loaded: {0}
+133	No login challenge received (Seestar busy or old firmware).
+134	Login successful.
+135	Login failed: {0}
+136	Unexpected image size {0} bytes for {1}×{2}
+137	Image channel {0}:{1} not reachable: {2}
+138	Image channel connected.
+139	Image channel: sending failed: {0}
+140	Image could not be decoded: {0}
+141	Image channel disconnected.
+142	(no name)
+143	BLE disconnected.
+144	BLOCKED: "{0}" would close the arm – arm protection active ({1}). Remove the filter and clear it in the "Focus & Filter" tab.
+145	connecting …
+146	reconnecting …
+147	Connecting to {0} …
+148	Connection lost – reconnecting automatically …
+149	Reconnected (attempt {0}).
+150	Connection dropped again immediately – still trying.
+151	Detected model: {0} (firmware {1})
+152	Model not recognised ({0}).
+153	not reported
+159	60 s skipped – the device is in Alt-Az mode (60 s only in EQ mode).
+160	Setting "{0}" was not accepted: {1}
+161	Live preview requested (the Seestar must be in star/moon mode).
+162	Current stack image requested …
+163	No external filter
+164	Broadband LP
+165	UV/IR cut filter
+166	Nebula filter (UHC)
+167	Dual-band
+168	Tri-band
+169	Quad-band
+170	Single line
+171	broadband, dampens sodium/mercury lines
+172	Hα + OIII 7 nm each, for very fast optics
+173	Hβ, OIII, Hα, SII – wide bands
+174	City light suppression with IR cut
+175	Hβ+OIII and Hα
+176	Neodymium type, dampens sodium light
+177	blocks UV and IR
+178	Hβ (mostly visual)
+179	four nebula lines, wide
+180	Broadband light pollution filter
+181	blocks IR
+182	Broadband LP, IR cut
+183	Broadband LP for LED light, IR cut
+184	Nebula filter, IR cut
+185	495 nm and 660 nm, 35 nm each
+186	Hα + OIII, wide
+187	Nebula filter, fairly wide
+188	Neodymium, dampens sodium light
+189	Nebula filter
+190	Nebula filter, somewhat wider
+191	Nebula filter (visual)
+192	OIII, wide (visual)
+193	Hβ, wide (visual)
+194	Single-line filter on a colour sensor: only the red pixels receive light, the image becomes monochrome and much darker. For the Seestar, dual-band filters are usually the better choice.
+195	Single-line filter on a colour sensor: only the green and blue pixels receive light, the image becomes monochrome and much darker. For the Seestar, dual-band filters are usually the better choice.
+196	Bright enough – the Seestar autofocus normally works.
+197	Very dark – app autofocus with long exposure only; often too little light for 10 s frames (EQ + 30–60 s).
+198	Seestar autofocus often fails – use the app autofocus.
+199	Seestar autofocus works sometimes; the app autofocus is more reliable.
+200	 Actually built for visual observing – often too wide for photography and prone to reflections.
+201	Seestar autofocus works normally.
+202	2" filters (clear aperture usually around 46–48 mm) stop down the 50 mm aperture only minimally – practically no light loss.
+203	2" filters fully cover the 30 mm aperture.
+204	2" filters fit all Seestar models with a suitable holder.
+205	Image channel not reachable
+206	Focus position not readable
+207	Autofocus: the optimum lies at the edge of the search range – repeat with a larger range if needed.
+208	Autofocus: too few stars found – back to the starting position.
+209	Stop stacking, arm stays open
+210	Park (close arm)
+211	Park and power off
+212	Device did not come back – run paused. It can be resumed later.
+213	{0} · connection lost, waiting ({1}:{2})
+214	GoTo rejected: {0}
+215	GoTo to {0} failed.
+216	No GoTo end reported – continuing anyway.
+217	{0} · focus ({1})
+218	No stored focus position – focus remains unchanged.
+219	App autofocus without result – stored position used.
+220	{0} · checking whether the Seestar is still stacking …
+221	{0}: the Seestar kept stacking during the interruption – carrying on.
+222	{0}: stacking did not continue – slewing to the target again.
+223	{0} · {1}:{2}:{3} left
+224	{0} does not reach {2}° within the next {1} h – skipped.
+225	{0} · waiting for {1}° altitude · {2}:{3} left
+226	"{0}" started: {1} step(s).
+227	{0} · resuming …
+228	{0} · GoTo
+229	{0} is skipped.
+230	Run error: {0}
+231	Run cancelled. Arm stays open.
+232	Run paused at step {0}. The Seestar keeps stacking the current step; you can resume the next time you connect.
+233	End of plan: "{0}" skipped – arm protection active (external filter). Stacking stopped, arm stays open.
+234	End of plan
+235	"{0}" finished – arm stays open.
+236	"{0}" finished – Seestar is parking.
+237	"{0}" finished – Seestar parks and powers off.
+238	No device
+240	Apply to all checked
+241	Recommended values
+242	⟳ Read from device
+244	Changes go to this device immediately. "–" = value not (yet) reported by the device.
+245	Start mode
+246	Start (open arm)
+247	No device selected
+248	Model unknown
+249	Optics {0} · sensor {1} · field {2}
+250	The model is detected when connecting or chosen at the top right.
+251	60 s exposure is only available in EQ mode – and 60 s is also the maximum there.\n\n
+252	This device is in Alt-Az mode.
+253	The mode of this device is not yet known.
+254	\nSwitch to EQ mode in the "EQ mode" tab and align the device.
+255	not connected – "{0}" will be sent with the next transfer.
+256	Recommended values set.
+257	No other connected devices in the group.
+258	Settings applied from "{0}".
+259	Solar filter really fitted?
+260	▶ Live
+261	Stack image
+262	■ Stop
+263	Stack automatically
+264	💾 PNG
+265	⧉ Separate window
+266	Stretch:
+267	linked
+268	Full screen (F11)
+269	Always on top
+270	The window can be moved freely, e.g. to a second monitor – its position is remembered.
+271	No image
+272	No device selected.
+273	 · {0} frames
+274	No image available yet.
+275	Saved: {0}
+278	Automatic (system language)
+279	Language:
+280	Language: {0}
+281	Save new language file
+282	Text
+283	Saved: {0}\n\nFill in the translations, adjust the first line ("# name: …") and put the file into the "lang" folder.
+284	The new size will be applied the next time the app starts.
+294	Theme:
+295	Size:
+296	Active device:
+297	● No device
+298	Commands to:
+299	active device
+300	all checked
+301	↺ Reset page
+302	Model:
+303	auto-detect
+305	Log
+306	Overview
+307	Add device
+308	Name:
+309	IP address:
+310	＋ Add
+311	🔍 Search network
+312	Devices
+313	Click a row = active device (»)  ·  Double-click = preview window  ·  Checkbox = device belongs to the group
+314	Active device (»)
+315	Rename
+316	Remove
+317	Move up
+318	Move down
+319	Group – applies to all checked devices at once
+320	Connect all
+321	Disconnect all
+322	🖼 Open all previews
+323	Time + location
+324	Transfer settings of the active device
+325	Open arm
+326	Autofocus
+327	▶ Start stacking
+328	■ Stop stacking
+329	GoTo (target from "Control")
+330	Park
+331	Park all checked devices?
+332	■ EMERGENCY STOP all
+333	Weather & Tips
+334	Refresh
+335	Fetch weather data (open-meteo.com)
+336	The coming night
+337	48 hours: clouds, rain, darkness, moon
+338	Bars: total cloud cover · strips at the top: low / mid / high clouds · blue line: chance of rain · yellow line: moon altitude · background: the darker, the darker the sky
+339	What's worth shooting tonight?
+340	Min. altitude:
+341	Recalculate
+342	Create plan for tonight
+343	Object
+344	Name
+345	Type
+346	best time
+347	max. alt.
+348	good hrs
+349	Moon dist.
+350	Note
+351	GoTo (target from "Commands to")
+352	→ Schedule
+353	→ Mosaic
+354	Weather data: Open-Meteo.com (CC BY 4.0) · sun/moon are calculated locally
+355	Fetch weather data?\n\nFor this the app sends your location, rounded to about 1 km, to the free weather service open-meteo.com (no account, no other data). You can switch this off here at any time.
+356	No location – please set it in the "Location" tab.
+357	Loading weather …
+358	Weather not available: {0}
+359	Windows
+360	Internet
+361	Location
+362	No location set
+363	Weather off – tick the box on the right to load the cloud and rain forecast. Darkness and moon are shown anyway.
+364	Weather from {0} · location source: {1}
+365	No location
+366	Set it in the "Location" tab – then you get night times, weather and recommendations.
+367	No real night
+368	The sun does not set deep enough within the next 24 hours.
+369	astronomically dark
+370	nautical twilight only (summer)
+371	civil twilight only
+372	Dark: {0} {1} – {2} ({3} h, {4})
+373	Clear (≤ 30 % clouds): {0} h
+374	Best period: {0} – {1}
+375	Chance of rain: up to {0} %
+376	Dew point margin: min. {0} °C
+377	 → switch on the dew heater!
+378	Gusts up to {0} km/h
+379	 → Seestar shakes, use shorter exposures
+380	● Good night for imaging
+381	● Partly usable
+382	● Rather not – too cloudy
+383	Darkness & moon (without weather)
+384	Moon: {0} % illuminated, {1}° high at midnight
+385	Moon: {0} % illuminated, below the horizon at midnight
+386	Bright moon: nebulae with a narrowband filter, galaxies better on other days.
+387	Without weather data – darkness and moon only
+388	Twilight
+389	Day
+390	{0} {1} · sky: {2} · moon {3}° ({4} %)
+391	 · clouds {0} % (low {1}, mid {2}, high {3}) · rain {4} % · {5} °C, dew point {6} °C · gusts {7} km/h
+392	For {0}
+393	 with {0}
+394	 without external filter
+395	 · prefers emission nebulae
+396	Please select an object in the list first.
+397	Schedules
+398	Mosaic
+399	No recommendations yet – set a location and click "Recalculate".
+400	No sensible plan could be built for tonight.
+401	Suggestion for tonight:\n\n{0}\n\nAdopt as a new schedule? (The plan currently open in the editor will be replaced; saved plans are kept.)
+402	Night {0}
+403	Plan with {0} targets for tonight created – please check and save.
+404	Control
+405	Settings
+406	Focus & Filter
+407	EQ mode
+408	Preview
+409	Console
+410	Put all devices back into the group and clear the input fields. The device list is kept.
+411	Search, type and altitude filters and sorting back to default.
+412	Minimum altitude 30°, recalculate recommendations. The weather consent stays as it is.
+413	Automatic reconnect back on, clear the IP address field, remove the PEM key path.
+414	Delete location and consent – the app will ask again at the next start.
+415	Speed 1000, duration 2 s, clear target fields.
+416	Send recommended values to the active device (10 s, gain 80, dithering 50 px every 5, dark calibration on, save good frames only, heater off).
+417	Grid 2×2, 20 % overlap, 30 min per panel, framing 2×, 0°, 120 min, clear target.
+418	Clear the editor (new plan) and reset inputs to default. Saved plans are kept.
+419	Autofocus settings matching the filter, search range ±80, step size 10, clear curve. Filter, arm protection and stored focus positions are kept.
+420	Start position 3, range ±2°, automatic re-measuring on, test 60 s / 10 min, live measurement off.
+421	Stretch 0.20, not linked, not linear, stack automatically on.
+422	Clear list, "Seestar only" on, write field to default.
+423	Method get_device_state, clear parameters and output.
+424	Reset page "{0}" to default settings?\n\n{1}
+425	Page "{0}" reset to default settings.
+426	All
+427	above 20°
+428	No active device – the values will be set for the next device.
+429	Device setting
+430	My night
+431	3 (default, top)
+432	Search:
+433	Type:
+434	Galaxies
+435	Star clusters
+436	Planetary nebulae
+437	Supernova remnants
+438	Altitude now:
+439	above 0°
+440	above 30°
+441	above 45°
+442	Messier & named only
+443	Mag.
+444	Size
+445	Alt. now
+446	Direction
+447	Culmination
+448	Field of view
+449	Select an object.
+450	▶ GoTo + Live (target from "Commands to")
+451	GoTo on all checked
+452	Slew only
+453	→ Control
+454	Seestar on the network
+455	🔍 Search
+456	(Station mode: IP from router/Seestar app · AP mode: 10.0.0.1)
+457	PEM key:
+458	Only needed for newer firmware – see README.
+459	Connect (as active device)
+460	Disconnect active
+461	Log in again
+462	Setup wizard
+463	Add new language …
+464	Reset everything …
+465	Reconnect automatically on dropouts (all devices)
+466	Initialisation (send time & location to the Seestar)
+467	Location: –
+468	Send time + location
+469	Change location …
+470	(goes to the target from "Commands to")
+471	Device status
+472	Get status
+473	Current position
+474	No location set yet.
+475	Send time + location to the Seestar
+476	  (target from "Commands to")
+477	Used for: time and location on the Seestar, object altitudes and culmination in the GoTo tab, minimum altitude in schedules, wedge angle in EQ mode.
+478	Determine automatically
+479	Determine location automatically (consent)
+480	Determine now
+481	Enter manually
+482	Latitude:
+483	Longitude:
+484	Place name (optional):
+485	Apply
+486	Formats: 52,52 · 52.52 · 52°31'12" N · 13° 24′ E · south and west with "-" or S/W. You can find your location e.g. in any map app (right-click/long press on the place).
+487	Arm
+488	Open arm / star mode
+489	■ Stop everything
+490	Move manually
+491	Speed
+492	  Duration (s):
+493	Keyboard: arrow keys, space = stop
+494	Position: ?
+495	Slew to target (GoTo)
+496	Catalogue:
+497	RA (h):
+498	Dec (°):
+499	J2000 (catalogue values) · 5.588 · 5h35m17s · 5:35:17  |  -5.39 · -5°23'28"
+500	LP filter and mode come from the "Settings" tab.
+501	GoTo + live view
+502	Plate solve
+504	Miscellaneous
+505	🔔 Play sound
+506	Shut down
+507	Stacking (target from "Commands to")
+508	Resume
+509	⧉ Settings as a separate window
+510	Live events
+511	Stacked frames: –
+512	Target (centre)
+513	Take from "Control"
+514	Mosaic type
+515	Grid mosaic (panels one after another)
+516	Framing mosaic (Seestar-internal, one stack)
+517	Grid
+518	Columns (RA):
+519	Rows (Dec):
+520	Overlap:
+521	Time per panel:
+522	Autofocus before each panel
+523	Framing
+524	Size (× field):
+525	Rotation:
+526	Total time:
+527	LP filter:
+528	▶ Start (target from "Commands to")
+529	▶ Start on all checked
+530	■ Cancel mosaic (target)
+531	Plan (for the active device)
+532	Each device calculates the panels with its own field of view. Grid panels are saved as separate targets (Name_R1C1 …) and later combined e.g. in Siril/APP.
+533	Plan:
+534	New
+535	💾 Save
+536	Delete
+537	Step
+538	Target / details
+539	Duration
+540	Min. altitude
+541	Edit
+542	Add step
+543	Duration:
+544	Focus:
+545	＋ Target from "GoTo"
+546	＋ Mosaic from the "Mosaic" tab
+547	＋ Autofocus
+548	   ＋ Wait until
+549	add
+550	Run
+551	Start:
+552	("now" or time HH:MM)
+553	At the end:
+554	▶ Start plan (target from "Commands to")
+555	■ Cancel run (target)
+556	External filter on this device
+557	Brand:
+558	– no filter –
+559	＋ Custom filter …
+560	Delete custom
+561	Arm protection: block park / close / power off
+562	With a 2" filter holder in front of the lens the Seestar cannot close its arm – the motor would drive against the holder. The protection blocks all commands that close the arm, and schedules end without parking.
+563	Why no fixed focus value per filter?
+564	A filter in front of the lens practically does not shift the focus. The focus position depends on the individual device and the temperature. The problem is the Seestar autofocus: it exposes briefly and sees too few stars behind dark filters. The app autofocus exposes longer, averages several images and remembers the result per device and filter.
+565	Focusing
+566	Position: –
+567	Read
+568	Precision autofocus (app)
+569	Live image exposure:
+570	Images per step:
+571	Search range:
+572	Step size:
+573	▶ Start autofocus
+574	■ Cancel
+575	Slew to a star field first (star mode). The Seestar must not be stacking.
+576	Go to stored position
+577	Store current position
+578	Seestar autofocus (without filter) + store as reference
+579	Focus curve (HFR – smaller is sharper)
+580	Stored focus positions of this device
+581	Filter
+582	Position
+583	Temp.
+584	Date
+585	⟳ Refresh
+586	Switch to Alt-Az mode
+587	Switch to EQ mode
+588	① Levelling & wedge
+589	Tilt: –
+590	Live measurement (every second)
+591	Procedure: 1) Level the tripod roughly with a spirit level, one leg pointing north. 2) Level here to below 1°. 3) Set the wedge to the value above, the Seestar's power button points upwards. 4) Measure polar alignment.
+592	② Polar alignment (3-point)
+593	Start position:
+594	1 (near)
+595	5 (far)
+596	Range:
+597	No measurement yet.
+598	▶ Measure error
+599	■ Finish
+600	Re-measure automatically after each measurement (for adjusting)
+601	Goal: both axes < 0.5° (green). The Seestar app accepts < 1° (yellow). After each turn of altitude/azimuth, tighten the clamps and wait for the next measurement.
+602	③ Check & tests
+603	Tracking / exposure test
+604	Slew to a target first. The test stacks with the chosen exposure and counts how many frames the Seestar discards because of star trails.
+605	Exposure:
+606	▶ Start test
+607	The image preview needs numpy and Pillow:\n\n    pip install numpy pillow\n\nThen restart the app.
+608	Shows the active device. Every device also has its own window (Overview → double-click).
+609	Bluetooth needs the package 'bleak':\n\n    pip install bleak\n\nThen restart the app.
+610	The Seestar uses Bluetooth LE mainly for waking up and for Wi-Fi setup. ZWO has not published the BLE protocol – this tab shows you all services/characteristics, reads and writes them and records notifications. The actual telescope control runs over Wi-Fi.
+611	🔍 Scan
+612	Show Seestar only
+613	Service
+614	Characteristic
+615	Properties
+616	Description
+617	Notifications on
+618	Write:
+619	Send
+620	Send any JSON-RPC command (method + parameters as JSON).
+621	Method:
+622	Parameters:
+623	No connected target device (check Overview).
+624	Please select a device in the list first.
+625	IP address
+626	Model
+627	Status
+628	Frames
+629	Battery
+630	Job
+631	No device yet – enter an IP above or "Search network".
+632	  [filter·protection]
+634	Disconnect
+635	Connecting …
+636	Cancel
+637	Connect
+639	added ({0}).
+640	Remove "{0}" from the list?
+641	Preview – {0}
+642	all checked ({0})
+643	● connected
+644	● disconnected
+645	Stacked frames ({0}): {1}  (discarded: {2})
+650	Event {0}: {1}
+651	For the preview please install numpy and pillow.
+652	Searching for Seestar on the network (UDP broadcast) …
+653	No Seestar found. Enter the IP manually (router or Seestar app → Settings).
+654	Found: {0} {1}
+655	Choose PEM key
+656	No location set yet – please determine or enter it in the "Location" tab.
+657	Park the Seestar and close the arm?
+658	Really shut down the Seestar?
+659	Position: {0}
+660	Invalid coordinates: {0}
+661	Target
+662	RA {0}h{1}m  /  Dec {2}{3}°{4}'
+663	Model set to {0}.
+664	Enter RA/Dec or choose a target from the catalogue.
+665	No valid target
+666	{0}: framing {1}× → approx. {2}° × {3}° · rotation {4}° · {5} min
+667	{0}: {1}×{2} = {3} panels → approx. {4}° × {5}° · total {6} h {7} min (+ GoTo/AF)
+668	N ↑   E ←
+669	Please enter valid coordinates for the centre.
+670	No connected target device for the mosaic.
+671	Already running on:
+672	Mosaic {0}×{1}
+673	Cancelling mosaic …
+674	Paused mosaic discarded.
+675	⏸ paused: {0} – step {1}/{2}
+676	"{1}" is open for "{0}" (step {2} of {3}).\n\nResume? "No" discards the saved state.
+677	Run resumes at step {0}/{1}.
+678	Saved run discarded.
+679	Internet (IP, approximate)
+680	entered manually
+681	Latitude  {0}°   ({1})\nLongitude {2}°   ({3})
+682	Source: {0}
+683	 · accuracy approx. {0} km
+684	 · accuracy approx. {0} m
+685	 · as of {0}
+686	\nTime zone for the Seestar: {0}
+687	Location: {0}° / {1}°
+688	Determine automatically or enter manually below.
+689	Location: not set yet
+690	Consent given on {0}. Untick to revoke it.
+691	Consent revoked – the position is now only set manually.
+692	Not asked yet. Tick the box to allow automatic detection.
+693	Automatic detection is on – to enter manually, untick the box above.
+694	Determine location automatically?
+695	May {0} determine your location automatically?
+696	The location is only stored on this PC and sent to your own Seestar devices (for time, tracking and object altitudes). Choose which sources may be used. You can revoke this at any time in the "Location" tab and enter the position by hand instead.
+697	Allow
+698	No – I'll enter it myself
+699	Consent revoked.\n\nKeep the last detected position (as manual input)?\n"No" deletes it.
+700	Automatic detection is off.
+701	Determining location …
+702	Location taken from the Windows location service.
+703	Location taken from "{0}".
+704	"{0}" has no location stored
+705	no Seestar connected
+706	Approximate location taken from the internet address.
+707	no source selected
+708	Location could not be determined: {0}
+709	Location could not be determined: {0}. You can also enter it manually (untick the box above).
+710	Invalid input: {0}.\nExamples: 52.52 / 13.40 or 52°31'12" N / 13°24' E
+711	Location set manually: {0}° / {1}°.
+712	Planet
+713	fits (portrait)
+714	Mosaic ≈ {0}×{1}
+715	{0} objects
+716	{0} objects · enter a location in the "Location" tab for altitude/culmination
+717	Please select an object first.
+718	 · also: {0}
+719	\nJ2000: RA {0}h{1}m  Dec {2}°   ·   today (sent to the Seestar): RA {3}h{4}m  Dec {5}°
+720	   ·   now {0}° high
+721	   ·   above 30° from {0}
+722	   ·   does not reach 30° today
+723	{0} is currently below the horizon. Slew anyway?
+724	GoTo {0} sent.
+725	Seestar autofocus
+726	App autofocus (for filters)
+727	stored position
+728	no focus
+729	First set a valid target in the "Mosaic" tab.
+730	Please enter the time as HH:MM.
+731	Edit step
+732	Time (HH:MM):
+733	Duration (min):
+734	Min. altitude (° or empty):
+735	Time
+736	Invalid input: {0}
+737	Wait
+738	until {0}
+739	continue at {0}
+740	Framing {0}×
+741	Grid {0}×{1} ({2} panels)
+742	{0} min
+743	Capture
+744	does not reach min. altitude
+745	 · altitude {0}°→{1}°
+746	{0} steps · capture time incl. GoTo/focus approx. {1} h {2} min · ends approx. {3}
+747	 · location missing
+748	Arm protection active on: {0} – there the plan still ends with the arm open (external filter). The other devices park as chosen.
+749	Arm protection active on: {0} – plan ends without parking.
+750	Plan "{0}" saved.
+751	New plan
+752	Delete plan "{0}"?
+753	The plan is empty.
+754	No connected target device for the plan.
+755	Plan
+756	{0} s
+757	Manufacturer specification
+758	usual retail specification – check the data sheet
+759	custom entry
+760	Type: {0}
+761	\nPassband: {0}
+762	\nBrightness: {0} → autofocus {1} s × {2} images\nData: {3}\n{4}
+763	\nRecommendation: switch off the internal LP/dual-band filter (double filtering only costs light).
+764	{0} models from {1} – please choose a model.
+765	Create custom filter
+766	Type:
+767	Passband (text, optional):
+768	Narrowest bandwidth in nm (empty = unknown):
+769	Please enter brand and model.
+770	Please enter the bandwidth as a number (e.g. 7).
+771	Save & use
+772	Delete custom filter "{0}"?
+773	 · filter: {0}
+774	 · arm protection active
+775	Filter removed – switch off arm protection?\nAfterwards the Seestar can park and close its arm again.
+776	Switch off the internal LP/dual-band filter? (recommended with narrowband filters)
+777	Focus position {1} is stored for "{0}". Go there now?
+778	According to the app, "{0}" is still mounted.\nReally switch off arm protection?
+779	   ·   {0} °C
+780	Focus position {0} stored for "{1}".
+781	Note: temperature changed by {0} °C since focusing – app autofocus recommended.
+782	Moved to stored focus position {0}.
+783	No focus position stored for "{0}" yet.
+784	The Seestar autofocus is meant for operation WITHOUT an external filter.\nIs the filter removed right now?
+785	Seestar autofocus running …
+786	Reference without filter: {0}. Fit the filter, then "Go to stored position" or start the app autofocus.
+787	Seestar autofocus: {0}
+788	no response
+789	Autofocus not possible: {0}
+790	App autofocus: best position {0}
+791	 (HFR {0})
+792	 stored for "{0}".
+793	No connected active device.
+794	The app autofocus needs numpy and pillow.
+795	An autofocus or a run is currently in progress on this device.
+796	Fine search …
+797	Position {0}:
+798	HFR {0} ({1} stars)
+799	no stars
+800	Autofocus running …
+801	Done: position {0}
+802	, HFR {0}
+803	Autofocus without result – star field? Increase exposure/images, enlarge the range.
+804	No measurement yet
+805	Mode change (parks)
+806	EQ mode (equatorial, with wedge)
+807	Alt-Az mode
+808	Switch "{0}" to {1}?\n\nThe Seestar moves to the park position for this (the arm closes).
+809	Switch to {0} requested.
+810	Alt-Az
+811	too large
+812	{0} ({1}) · mount mode: {2}
+813	X: {0}°   Y: {1}°\nTotal: {2}°  ({3})
+814	\nSensor angle: {0}°
+815	no sensor data
+816	Tilt: –  (turn on live measurement)
+817	Latitude {0}° → wedge scale from horizon: {1}°, from vertical: {2}°.\nWhich scale your wedge has is printed on it (if in doubt: the polar axis should point the latitude above the horizon).
+818	Enter the latitude in the "Wi-Fi" tab, then the wedge angle appears here.
+819	Azimuth
+820	Altitude
+821	Altitude: {0}°  ({1}′)\nAzimuth:  {2}°  ({3}′)\nTotal: {4}° → {5}  · {6} min ago
+822	\nMeasuring …
+823	Connected
+824	Mount mode EQ
+825	Tilt < 1°
+826	Polar alignment < 0.5°
+827	not measured
+828	Exposure
+829	60 s – test first
+830	The device is in Alt-Az mode. Polar alignment only makes sense in EQ mode.\n\nStart anyway?
+831	Polar alignment started (start position {0}).
+832	Polar alignment finished.
+833	Polar alignment: altitude {0}°, azimuth {1}°
+834	Polar alignment below 0.5° – done. Clamps tight, do not move the device any more.
+835	Polar alignment failed: {0}
+836	60 s is only available in EQ mode. Please switch and align first.
+837	Running … {0}:{1} left · good {2}, discarded {3}
+838	 ({0} % good)
+839	Test cancelled.
+840	No frames counted – was a target slewed to and was the Seestar stacking?
+841	fine – you can use this exposure.
+842	works, but improve polar alignment or shorten the exposure.
+843	too many discarded frames: check polar alignment, wind, stability or shorten the exposure.
+844	Result {0} s: {1} of {2} frames good ({3} %) → {4}
+845	Settings – {0}
+846	Smart AF (fails behind narrowband filters)
+847	Seestar autofocus before stacking
+848	Arm protection off – parking and closing possible again. You can switch auto-off, go-home and smart AF back on in the settings.
+849	Arm protection on ({0}). Parking, power off and mode change are blocked.
+850	Switched off for filter operation:
+851	"{0}": battery at {1} %.\n\nIf the Seestar shuts down because of an empty battery it may close the arm – the app cannot prevent that. Please connect power or remove the filter.
+852	Close arm
+853	Arm protection active: {0}\n\n"{1}" would drive the arm against the filter holder.\n\nIs the filter removed? ("Yes" lifts the protection for these devices)
+854	Delete all saved data?\n\nDevice list, location, PEM path, filters, stored focus positions, schedules, custom filters and open runs are removed. The app then starts as if freshly installed.
+855	A run is still in progress on {0}. Reset anyway? (The Seestar then keeps stacking.)
+856	Everything reset. The app will now close – the setup wizard welcomes you at the next start.
+857	Welcome – setup
+858	Welcome to {0}
+859	Everything is set up in three short steps: location, your Seestar(s) and – only with newer firmware – the login key. Everything can be changed later; you'll find the wizard in the "Wi-Fi" tab.
+860	Supported are the Seestar S30, S30 Pro, S50 and S50 Pro, also several at once. The app detects the model itself when connecting.
+861	1 · Location
+862	Needed for time and location on the Seestar, the altitude of objects in the GoTo tab and the schedules.
+863	📍 Determine automatically …
+864	Or by hand (decimal degrees or degrees/minutes/seconds; Berlin e.g. 52.52 / 13.40):
+865	Latitude (°N):
+866	Longitude (°E):
+867	2 · Add Seestar
+868	Easiest on the same Wi-Fi: enter your home network in the Seestar app (station mode), then search here. Alternatively enter the IP address from your router. You can add more devices later in the "Overview" tab.
+869	🔍 Search network
+870	Already added:
+871	No device added yet.
+872	3 · Login key (newer firmware only)
+873	From about firmware 7.18 on, the Seestar only accepts commands after logging in with a key from the official Seestar app. This app does not include the key. With the "Seestar tool" from the seestar_alp project ("Extract PEM") you create it from your own Seestar app. Without a key the app still works with older firmware – you can also enter it later in the "Wi-Fi" tab.
+874	Done
+875	When you click "Connect" the app connects to all added devices and detects the model.
+876	Next steps:\n• "GoTo" tab: pick an object and slew to it\n• "Preview" tab: watch the live image\n• "Focus & Filter" tab: enter an external 2" filter if you use one – then the app also protects the arm from closing\n• "EQ mode" tab: only with a wedge, for 60 s exposures
+877	Searching …
+878	No Seestar found. Is it switched on and on the same network? Otherwise enter the IP manually.
+879	{0} device(s) found and added:
+880	"{0}" added.
+881	Invalid location: {0} (e.g. 52.52 / 13.40).
+882	Step {0} of {1}
+883	Close
+884	Next
+885	Skip
+886	Back
+887	Parameters are not valid JSON: {0}
+888	BLE error: {0}
+889	Address
+890	Signal
+891	No scan yet – press "Scan".
+893	BLE scan running (6 s) …
+894	{0} device(s) found.
+895	Nothing found. Seestar switched on? Untick 'Seestar only' if necessary.
+896	BLE: connecting to {0} …
+897	BLE connected – services loaded.
+898	Please select a characteristic in the list first.
+899	BLE {0} read: {1}
+900	BLE notify {0}: {1}
+901	Notifications for {0} active.
+902	Invalid hex string.
+903	BLE {0}: {1} bytes sent.
+904	Run in progress on: {0}\n\nClosing pauses it. The Seestar keeps stacking the current panel but does not move on to the next one. You can resume at the next start.\n\nClose anyway?
+905	Dark nebula
+906	Emission nebula (HII)
+907	Galaxy
+908	Galaxy group
+909	Galaxy pair
+910	Globular cluster
+911	Open cluster
+912	Reflection nebula
+913	Stellar association
+914	Eagle Nebula
+915	Andromeda Galaxy
+916	Antennae Galaxies
+917	Black Eye Galaxy
+918	Bubble Nebula
+919	Blinking Planetary Nebula
+920	Bode's Galaxy
+921	Butterfly Galaxies
+922	Eastern Veil Nebula
+923	Eastern Veil Nebula (part)
+924	Western Veil Nebula (Witch's Broom)
+925	De Mairan's Nebula
+926	Double Cluster h Persei
+927	Double Cluster h and χ Persei
+928	Double Cluster χ Persei
+929	Triangulum Galaxy
+930	Elephant's Trunk Nebula
+931	Eskimo Nebula
+932	Owl Nebula
+933	Pinwheel Galaxy
+934	Flaming Star Nebula
+935	Flame Nebula
+936	Ghost Nebula (Cassiopeia)
+937	Hamburger Galaxy
+938	Dumbbell Nebula
+939	Helix Galaxy
+940	Helix Nebula
+941	Hercules Cluster
+942	Heart Nebula
+943	Hyades
+944	Cave Nebula
+945	Iris Nebula
+946	California Nebula
+947	Cat's Eye Nebula
+948	Tadpoles Nebula
+949	Coathanger (Brocchi's Cluster)
+950	Cone Nebula / Christmas Tree Cluster
+951	Crab Nebula
+952	Lagoon Nebula
+953	M78 reflection nebula
+954	Crescent Nebula
+955	Seagull Nebula
+956	NGC 1333 reflection nebula
+957	NGC 6914 reflection nebula
+958	Needle Galaxy
+959	North America Nebula
+960	Omega Nebula
+961	Orion Nebula
+962	Pacman Nebula
+963	Pelican Nebula
+964	Horsehead Nebula
+965	Horsehead Nebula region
+966	Pleiades
+967	Praesepe (Beehive)
+968	Jellyfish Nebula
+969	Ring Nebula
+970	Rosette Nebula
+971	Running Man Nebula
+972	Soul Nebula
+973	Sombrero Galaxy
+974	Sunflower Galaxy
+975	Stephan's Quintet
+976	Thor's Helmet
+977	Trifid Nebula
+978	Whirlpool Galaxy
+979	Wizard Nebula
+980	Cigar Galaxy
+981	Wi-Fi
+982	Enter the latitude in the "Location" tab, then the wedge angle appears here.
+983	fits
+985	NE
+986	E
+987	SE
+992	automatic
+993	any
+994	acceptable
+995	good
+996	yes
+997	no
+998	manual
+999	unknown
+1000	connected
+1001	disconnected
+1002	expected
+1003	visual
+1004	medium
+1005	bright
+1006	dark
+1007	very dark
+1008	now
+1009	App autofocus
+1010	Seestar AF
+1011	EQ (equatorial)
+1012	all
+1013	SetThreadExecutionState refused
+1014	caffeinate/systemd-inhibit not found
+1015	Grid 2×2, 20 % overlap, 30 min per panel, framing 2×, 0°, 120 min, clear target, standby lock on.
+1016	Standby allowed again.
+1017	PC/laptop standby blocked while the mosaic is running ({0}).
+1018	PC / laptop
+1019	Prevent standby while a mosaic is running
+1020	Only while a mosaic is running – otherwise the PC behaves as usual.
+1021	The screen may still turn off. Closing the laptop lid or pressing the power button will still trigger standby – keep the laptop open and plugged in.
+1022	Standby could not be blocked: {0}
+1023	Mosaic finished – PC/laptop may go to standby again.
+1024	● Standby blocked – mosaic running on: {0}
+1025	Mosaic running – standby is allowed (box unticked).
+1026	Standby lock not possible: {0}
+1027	Only during a mosaic. Keep the laptop open and plugged in.
+1028	Dew shield
+1029	switched on manually
+1030	BLOCKED: "{0}" would close the arm – arm protection active ({1}). Remove the filter or dew shield and clear it in the "Focus & Filter" tab.
+1031	End of plan: "{0}" skipped – arm protection active ({1}). Stacking stopped, arm stays open.
+1032	Filter & dew shield on this device
+1033	Dew shield fitted
+1034	With a 2" filter holder or a dew shield in front of the lens the Seestar cannot close its arm – the motor would drive against it. The protection blocks all commands that close the arm, and schedules end without parking.
+1035	  [arm protection]
+1036	Arm protection active on: {0} – there the plan still ends with the arm open (filter/dew shield). The other devices park as chosen.
+1037	Dew shield removed – switch off arm protection?\nAfterwards the Seestar can park and close its arm again.
+1038	Switched off for arm protection: 
+1039	"{0}": battery at {1} %.\n\nIf the Seestar shuts down because of an empty battery it may close the arm – the app cannot prevent that. Please connect power or remove the filter/dew shield.
+1040	Arm protection active: {0}\n\n"{1}" would drive the arm against the filter holder or dew shield.\n\nIs everything removed? ("Yes" lifts the protection for these devices)
+1044	(modified)
+1047	Automatic Wi-Fi connection only works on Windows – please connect via the PC's Wi-Fi menu.
+1048	No Wi-Fi name entered.
+1049	Windows requires location access for Wi-Fi commands: Settings › Privacy › Location › turn on "Let desktop apps access your location".
+1050	Wi-Fi profile could not be created: {0}
+1051	Connecting to "{0}" failed: {1}
+1052	PC is connected to the Wi-Fi "{0}".
+1053	Connected to "{0}", but the Seestar does not answer at {1}. Is the password correct? Is the Seestar switched on and nearby?
+1054	Connecting the PC to the Wi-Fi "{0}" …
+1055	Wi-Fi credentials taken from the Seestar ({0}).
+1056	Access data …
+1057	Access data – {0}
+1058	Device name (in this app):
+1059	Connection
+1060	Home network – Seestar and PC on the same Wi-Fi (station mode, recommended)
+1061	Direct – PC connects to the Seestar's own Wi-Fi (only one Seestar at a time)
+1062	Seestar Wi-Fi name:
+1063	Wi-Fi password:
+1064	Show password
+1065	Wi-Fi name e.g. S50_1a2b3c4d. The factory password is {0}; the Seestar app shows both in the device menu. The app reads the Wi-Fi name itself when the device is connected; newer firmware only returns the password encrypted – please enter it once yourself.
+1066	Home network according to the Seestar: {0} · IP {1} · signal {2} dBm
+1067	The Seestar is not connected to a home network (own Wi-Fi only).
+1068	The device must be connected for this.
+1069	Please enter device name and IP address.
+1070	For a direct connection please enter the Seestar's Wi-Fi name.
+1071	The IP address {0} is already assigned to another device.
+1072	Access data saved.
+1073	Connecting the PC to the Seestar Wi-Fi …
+1074	Read from Seestar
+1075	Connect PC to this Wi-Fi now
+1076	Save
+1077	Author's own version detected – re-signed automatically.
+1078	Loading the latest stack image …
+1079	"{0}" stays off – arm protection active ({1}).
+1080	{0} setting(s) changed offline transferred to the device.
+1081	"{0}" does not exist on this model – skipped.
+1082	not connected – "{0}" will be sent at the next connection.
+1083	accessory in front of the lens
+1084	Automatic connecting (at startup and after a drop-out) and sending time/location on connect switched back on, IP address field cleared, PEM key path removed.
+1085	Send automatically on every connection (like the Seestar app)
+1086	Other accessory in front of the lens
+1087	Time and location sent to the Seestar.
+1088	Time sent – location still missing ("Location" tab).
+1090	Nothing in front of the lens any more – switch off arm protection?\nAfterwards the Seestar can park and close its arm again.
+1091	BLOCKED: "{0}" would close the arm – arm protection active ({1}). Remove the filter, dew shield or accessory and clear it in the "Focus & Filter" tab.
+1092	Filter & accessories on this device
+1089	 · accessory
+1093	from 2 °C temperature change
+1094	from 3 °C temperature change
+1095	every 60 min
+1096	every 90 min
+1097	every 120 min
+1098	every 60 min or from 2 °C
+1099	every 90 min or from 2 °C
+1100	{0} °C temperature change
+1101	{0} min since the last focus
+1102	{0}: refocusing ({1}) – stacking paused briefly.
+1103	{0}: focus adjusted, stacking continues in the same stack.
+1104	Refocus:
+1105	Change focus
+1106	Stacking is currently running on {0}.\n\n"{1}" – stacking will be paused briefly for this. How should it continue afterwards?\n\nYes = continue (same stack)\nNo = restart (new stack)\nCancel = don't change the focus
+1107	Stacking paused for the focus change.
+1108	Stacking resumed (same stack).
+1109	Stacking restarted (new stack).
+1110	Refocusing: optimum not within the narrow range – searching the full range (± 80).
+1111	Searching for Seestar on the network …
+1112	Searched via these PC addresses: {0}
+1113	Search succeeded via {0}.
+1114	TCP scan
+1115	Star correction
+1116	Remove aircraft/satellite trails
+1117	Autofocus before each target
+1118	Fine adjustment (move manually)
+1119	Clear
+1120	Copy response
+1121	Keep earlier responses
+1122	Console response copied to the clipboard.
+1123	Ignore weather (as if clear)
+1124	No location set yet – see the “Location” tab.
+1125	Calculated without weather – only useful if it clears up after all.
+1126	It won't get properly dark at your location tonight.
+1127	No clear hour is forecast for tonight – so there are no recommendations. With “Ignore weather” you can see what would be possible without clouds.
+1128	No object stays above {0}° long enough tonight – lower the minimum altitude.
+1129	Note: if the Seestar app on your phone is connected at the same time, it overwrites the location in the Seestar with the phone's position.
+1130	Connect automatically at startup
+1131	Connecting automatically to {0} known Seestar(s) …
+1132	Free storage: {0} GB
+1133	The program could not start.\n\n{0}: {1}\n\nDetails are in:\n{2}
+1134	“{0}” stays off – behind the filter the Seestar autofocus fails. Use the app autofocus (tab “Focus & Filter”).
+1135	Live preview: the arm is closed and the app won't open it because the arm guard is on. Remove the filter/dew shield first or open the arm in the “Control” tab.
+1136	“{0}”: the arm is closed.\n\nOpen the arm and start star mode so that live images arrive?
+1137	Opening the arm and starting star mode for the live preview …
+1138	Star mode was off – starting it for the live preview …
+1139	No new live image has arrived for a while. Is the Seestar in star/moon mode and still connected?
+1140	Live: waiting for a new image …
+1141	📂 Open …
+1142	Save as …
+1143	Save plan
+1144	Name for the plan:
+1145	OK
+1146	The plan is empty – there is nothing to save.
+1147	A plan “{0}” already exists. Overwrite it?
+1148	There are no saved plans yet.
+1149	Open plan
+1150	Saved plans (double-click = open):
+1151	Steps
+1152	Open
+1153	Plan “{0}” opened ({1} steps).
+1154	New, empty plan created – add targets below, then “Save”.
+1155	Start plan “{0}” now?\n\n{1} step(s) on: {2}\nStart: {3}\nAt the end: {4}\n\nThe Seestar will slew to the targets on its own.
+1156	Plan not started.
+1157	Saved sequence discarded – the Seestar is being stopped (target search/stacking of the sequence).
+1158	{0} has sunk below {1}° – capture ended, moving on to the next step.
+1159	 · ends earlier (below {0}°)
+1160	Free storage
+1161	“{0}”: the Seestar confirmed the command but still shows “{1}”. Please switch this setting in the Seestar app for now – this app shows the real state.
+1162	How to read the mosaic drawing
+1163	Each rectangle is a field (panel) that the Seestar captures one after another – the number is the order.\n\nThe narrow strips between the fields are the overlap (set on the left under “Grid”, usually 15–20 %). Two fields capture these areas so that Siril or another program can later join the images seamlessly. The small box in the middle is captured by all adjacent fields.\n\nGrid mosaic = individual fields one after another (larger, more control). Framing mosaic = the Seestar does it itself in a single stack.
+1164	Don't show again
+1165	Got it
+1166	Show tips again
+1167	Tips will be shown again when you open the respective page.
+1168	Rings: 0.5° (green) · 1° (yellow) · 2° (red). The level is very sensitive – slight tilting by hand often makes only tenths of a degree.
+1169	Set zero point
+1170	Clear zero point
+1171	Switch on live measurement first so that there is a reading.
+1172	Is the Seestar exactly level now (checked with a spirit level)?\n\nThen the app remembers the current reading as the zero point for this device.
+1173	Level zero point saved.
+1174	Level zero point cleared – the sensor value applies again.
+1175	\n(with own zero point)
+1176	“{0}” reports a location about {1} km away from your set location (usually from the Seestar app on the phone).\n\nAre you somewhere else right now? Then use this location – object lists, weather and recommendations will be calculated for the new place.
+1177	New location applied ({0} km from the old one) – everything is calculated for the new place.
+1178	The automatically determined location is about {0} km away from your set location.\n\nUse the new location?
+1179	New location ({0} km from the old one) – object lists, weather and recommendations are calculated for the new place.
+1180	in season now only (sorted)
+1181	best months
+1182	all year
+1183	{0} objects · calculating seasons …
+1184	{0} objects · {1} never rise above 10° here
+1185	Jan
+1186	Feb
+1187	Mar
+1188	Apr
+1189	May
+1190	Jun
+1191	Jul
+1192	Aug
+1193	Sep
+1194	Oct
+1195	Nov
+1196	Dec
+1197	above 10°
+1198	above 15°
+1199	above 25°
+1200	above 35°
+1201	above 40°
+1202	above 50°
+1203	5 passbands, broadband light-pollution filter
+1204	OIII 18 nm (rather visual)
+1205	Colour-fringe correction for Moon and planets (rather visual)
+1206	dims bright moonlight (rather visual)
+1207	Linear polariser
+1208	SV260 Multi-Bandpass
+1209	Omega Centauri
+1210	Large Magellanic Cloud
+1211	Small Magellanic Cloud
+1212	Tarantula Nebula
+1213	Carina Nebula
+1214	Wishing Well Cluster
+1215	Jewel Box
+1216	Southern Beehive
+1217	Pearl Cluster
+1218	Southern Pleiades
+1219	Lambda Centauri Nebula
+1220	Blue Planetary
+1221	Spiral Planetary Nebula
+1222	Peacock Spiral Galaxy
+1223	Great Peacock Globular
+1224	Omicron Velorum Cluster
+1225	S Normae Cluster
+1226	47 Tucanae
+1227	Silver Sliver Galaxy
+1228	Zero point: own value
+1229	Nothing (tracking continues)
+1230	Tracking off
+1231	Park the mount
+1232	Meridian
+1233	Frames
+1234	Frames:
+1235	Filter slot
+1236	Filter slot:
+1237	Gain:
+1238	Exposure (s):
+1239	Capture plan
+1240	Connect ASIAIR
+1241	Not connected
+1242	Meridian flip and run
+1243	Connect to the ASIAIR first.
+1244	Choose the ASIAIR app's PEM key
+1245	Please enter the ASIAIR's IP address (usually 10.0.0.1 on the Air's own Wi-Fi).
+1246	The PEM file was not found.
+1247	ASIAIR connected ({0}, {1}).
+1248	ASIAIR: connection failed – is the Air switched on and the PC on its Wi-Fi?
+1249	ASIAIR disconnected.
+1250	An ASIAIR plan is running. Disconnect anyway? The plan will then be cancelled.
+1251	ASIAIR: mount attached.
+1252	ASIAIR: the mount could not be attached.
+1253	The object is below 10° altitude right now. Slew there anyway?
+1254	ASIAIR: GoTo {0} with plate solving …
+1255	ASIAIR: {0} is centred.
+1256	ASIAIR: everything stopped.
+1257	Please enter exposure, gain, frames and filter slot as numbers.
+1258	Exposure and count must be greater than 0.
+1259	Please enter a name for the plan.
+1260	ASIAIR plan “{0}” saved.
+1261	ASIAIR plan “{0}” loaded.
+1262	An ASIAIR plan is already running.
+1263	The plan is empty – add targets from “GoTo” first.
+1264	The meridian flip needs your location – please set it on the “Location” tab.
+1265	Start ASIAIR plan with {0} targets?
+1266	Meridian flip: automatic, {0} min past the meridian.
+1267	Meridian flip: off.
+1268	Check first: cables long enough for the side change, nothing in the swing area.
+1269	Really cancel the ASIAIR plan?
+1270	Please select a target in the capture plan.
+1271	Run the flip sequence now with “{0}”?
+1272	The mount will move. Check cables and the swing area.
+1273	ASIAIR: flip test successful.
+1274	ASIAIR: flip test failed – see the log.
+1275	ASIAIR: port {0} not reachable ({1}).
+1276	ASIAIR has not answered for {0} s (port {1}).
+1277	ASIAIR closed the connection (port {0}).
+1278	ASIAIR: receive error ({0}).
+1279	ASIAIR: no login challenge received (older firmware needs no login).
+1280	ASIAIR: login successful.
+1281	ASIAIR: login rejected – is it the key from the ASIAIR app?
+1282	ASIAIR ⚡ {0} {1}
+1283	ASIAIR: time and location sent and confirmed.
+1284	ASIAIR: location was not confirmed – please check in the ASIAIR app.
+1285	ASIAIR: GoTo rejected: {0}
+1286	ASIAIR: GoTo – no response (timeout).
+1287	ASIAIR: GoTo failed ({0}, code {1}).
+1288	ASIAIR: guiding start rejected: {0}
+1289	ASIAIR: guiding is running.
+1290	ASIAIR: guiding did not start (state: {0}).
+1291	ASIAIR: dithering setting not readable – stays as set in the ASIAIR app.
+1292	ASIAIR: dithering could not be set – please set it in the ASIAIR app.
+1293	ASIAIR: {0} rejected: {1}
+1294	ASIAIR: autofocus rejected (no electronic focuser?).
+1295	ASIAIR: autofocus done.
+1296	ASIAIR: autofocus unsuccessful – continuing anyway.
+1297	ASIAIR: mirroring the calibration not possible – recalibrating.
+1298	ASIAIR plan started: {0} targets.
+1299	ASIAIR plan: unexpected error: {0}
+1300	ASIAIR plan cancelled.
+1301	ASIAIR plan finished ({0} meridian flip(s)).
+1302	{0}: does not reach the minimum altitude today – skipped.
+1303	{0}: waiting until {1} (minimum altitude {2}°).
+1304	Target {0}/{1}
+1305	Frame {0}/{1}
+1306	Altitude {0}°
+1307	Flip in {0} min
+1308	Flip now
+1309	waiting for minimum altitude
+1310	GoTo with plate solving
+1311	Meridian flip in progress
+1312	{0}: GoTo with plate solving …
+1313	{0}: GoTo not possible – next target.
+1314	{0}: not capturing without guiding – next target.
+1315	{0}: capturing without guiding.
+1316	{0}: {1} frames done.
+1317	{0}: dropped below the minimum altitude – series ended ({1}/{2}).
+1318	{0}: meridian flip failed – target cancelled.
+1319	{0}: no new frame for {1} min – restarting the series.
+1320	{0}: meridian flip starting (hour angle {1} min).
+1321	{0}: pier side {1} → {2}.
+1322	{0}: guiding not possible after the flip.
+1323	{0}: meridian flip successful – capture continues.
+1324	Start guiding
+1325	Stop guiding
+1326	Attach mount
+1327	recalibrate (safe)
+1328	mirror calibration (faster)
+1329	Browse …
+1330	Send time and location when connecting
+1331	Key from the ASIAIR app (not the Seestar key) – without it only mount and guiding work.
+1332	Automatic meridian flip
+1333	Minutes past the meridian:
+1334	let the current exposure finish
+1335	Autofocus after the flip
+1336	Use guiding
+1337	Guiding after the flip:
+1338	Dither every
+1339	frames (0 = as set in the Air)
+1340	▶ Start plan
+1341	■ Cancel plan
+1342	Test meridian flip now
+1343	Hour angle
+1344	Side
+1345	Series
+1346	on
+1347	off
+1348	An ASIAIR plan is running. Closing cancels it (the Air does not end the running series by itself).
+1349	Close anyway?
+1350	Meridian flip on (5 min past the meridian, wait for the exposure, no autofocus), guiding on and recalibrate after the flip, dither every 3 frames, do nothing at the end, 120 s / gain 252 / 60 frames. Connection and saved plans stay.
+1351	ASIAIR – please read first
+1352	This page controls a ZWO ASIAIR (Mini, Plus, Pro or a camera with a built-in Air such as the ASI585MC Air) and its mount: GoTo with plate solving, guiding, capture series and an automatic meridian flip during the plan.
+1353	Important: this feature is based on the public community documentation of the ASIAIR protocol and has not yet been tested on a real device. Please watch the flip first in the evening with “Test meridian flip now”.
+1354	For camera commands the Air needs its own key (PEM) from the ASIAIR app – not the Seestar key.
+1355	How the flip works: finish the current exposure → stop guiding → GoTo with plate solving to the same target (the mount changes sides) → restart guiding → continue the series with the remaining frames. Only for equatorial mounts (e.g. AM5 in EQ mode). Do not also enable the ASIAIR app's own autorun flip.
+1356	Tracking
+1357	Mount:
+1358	equatorial (EQ)
+1359	alt-azimuth (Alt-Az)
+1360	ASIAIR: alt-az mount – no meridian flip needed, but watch field rotation and the zenith.
+1361	Alt-az mount: no meridian flip needed.
+1362	Check first: cables long enough for a full rotation, nothing in the swing area.
+1363	{0}: above {1}° – in alt-az mode the mount turns very fast near the zenith, frames may smear.
+1364	There is no meridian flip in alt-az mode – the mount simply keeps going across the meridian.
+1365	Daytime test: no plate solving or guiding – lens cap on!
+1366	{0}: GoTo without plate solving (daytime test) …
+1367	ASIAIR: mount is on target (daytime test, no plate solving).
+1368	{0}: less than {1}° from the Sun – skipped.
+1369	The target is less than {0}° from the Sun – GoTo blocked for safety.
+1370	Daytime test: is the lens cap on? The mount will slew without plate solving.
+1371	DAYTIME TEST: is the lens cap on? The mount slews without plate solving; targets closer than {0}° to the Sun are skipped.
+1372	▶ ASIAIR: GoTo with plate solving
+1373	＋ add to ASIAIR capture plan
+1374	The object is currently hidden in the GoTo tab – please relax the filters there.
+1375	Suggestion for tonight:
+1376	Use as new ASIAIR capture plan? (The plan in the editor is replaced, saved plans stay.)
+1377	ASIAIR network
+1378	At home · directly on the Air's Wi-Fi (hotspot)
+1379	Air Wi-Fi name:
+1380	Password:
+1381	Connect PC to Air Wi-Fi
+1382	Shown in the ASIAIR app (Wi-Fi settings). The Air then usually has the address 10.0.0.1. The password is only stored encrypted on this PC.
+1383	At home · Air on your home network (station mode)
+1384	🔍 Find Air on the network
+1385	use as “At home” address
+1386	Addresses
+1387	At home:
+1388	On the road:
+1389	use and connect
+1390	Test connection
+1391	Reconnect automatically if the connection drops
+1392	On a drop the plan waits up to
+1393	On the road · remote control while the telescope is at home
+1394	Recommended (safest): the program runs on a PC AT HOME on the same network as the Air. On the road you access that PC with a remote-desktop tool (e.g. Windows Remote Desktop via VPN, Chrome Remote Desktop or AnyDesk). The plan then keeps running even if your connection drops.
+1395	Alternative: run this program on the laptop on the road with a VPN to home (e.g. the FRITZ!Box WireGuard/VPN or Tailscale with a device at home as subnet router). Then enter the same address under “On the road” as at home (Air on the home network, not in hotspot mode). If the connection drops, the Air finishes the running series itself; the program reconnects and continues.
+1396	NEVER forward ports (4400/4700) to the Air in your router: port 4400 has no password – anyone on the internet could move the mount.
+1397	Connected to “{0}”, but the Air does not answer at 10.0.0.1. Password correct?
+1398	searching … (approx. 5 s)
+1399	{0} found
+1400	No Air found – is it on the same network and switched on?
+1401	Please enter an address first.
+1402	testing …
+1403	very good
+1404	slow – works, but commands take longer
+1405	{0}: both ports reachable, response time approx. {1} ms ({2}).
+1406	{0}: only one port reachable – is this really an ASIAIR?
+1407	{0}: not reachable. At home: right Wi-Fi? On the road: VPN connected?
+1408	ASIAIR: connection lost – trying to reconnect automatically …
+1409	ASIAIR: reconnected (after {0} s).
+1410	Connection to ASIAIR lost – waiting to reconnect
+1411	ASIAIR plan ended: connection lost for {0} min. The Air finishes the running series itself; further targets will not be visited.
+1412	PC/laptop standby blocked while the ASIAIR plan runs.
+1413	Run finished – PC/laptop may go to standby again.
+1414	Automatic reconnect on, plan waits up to 15 min on a drop. Addresses, Wi-Fi name and password stay.
+1415	ASIAIR Edition
+1416	Permissions:
+1417	Device:
+1418	Port:
+1419	User:
+1420	online
+1421	Copy
+1422	Add
+1423	full control
+1424	view only
+1425	Device ID {0}
+1426	Observatory
+1427	Pairing code
+1428	Remote access: relay server not reachable ({0}).
+1429	Remote access: login to relay server rejected ({0}).
+1430	Remote access: processing error ({0}).
+1431	Remote access: home station is online.
+1432	Remote access: remote device connected ({0}…).
+1433	not allowed (home station: view only)
+1434	not allowed
+1435	Home station is not connected to the ASIAIR
+1436	no answer
+1437	unknown command
+1438	Remote access: relay server not reachable.
+1439	Remote access: home station not answering – is the program running there with remote access on? Are device ID and pairing code correct?
+1440	Remote access: no answer to {0}.
+1441	Remote access: {0} – {1}
+1442	Home station is not answering.
+1443	Plan empty or location missing at the home station.
+1444	Remote access: plan with {0} targets started remotely.
+1445	Plan started on the home station.
+1446	Remote access: plan cancelled remotely.
+1447	Cancel sent.
+1448	No plan active.
+1449	Remote access: stop from remote.
+1450	Stop sent.
+1451	Remote access via internet – no VPN, no port forwarding, no browser
+1452	This PC is at the telescope (home station)
+1453	Allow remote access to this ASIAIR
+1454	Show pairing code
+1455	Create new code
+1456	Connect from the road (remote device)
+1457	🌐 Connect (remote)
+1458	Add device …
+1459	Relay server (MQTT):
+1460	ℹ Other ways
+1461	ℹ How it works
+1462	Package missing: pip install paho-mqtt (start.bat installs it on the next start)
+1463	Both sides only connect outwards to the relay server. Everything is end-to-end encrypted (AES-256) – the server only sees unreadable data; without device ID and pairing code nobody can reach the telescope.
+1464	The default is HiveMQ's public server; for continuous use your own free HiveMQ Cloud account is more reliable (enter it identically on both PCs).
+1465	The plan always runs on the home station – if the connection drops on the road, the night still goes on. The home station (PC at the telescope) must be on, with the program running and connected to the Air.
+1466	Please enter the port as a number.
+1467	Relay server saved – applies on the next connection.
+1468	Remote access off.
+1469	Remote access to this ASIAIR switched off.
+1470	The package 'paho-mqtt' is missing for remote access.
+1471	Remote access could not start: {0}
+1472	connecting to relay server …
+1473	Remote access on (device ID {0}). The program must be running and connected to the ASIAIR for this.
+1474	Enter on the remote device under “Add device …”:
+1475	Keep the code secret – whoever knows it can control the telescope. If in doubt, “Create new code” – old remote devices must then be paired again.
+1476	Create a new pairing code? Previously paired remote devices will lose access and must be paired again.
+1477	Add remote device
+1478	Device ID:
+1479	Pairing code:
+1480	Shown at the home station under “Show pairing code”.
+1481	Device ID (8 characters) or pairing code (16 characters) incomplete.
+1482	Add a device first (device ID and pairing code of the home station).
+1483	This PC is currently connected directly to an ASIAIR. Disconnect and connect remotely instead?
+1484	Remote access: connected to “{0}”.
+1485	Remote access: waiting for “{0}” …
+1486	{0} remote device(s) connected
+1487	Relay server not reachable
+1488	Home station offline – is the program running there?
+1489	connected – but the Air is not connected at the home station
+1490	🌐 Remote access: relay server not reachable
+1491	🌐 {0}: home station offline
+1492	🌐 {0}: Air not connected at the home station
+1493	🌐 {0} · {1} (remote)
+1494	The plan runs on the home station – even if your connection drops on the road.
+1495	Start rejected.
+1496	Please run the flip test directly at the home station and be at the telescope.
+1497	Remote access disconnected.
+1498	monochrome (mono)
+1499	ASIAIR: image channel (port 4800) not reachable ({0}).
+1500	ASIAIR: image could not be fetched ({0}).
+1501	ASIAIR: image could not be read ({0}).
+1502	The preview needs the packages numpy and pillow (pip install numpy pillow).
+1503	ASIAIR – preview
+1504	Bayer pattern:
+1505	refresh after every frame
+1506	⟳ Fetch now
+1507	Live for framing/focusing – exposure (s):
+1508	▶ Start live
+1509	■ Stop live
+1510	(not while a plan is running)
+1511	No image yet – “Fetch now” or start live.
+1512	fetching image …
+1513	via remote access (reduced)
+1514	No image available – is a capture running?
+1515	Preview saved: {0}
+1516	Live framing only works directly at the home station. Via remote access you get the latest image of the capture.
+1517	No live image while a plan runs – the preview then shows every new frame of the series automatically.
+1518	Please enter the exposure as a number.
+1519	Live #{0} · {1} s · {2}
+1520	🖼 Preview
+1521	no image
+1522	Save PNG
+1523	– empty –
+1524	Recommendation for “{0}”: {1} s per frame.
+1525	Recommendation
+1526	ASIAIR filters & focus
+1527	Filters on the telescope (2")
+1528	one fixed filter (no filter wheel)
+1529	Filter wheel
+1530	Fixed filter:
+1531	Slot {0}:
+1532	{0} filters from {1} brands · Tip: empty slot → clear glass, then focus stays the same.
+1533	Recommendation for the filter
+1534	Filter:
+1535	Focuser (ZWO EAF)
+1536	📌 Remember position for this filter
+1537	Offset
+1538	Temperature
+1539	saved
+1540	Offset = difference to the reference filter (the first one saved). On a filter change in the plan the program applies the offset if no autofocus runs.
+1541	Autofocus (own focus curve)
+1542	Positions:
+1543	Backlash:
+1544	In the capture plan
+1545	Autofocus before the first target
+1546	before every target
+1547	after a filter change
+1548	otherwise apply the saved focus offset per filter
+1549	Refocus from
+1550	°C change (0 = off)
+1551	Exposure per frame: approx. {0} s · autofocus exposure: {1} s · brightness {2}/4 (1 = bright, 4 = very dark)
+1552	Data from retailers – check exact values in the datasheet.
+1553	Focus: a filter shifts focus by roughly a third of its glass thickness (2 mm glass ≈ 0.7 mm). Equally thick (parfocal) sets need little correction; narrowband may focus slightly differently due to the optics' colour – so measure and save focus once per filter.
+1554	Please focus directly at the home station – via remote access only the autofocus in the plan works.
+1555	Position: – (no focuser?)
+1556	No focuser found.
+1557	No focus position saved for this filter yet.
+1558	Delete saved focus position for “{0}”?
+1559	While a plan runs, the plan focuses itself (see “In the capture plan”).
+1560	running …
+1561	failed – see log
+1562	For Moon/planets: very short exposures (milliseconds to 1 s), better recorded as video.
+1563	Alt-az: at most approx. {0} s per frame (field rotation) – take more frames instead.
+1564	This filter is meant for mono cameras – not useful on the ASI585MC (colour).
+1565	Multi-band filters on a mono camera mix the lines – single-line filters are better for mono.
+1566	Very narrow (≤ 4 nm): with fast optics (f/2–f/4) the passband can shift – choose “high-speed” versions.
+1567	Clear glass in an empty wheel slot keeps focus the same as with a filter (same glass thickness).
+1568	Narrowband is the least sensitive to moonlight and light pollution.
+1569	Autofocus: no focuser found (ZWO EAF connected to the Air?).
+1570	Autofocus: start at {0}, {1} positions {2} apart, exposure {3} s.
+1571	Autofocus: {0} → HFR {1} ({2} stars)
+1572	Autofocus: {0} → no stars measurable
+1573	Autofocus: best value at the edge of the curve – measuring further in that direction.
+1574	Autofocus failed (too few stars measured) – focus back to the start value.
+1575	Autofocus done: position {0} (best HFR {1}).
+1576	Focus: filter change {0} → {1}, offset {2} steps → {3}.
+1577	ASIAIR: focuser not responding ({0}).
+1578	ASIAIR: focuser did not reach {0} (stands at {1}).
+1579	ASIAIR: filter wheel could not be turned to slot {0}.
+1580	{0}: temperature changed – refocusing after the current frame.
+1581	Clear glass
+1582	Colour filter R/G/B
+1583	IR pass / planets
+1584	Photometry
+1585	Moon / neutral density
+1586	Special filter
+1587	Clear glass does not change colour but keeps focus the same as an equally thick filter – ideal for the empty wheel slot.
+1588	Colour filters for mono cameras (LRGB). Not useful on a colour camera like Seestar or ASI585MC – the image only becomes single-coloured and darker.
+1589	Scientific photometry filters for mono cameras – not suitable for pretty pictures.
+1590	For Moon and planets (steadier image in turbulent air). Not suitable for nebulae and galaxies.
+1591	Only dims – for the bright Moon. Not a solar filter: never point at the Sun with it!
+1592	Special filter for a specific object (Venus, comets) – use only for that.
+1593	Red
+1594	Green
+1595	Burst capture: the Seestar only takes single frames one after another and does NOT combine them into a stacked image (no live stack). Useful for meteors/satellites or if you process the frames yourself. Leave it OFF for normal imaging – with “Save individual frames” the Seestar also saves the frames while stacking.
+1596	{0} more objects (Siril: NGC/IC, Sh2, LDN) via search
+1597	Trial version
+1598	Trial version: this is start {0} of {1} – {2} start(s) left.
+1599	The trial version has expired ({0} starts).
+1600	Thank you for testing! If you like the program:
+1601	For the full version, feel free to contact me on Facebook: profile “Bönn Ingstedt” – easiest to find by searching for “TheSkyCoder”.
