@@ -13,5 +13,5 @@
   "lang/source.txt",
   "lang/zh.txt"
  ],
- "signature": "NKhBZbvN+8tECs81O/sFv66hMpy2AmTfufja4MBOXhJZ+wKn+cd47JF+xd7uTzNEo4IR1gp6kBwbtH8GCLFHCw=="
+ "signature": "3Q4vlteb0a8uyntcXWlcVZ1cbaXepaqdMw1UCeQ0OAfzWyEdja200OAEP7XMHQAvEW6gEIALyj+dFOZvpiIDAg=="
 }

@@ -40,14 +40,12 @@ this licence for that data:
   by Mattia Verga, licensed under **CC BY-SA 4.0**. The catalogue file therefore remains under
   CC BY-SA 4.0. The extended object lists (NGC/IC, Sharpless Sh2, Lynds LDN) were compiled from the
   object lists shipped with Siril; types, magnitudes and sizes for NGC/IC come from OpenNGC.
-- **ASIAIR support**: based on the public community documentation of the ASIAIR protocol
-  ([cpius/air-control](https://github.com/cpius/air-control), MIT licence).
 - Python packages installed by `start.bat` (e.g. from PyPI) are not part of this software and are
   subject to their own licences.
 
 ## 5. Trademarks
 This software is not a product of ZWO and is not affiliated with or endorsed by ZWO.
-“ZWO”, “Seestar”, “ASIAIR” and “ASI” are names or trademarks of their respective owners.
+“ZWO” and “Seestar” are names or trademarks of their respective owners.
 
 ## 6. No warranty, limitation of liability
 The software is provided **“as is”, without warranty of any kind**. Use is at your own risk –

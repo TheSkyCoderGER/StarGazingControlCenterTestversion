@@ -399,10 +399,6 @@ The Seestar uses BLE only for waking up and for the initial Wi-Fi setup. ZWO has
 
 On Windows, Bluetooth needs Windows 10 (version 1709) or newer and a BLE-capable adapter.
 
-## ZWO ASIAIR
-
-ASIAIR control is available as a separate edition, **“ASIAIR Control Center”** (own folder, start it with its own `start.bat`). In the Seestar program the ASIAIR tabs are hidden.
-
 ## Notes
 
 - The joystick directions (0° = right, 90° = up …) follow the community convention. If they are swapped for you, let me know and I will adjust the angles.

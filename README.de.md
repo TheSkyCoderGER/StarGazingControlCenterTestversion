@@ -399,9 +399,6 @@ Das Seestar nutzt BLE nur zum Aufwecken und zur WLAN-Ersteinrichtung. ZWO hat di
 
 Unter Windows braucht Bluetooth Windows 10 (Version 1709) oder neuer und einen BLE-fähigen Adapter.
 
-## ZWO ASIAIR
-ASIAIR-Steuerung gibt es als eigene Ausgabe **„ASIAIR Control Center“** (eigener Ordner, Start mit `start.bat` dort). Im Seestar-Programm sind die ASIAIR-Tabs ausgeblendet.
-
 ## Hinweise
 
 - Die Richtungen des Joysticks (0° = rechts, 90° = hoch …) entsprechen der Community-Konvention. Falls sie bei dir vertauscht sind, sag Bescheid, dann passe ich die Winkel an.
